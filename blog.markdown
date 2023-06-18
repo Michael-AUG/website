@@ -6,7 +6,7 @@ layout: page
 title: Blog
 permalink: /blog/
 ---
-# Recent blog posts and sermons are displayed below*
+# Recent blog posts and sermons are displayed below
 
 <ul>
   {% for post in site.posts %}
