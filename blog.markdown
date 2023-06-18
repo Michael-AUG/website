@@ -15,3 +15,6 @@ permalink: /blog/
     </li>
   {% endfor %}
 </ul>
+
+![Image from UoG Handbook](media/handbook.webp)
+*Image courtesy of University of Glasgow Archives & Special Collections: Archives DC157*

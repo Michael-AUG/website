@@ -23,3 +23,6 @@ Member of the [Philosophical Society of England](http://philsoceng.uk/)
 Member of the [Church Service Society](http://www.churchservicesociety.org/)
 
 Licentiate of the [Guild of Musicians and Singers](https://www.musiciansandsingers.org.uk/)
+
+![UoG red gown](media/redgown.jpg)
+*Image courtesy of University of Glasgow Archives & Special Collections: MS Murray 593/8*
