@@ -18,3 +18,6 @@ The title of this blog comes from the New Testament book 1 Timothy, chapter 4 ve
 I do not intend this blog to be focussed solely on me, nor solely focussed on my vocation experience, although these will feature heavily. Instead it is intended to be a record of one young man's walk with God, and prove a source of inspiration to others.
 
 In presenting this website I do not pretend to claim any special insight or intellect, but pray that as God inspired Timothy so too the words of my lips may be His words to our generation.
+
+God bless,
+*Michael*

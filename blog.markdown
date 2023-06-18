@@ -17,4 +17,4 @@ permalink: /blog/
 </ul>
 
 ![Image from UoG Handbook](media/handbook.webp)
-*Image courtesy of University of Glasgow Archives & Special Collections: Archives DC157*
+<br>*Image courtesy of University of Glasgow Archives & Special Collections: Archives DC157*
