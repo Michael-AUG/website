@@ -31,6 +31,23 @@ theme: minima
 plugins:
   - jekyll-feed
 
+# Links to include in menu navigation
+links:
+  section_1:
+    - title: home
+      url: /
+      key_trigger: 1
+    - title: blogs/sermons
+      url: /blogs
+      key_trigger: 2
+    - title: about me
+      url: /about
+      key_trigger: 3
+    - title: societies
+      url: /societies
+      key_trigger: 4
+
+
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to
