@@ -3,8 +3,10 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: page
+title: Blog
+permalink: /blog/
 ---
-*Recent blog posts*
+# Recent blog posts and sermons are displayed below*
 
 <ul>
   {% for post in site.posts %}
