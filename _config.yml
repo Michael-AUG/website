@@ -23,7 +23,7 @@ email: michael@topple.scot
 description: >- # this means to ignore newlines until "baseurl:"
 The website of Michael Topple, a student and preacher living near Glasgow, Scotland.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://www.topple.scot" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://michael.topple.scot" # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: jekyllrb
 github_username:  Michael-AUG
 
