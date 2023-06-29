@@ -21,3 +21,5 @@ In presenting this website I do not pretend to claim any special insight or inte
 
 God bless,
 *Michael*
+
+![Moses at the Burning Bush](media/moses.jpg)
