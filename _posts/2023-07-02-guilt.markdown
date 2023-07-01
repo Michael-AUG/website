@@ -7,7 +7,7 @@ categories: jekyll update
 ---
 ## Sermon - Holding on to Guilt
 
-![Rubbish Barges on the Thames](/images/rubbish.jpg)
+![Rubbish Barges on the Thames](/media/rubbish.jpg)
 * © Copyright [Graham Robson](https://www.geograph.org.uk/profile/8664) and licensed for reuse under this [Creative Commons Licence](http://creativecommons.org/licenses/by-sa/2.0/).*
 
 Paul is in trouble.
