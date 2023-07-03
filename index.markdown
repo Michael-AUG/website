@@ -22,5 +22,5 @@ In presenting this website I do not pretend to claim any special insight or inte
 God bless,
 *Michael*
 
-![Moses at the Burning Bush](media/moses.jpg)
+![Moses at the Burning Bush](media/Moses.jpg)
 *Illustration by Elizabeth Wang, R-60038-CW-V2, ‘Moses and the Burning Bush’, copyright © Radiant Light 2006, www.radiantlight.org.uk*
