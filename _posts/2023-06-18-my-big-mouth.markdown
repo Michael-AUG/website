@@ -6,8 +6,8 @@ categories: jekyll update
 
 ---
 
-## Sermon - My Big Mouth
-# Preached at Rutherglen URC
+# Sermon - My Big Mouth
+## Preached at Rutherglen URC
 
 ![Jeremiah in the stocks](/media/jeremiah.png)
 
