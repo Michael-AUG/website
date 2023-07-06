@@ -1,12 +1,13 @@
 ---
 layout: post
-title:  "SERMON - My Big Mouth"
+title:  "SERMON - My Big Mouth - 18th June 2023"
 date:   2023-06-18 16:00:07 +0100
 categories: jekyll update
 
 ---
 
-# Sermon - My Big Mouth
+## Sermon - My Big Mouth
+# Preached at Rutherglen URC
 
 ![Jeremiah in the stocks](/media/jeremiah.png)
 
