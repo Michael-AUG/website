@@ -9,7 +9,7 @@ categories: jekyll update
 ## Preached at Righead and Hamilton URCs
 
 ![Rubbish Barges on the Thames](/media/rubbish.jpg)
-** © Copyright [Graham Robson](https://www.geograph.org.uk/profile/8664) and licensed for reuse under this [Creative Commons Licence](http://creativecommons.org/licenses/by-sa/2.0/).**
+<br>© Copyright [Graham Robson](https://www.geograph.org.uk/profile/8664) and licensed for reuse under this [Creative Commons Licence](http://creativecommons.org/licenses/by-sa/2.0/).
 
 Paul is in trouble.
 
