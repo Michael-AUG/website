@@ -7,6 +7,13 @@ layout: page
 
 ![UoG_Undergrad_Banner](media/banner.webp)
 
+<script src="https://www.biblegateway.com/votd/votd.write.callback.js"></script>
+<script src="https://www.biblegateway.com/votd/get/?format=json&version=KJV&callback=BG.votdWriteCallback"></script>
+<!-- alternative for no javascript -->
+<noscript>
+<iframe framespacing="0" frameborder="no" src="https://www.biblegateway.com/votd/get/?format=html&version=KJV">View Verse of the Day</iframe>
+</noscript> 
+
 Hello! My name is Michael and I live in Scotland with my wife, Jackie, hail from Essex, and study Divinity at the University of Glasgow. I was ordained an Elder in 2020 and have been a Lay Preacher since 2018, although am currently not serving as either. Jackie and I married in 2021.
 
 In my studies I have a particular interest in Reformation Theology, Church History, Presbyterian Practice, the role of the Church in 21st century Scotland and what Neurodiversity means to Christianity. My academic writing can be viewed on [my Academia page](https://glasgow.academia.edu/MichaelRJTopple).
