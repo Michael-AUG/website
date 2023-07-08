@@ -39,7 +39,30 @@ countup(2018,01,26)
 </html>
 
 <br>
-Hello! My name is Michael and I live in Scotland with my wife, Jackie, hail from Essex, and study Divinity at the University of Glasgow. I have been a preacher since 2018, and was ordained an Elder in 2020 (although as of May 2023 am not serving as an Elder). Jackie and I married in 2021.
+
+<html> 
+    <label id="lblGreetings"></label>
+
+<script>
+    var myDate = new Date();
+    var hrs = myDate.getHours();
+
+    var greet;
+
+    if (hrs < 12)
+        greet = 'Good Morning';
+    else if (hrs >= 12 && hrs <= 17)
+        greet = 'Good Afternoon';
+    else if (hrs >= 17 && hrs <= 24)
+        greet = 'Good Evening';
+
+    document.getElementById('lblGreetings').innerHTML =
+        '<b>' + greet + '!</b>';
+</script> 
+</html>
+
+
+My name is Michael and I live in Scotland with my wife, Jackie, hail from Essex, and study Divinity at the University of Glasgow. I have been a preacher since 2018, and was ordained an Elder in 2020 (although as of May 2023 am not serving as an Elder). Jackie and I married in 2021.
 
 In my studies I have a particular interest in Reformation Theology, Church History, Presbyterian Practice, the role of the Church in 21st century Scotland and what Neurodiversity means to Christianity. My academic writing can be viewed on [my Academia page](https://glasgow.academia.edu/MichaelRJTopple).
 
