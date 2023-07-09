@@ -30,7 +30,7 @@ var todaystring=montharray[todaym]+" "+todayd+", "+todayy
 var paststring=montharray[m-1]+" "+d+", "+yr
 var difference=(Math.round((Date.parse(todaystring)-Date.parse(paststring))/(24*60*60*1000))*1)
 difference+=" days"
-document.write("It\'s been "+difference+" since the I was born again")
+document.write("It\'s been "+difference+" since I was born again")
 }
 //enter the count up date using the format year/month/day
 countup(2018,01,26)
