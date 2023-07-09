@@ -1,12 +1,12 @@
 ---
 layout: post
-title:  "SERMON - The Goldilocks Gospel (Too warm, too cold, just right?) - 9th July 2023"
+title:  "SERMON - The Goldilocks Gospel? (Too warm, too cold, just right?) - 9th July 2023"
 date:   2023-07-09 11:00:07 +0100
 categories: jekyll update
 
 ---
 
-# The Goldilocks Gospel (Too warm, too cold, just right?)
+# The Goldilocks Gospel? (Too warm, too cold, just right?)
 
 ## Preached at Glenboig Christian Fellowship
 
