@@ -4,7 +4,6 @@
 
 layout: page
 ---
-#{% include https://www.topple.scot/sabbathredirect.html %}
 
 ![UoG_Undergrad_Banner](media/banner.webp)
 
