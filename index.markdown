@@ -5,6 +5,29 @@
 layout: page
 ---
 
+<html>
+<head>
+<script>
+
+<!--
+function initArray()
+{
+this.length = initArray.arguments.length;
+for (var i = 0; i < this.length; i++)
+this[i+1] = initArray.arguments[i];
+}
+
+var DOWArray = new
+initArray("Monday","Tuesday","Wednesday","Thursday","Friday","Saturday","Sunday");
+var today = new Date();
+var day = DOWArray[today.getDay()];
+if (day == "Monday") window.location = "https://www.topple.scot/sabbath"
+//-->
+
+</script>
+</head>
+</html>
+
 ![UoG_Undergrad_Banner](media/banner.webp)
 
 <script src="https://www.biblegateway.com/votd/votd.write.callback.js"></script>
