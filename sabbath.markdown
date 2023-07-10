@@ -3,7 +3,7 @@ layout: page
 permalink: /sabbath/
 ---
 
-# Today is Sunday - the Sabbath
+**Today is Sunday - the Sabbath**
 
 On Sunday, Christians particularly recall Jesus' rising from the dead. Because of this, Sunday is set aside as a day of worship and praise, rest and family time. 
 
