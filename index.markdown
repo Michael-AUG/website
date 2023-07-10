@@ -4,12 +4,6 @@
 
 layout: page
 ---
-<script>
-var date=new Date();
-if(date.getDay()==0){//Sunday being 1
-  window.location="https://www.topple.scot/sabbath"
- }
-</script>
 
 ![UoG_Undergrad_Banner](media/banner.webp)
 
