@@ -29,6 +29,6 @@ opener"></a><a href="https://av1611.com/verseclick/gobible.php?p=Neh_13.21-22" c
 58.13" class="vcVerseLink" target="_blank" rel="noopener">Isa 58:13</a>; <a href="https://av1611.com/verseclick/gobible.php?p=Matt_12.1-13" class="vcVerseLink" target="_blank" rel="noopener">Matt 12:1-13</a>.</
 p><p></p></html>
 
-
-![UoG red gown](media/sabbath.jpg)
+<br> <br>
+![Sabbath](/media/sabbath.jpg)
 <br>*Image courtesy of Crosswalk.com*
