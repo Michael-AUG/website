@@ -88,6 +88,6 @@ Even though it may sometimes make for uneasy conversations, funny looks while ou
 
 **How can I find out more?**
 
-Both through reading the Bible and through joining your local church, you can discover that Jesus transforms the lives of all those who come to Him. Here at Priesthill URC, we offer a warm welcome to anyone who wants to experience Jesus Christ in their own lives. For more information, contact one of our Elders.
+Both through reading the Bible and through joining your local church, you can discover that Jesus transforms the lives of all those who come to Him. For more information, contact a church near you, or reach out to contact me (email address below).
 
-Written by Michael RJ Topple
+Written by Michael RJ Topple - April 2021.
