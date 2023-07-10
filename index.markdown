@@ -4,7 +4,7 @@
 
 layout: page
 ---
-{% include sabbathredirect.html %}
+{% include /sabbathredirect.html %}
 
 ![UoG_Undergrad_Banner](media/banner.webp)
 
