@@ -3,6 +3,30 @@ layout: page
 title: My Beliefs
 permalink: /beliefs/
 ---
+
+<html>
+<head>
+<script>
+
+<!--
+function initArray()
+{
+this.length = initArray.arguments.length;
+for (var i = 0; i < this.length; i++)
+this[i+1] = initArray.arguments[i];
+}
+
+var DOWArray = new
+initArray("Monday","Tuesday","Wednesday","Thursday","Friday","Saturday","Sunday");
+var today = new Date();
+var day = DOWArray[today.getDay()];
+if (day == "Monday") window.location = "https://www.topple.scot/sabbath"
+//-->
+
+</script>
+</head>
+</html>
+
 # But what do I believe?
 Well, the answer to that is fairly simple - I believe that the Bible is the inspired Word of God and that we add to it or subtract from it at our peril.
 
