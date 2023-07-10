@@ -21,7 +21,7 @@ var DOWArray = new
 initArray("Monday","Tuesday","Wednesday","Thursday","Friday","Saturday","Sunday");
 var today = new Date();
 var day = DOWArray[today.getDay()];
-if (day == "Monday") window.location = "https://www.topple.scot/sabbath"
+if (day == "Sunday") window.location = "https://www.topple.scot/sabbath"
 //-->
 
 </script>
