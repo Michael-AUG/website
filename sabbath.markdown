@@ -5,6 +5,9 @@ permalink: /sabbath/
 
 **Today is Sunday - the Christian Sabbath**
 
+![Sabbath](/media/sabbath.jpg)
+<br>*Image courtesy of Crosswalk.com*
+<br>
 On Sunday, Christians particularly recall Jesus' rising from the dead. Because of this, Sunday is set aside as a day of worship and praise, rest and family time. 
 
 This website is closed on Sundays to help you to observe the Sabbath as well.
@@ -25,7 +28,3 @@ rel="noopener">Exod 20:8</a>; <a href="https://av1611.com/verseclick/gobible.php
 **Please note that if I have been preaching today, I will post my sermon on this website tomorrow. Please check back then. God bless. Michael**
 
 *If you are seeing this message and today is not Sunday, please try emptying your cache, closing your web browser, and reloading the page*
-
-<br> <br>
-![Sabbath](/media/sabbath.jpg)
-<br>*Image courtesy of Crosswalk.com*
