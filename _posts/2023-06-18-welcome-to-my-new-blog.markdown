@@ -11,3 +11,5 @@ In time I will add more sermons and blog posts. In the meantime, enjoy!
 
 Best wishes. God bless,
 *Michael*
+
+![UoF student handbook](/media/handbook.webp)
