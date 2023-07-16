@@ -6,10 +6,10 @@ categories: jekyll update
 
 ---
 
-# By Whose Authority?
+## By Whose Authority?
 
-## Preached at Wattisfield United Reformed Church
-## Reading: Luke 20. 1-8
+# Preached at Wattisfield United Reformed Church
+# Reading: Luke 20. 1-8
 
 image here
 
@@ -21,10 +21,10 @@ I do wonder whether Jesus would have made a good politician. From the outside, t
 But why? Why is this a useful political skill? Well, as we all know, often this tactic is used to avoid difficult questions, perhaps questions that may reflect badly on the interviewee, questions that will show him up or show him to have failed in some way. After all, returning to Yes Minister, we can consider this wonderful quotation from the first episode:
 
 Appleby: [to the Minister] You came up with all the questions I hoped nobody would ask.
-Hacker: Opposition's about asking awkward questions.
-Appleby: And Government is about not asking them.
-Hacker: Well, you answered mine anyway.
-Appleby: I'm glad you thought so, Minister.
+<br>Hacker: Opposition's about asking awkward questions.
+<br>Appleby: And Government is about not asking them.
+<br>Hacker: Well, you answered mine anyway.
+<br>Appleby: I'm glad you thought so, Minister.
 
 But, as we know, Jesus was no silver-tongued politician. He did not hold back in speaking the truth, even when it got Him into trouble. So we must ask ourselves why He did not answer the question in this way:
 
@@ -41,7 +41,7 @@ It seems to me that Jesus' question to the Religious Leaders was an excellent wa
 
 But it leads me to an interesting question - by whose authority was Jesus doing these things? In this sermon I would like us to consider three questions. Firstly, by whose authority was Jesus acting? Secondly, by whose authority am I acting? Thirdly, by whose authority can you act?
 
-## By whose authority was Jesus acting?
+# By whose authority was Jesus acting?
 
 To answer this question, I invite you to consider the following verse from Matthew 28 - the very end of Matthew's Gospel, where Jesus says:
 
@@ -50,7 +50,7 @@ To answer this question, I invite you to consider the following verse from Matth
 
 Here we have a seemingly clear answer to our question. All power (or authority) is given to Jesus to do these things. We can infer from this that it is God who has given Him this power, after all Jesus is God's "beloved Son, in whom I am well pleased" [Matt. 3. 17]. If the power and authority came from God, and is now in the hands of Jesus, we can say categorically that Christ was acting in His own authority - He was absolutely entitled to do this thing, to preach these messages, to heal these people. Christ needed nobody's permission, even the permission of the religious elite of the day. Christ was acting in His own Name, needing no authorisation from anyone else. We will return to this later.
 
-## By whose authority am I, as the preacher, acting?
+# By whose authority am I, as the preacher, acting?
 
 Here we come to a slightly harder question, because different people may have different opinions on this.
 
@@ -75,7 +75,7 @@ There is a certainly a similarity here to Jesus, but it is not absolute. You see
 
 While there are reasonable arguments to say I am here by authority of the Synod, or at the behest of the Eldership, I would argue that I am here not to represent the Moderator, not to appease the Eldership or the Members, but to bear a gift, entrusted to me, but destined for you, from Jesus Christ Himself. I am here as His emmisary, sent to Wattisham from Glasgow (I hope Jesus pays mileage!), to give you a message of Good News.
 
-## By whose authority can you act?
+# By whose authority can you act?
 
 I've just spent the last few minutes talking about myself, but this Great Commission does not end with me.
 
@@ -92,7 +92,7 @@ And how can this success be guaranteed? How can anyone, Jesus, me, anyone, guara
 
 So, friends, to answer my question. When (note I say when, not if!) you share the Gospel with others, whose authority do you do it in? Do you do it by authority of the URC? Do you do it by authority of the Eastern Synod? No friends, you do it by the authority of our Lord Jesus Christ Himself!
 
-## Returning to Luke
+# Returning to Luke
 
 So, to return to our Scripture, from which I have deviated: "as He taught the people in the Temple, and preached the Gospel" [Lk. 20. 1], He was questioned. 'How dare you speak in this way?' 'What do you think gives you the authority?'
 
@@ -106,7 +106,7 @@ Here we see an example of being as wise as serpents and as innocent as doves [Mt
 
 You and I, friends, may well have to be clever in how we answer similar questions. We may well be asked trick questions, set up to catch us out. There may well be times where we are asked a similar thing. I was once asked who I thought I was, when I was trying to share the Gospel with someone. 'Who do you think you are to try and convert me?', came the question. If I had said, 'I am here on Jesus' behalf, with a message from God', I don't think that would have been received well. It was the truth, but the truth is not always well received, is it? If, on the other hand, I had replied saying 'Oh me? I'm a nobody', then I suspect I'd have been equally badly received! No friends, we have to be clever with how we answer. The enemy wants nothing more than for us to be tied up in knots, unable to witness for Christ.
 
-## To conclude
+# To conclude
 
 So friends, as you go out from this place, remember that you go out as one sent by Jesus Christ Himself. You do not go in your own name, you do not go to share your own message, you go as a messenger of the Most High Jesus Christ. Yours is not the kingdom, the power and the glory, for they belong to God alone, but it is your privilege to share the most precious treasure the world has ever seen - the Gospel of Christ. 
 
