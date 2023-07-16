@@ -11,7 +11,9 @@ categories: jekyll update
 # Preached at Wattisfield United Reformed Church
 # Reading: Luke 20. 1-8
 
-image here
+![Michael preaching](/media/wattisfield.jpg)
+*Michael, mid sermon*
+<br>
 
 ### Tell us, by what authority doest Thou these things? Or who is He who gave Thee this authority?
 [Luke 20. 2]

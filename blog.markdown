@@ -41,5 +41,5 @@ if (day == "Sunday") window.location = "https://www.topple.scot/sabbath"
   {% endfor %}
 </ul>
 
-![Image from UoG Handbook](media/handbook.webp)
-<br>*Image courtesy of University of Glasgow Archives & Special Collections: Archives DC157*
+![Michael mid-sermon at Wattisfield URC](media/wattisfield.jpg)
+<br>*Michael, mid sermon, at Wattisfield United Reformed Church*
