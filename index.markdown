@@ -5,7 +5,7 @@
 layout: page
 ---
 
-[UoG_Undergrad_Banner](media/banner.webp)
+![UoG_Undergrad_Banner](media/banner.webp)
 
 <script src="https://www.biblegateway.com/votd/votd.write.callback.js"></script>
 <script src="https://www.biblegateway.com/votd/get/?format=json&version=KJV&callback=BG.votdWriteCallback"></script>
@@ -15,7 +15,7 @@ layout: page
 </noscript> 
 <br>
 <b>
-<script>
+<html><script>
 var montharray=new Array("Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec")
 function countup(yr,m,d){
 var today=new Date()
@@ -53,7 +53,7 @@ document.write("It\'s been "+difference+" since I came into Church membership")
 //enter the count up date using the format year/month/day
 countup(2023,05,26)
 </script>
-</b>
+</html></b>
 <br><br>
 <html>
     <label id="lblGreetings"></label>
