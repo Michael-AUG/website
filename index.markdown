@@ -14,8 +14,7 @@ layout: page
 <iframe framespacing="0" frameborder="no" src="https://www.biblegateway.com/votd/get/?format=html&version=KJV">View Verse of the Day</iframe>
 </noscript> 
 <br>
-<b>
-<html><script>
+<html><b><script>
 var montharray=new Array("Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec")
 function countup(yr,m,d){
 var today=new Date()
@@ -52,8 +51,8 @@ document.write("It\'s been "+difference+" since I came into Church membership")
 }
 //enter the count up date using the format year/month/day
 countup(2023,05,26)
-</script>
-</html></b>
+</script></b>
+</html>
 <br><br>
 <html>
     <label id="lblGreetings"></label>
