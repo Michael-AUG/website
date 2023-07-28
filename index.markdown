@@ -5,8 +5,6 @@
 layout: page
 ---
 
-<html>
-
 [UoG_Undergrad_Banner](media/banner.webp)
 
 <script src="https://www.biblegateway.com/votd/votd.write.callback.js"></script>
