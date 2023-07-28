@@ -30,6 +30,7 @@ if (day == "Sunday") window.location = "https://www.topple.scot/sabbath"
 
 ![UoG_Undergrad_Banner](media/banner.webp)
 
+<html>
 <script src="https://www.biblegateway.com/votd/votd.write.callback.js"></script>
 <script src="https://www.biblegateway.com/votd/get/?format=json&version=KJV&callback=BG.votdWriteCallback"></script>
 <!-- alternative for no javascript -->
@@ -37,7 +38,6 @@ if (day == "Sunday") window.location = "https://www.topple.scot/sabbath"
 <iframe framespacing="0" frameborder="no" src="https://www.biblegateway.com/votd/get/?format=html&version=KJV">View Verse of the Day</iframe>
 </noscript> 
 <br>
-<html>
 <b>
 <script>
 var montharray=new Array("Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec")
@@ -78,7 +78,7 @@ document.write("It\'s been "+difference+" since I came into Church membership")
 //enter the count up date using the format year/month/day
 countup(2023,05,26)
 </script>
-
+</html>
 </b>
 <br><br>
 <html>
