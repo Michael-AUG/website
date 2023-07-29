@@ -13,7 +13,6 @@ layout: page
 <noscript>
 <iframe framespacing="0" frameborder="no" src="https://www.biblegateway.com/votd/get/?format=html&version=KJV">View Verse of the Day</iframe>
 </noscript> 
-<br>
 
 <html><b><script>
 var montharray=new Array("Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec")
@@ -33,7 +32,7 @@ document.write("It\'s been "+difference+" since I was born again")
 //enter the count up date using the format year/month/day
 countup(2018,01,26)
 </script></b></html>
-<br><br>
+
 <html>
     <label id="lblGreetings"></label>
 
