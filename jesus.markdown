@@ -82,3 +82,8 @@ Even though it may sometimes make for uneasy conversations, funny looks while ou
 Both through reading the Bible and through joining your local church, you can discover that Jesus transforms the lives of all those who come to Him. For more information, contact a church near you, or reach out to contact me (email address below).
 
 Written by Michael RJ Topple - April 2021.
+
+ <video width="240" height="240" controls>
+  <source src="./media/SnakeCross.mp4" type="video/mp4">
+Your browser does not support the video tag.
+</video>
