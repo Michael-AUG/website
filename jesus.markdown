@@ -84,7 +84,7 @@ Both through reading the Bible and through joining your local church, you can di
 Written by Michael RJ Topple - April 2021.
 
 <html>
-<video width="400" height="400" autoplay loop muted>
+<video width="500" height="500" autoplay loop>
 <source src="/media/SnakeCross.mp4" type="video/mp4">
 Your browser does not support the video tag.
 </video>
