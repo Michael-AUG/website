@@ -3,29 +3,18 @@ layout: page
 title: Societies
 permalink: /societies/
 ---
-
-<html>
-<head>
 <script>
+function redirectToPage() {
+  const currentDate = new Date();
+  const dayOfWeek = currentDate.getDay();
 
-<!--
-function initArray()
-{
-this.length = initArray.arguments.length;
-for (var i = 0; i < this.length; i++)
-this[i+1] = initArray.arguments[i];
+  if (dayOfWeek === 2) {
+    window.location.replace('https://www.topple.scot/sabbath');
+  }
 }
 
-var DOWArray = new
-initArray("Monday","Tuesday","Wednesday","Thursday","Friday","Saturday","Sunday");
-var today = new Date();
-var day = DOWArray[today.getDay()];
-if (day == "Sunday") window.location = "https://www.topple.scot/sabbath"
-//-->
-
+window.onload = redirectToPage;
 </script>
-</head>
-</html>
 
 
 I am a...
