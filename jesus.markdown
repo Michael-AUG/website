@@ -85,7 +85,7 @@ Written by Michael RJ Topple - April 2021.
 
 <html>
 <video width="240" height="240" autoplay muted>
-<source src="~/media/SnakeCross.mp4" type="video/mp4">
+<source src="/media/SnakeCross.mp4" type="video/mp4">
 Your browser does not support the video tag.
 </video>
 </html>
