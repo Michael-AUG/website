@@ -5,6 +5,19 @@
 layout: page
 ---
 
+<script>
+function redirectToPage() {
+  const currentDate = new Date();
+  const dayOfWeek = currentDate.getDay(); // 0 = Sunday, 1 = Monday, ..., 6 = Saturday
+
+  if (dayOfWeek === 2) {
+    // Redirect to the desired page on Sundays
+    window.location.replace(https://www.topple.scot/sabbath); // Replace '/path/to/sunday-page' with the actual URL of your Sunday page
+  }
+}
+</script>
+
+
 ![UoG_Undergrad_Banner](media/banner.webp)
 
 <script src="https://www.biblegateway.com/votd/votd.write.callback.js"></script>
