@@ -9,7 +9,7 @@ function redirectToPage() {
   const currentDate = new Date();
   const dayOfWeek = currentDate.getDay();
 
-  if (dayOfWeek === 0) {
+  if (dayOfWeek === 2) {
     window.location.replace('https://www.topple.scot/sabbath');
   }
 }
