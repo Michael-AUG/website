@@ -4,17 +4,17 @@
 
 layout: page
 ---
-
 <script>
 function redirectToPage() {
   const currentDate = new Date();
-  const dayOfWeek = currentDate.getDay(); // 0 = Sunday, 1 = Monday, ..., 6 = Saturday
+  const dayOfWeek = currentDate.getDay();
 
-  if (dayOfWeek === 2) {
-    // Redirect to the desired page on Sundays
-    window.location.replace(https://www.topple.scot/sabbath); // Replace '/path/to/sunday-page' with the actual URL of your Sunday page
+  if (dayOfWeek === 0) {
+    window.location.replace(https://www.topple.scot/sabbath);
   }
 }
+
+window.onload = redirectToPage;
 </script>
 
 
