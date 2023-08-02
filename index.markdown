@@ -17,7 +17,6 @@ function redirectToPage() {
 window.onload = redirectToPage;
 </script>
 
-
 ![UoG_Undergrad_Banner](media/banner.webp)
 
 <script src="https://www.biblegateway.com/votd/votd.write.callback.js"></script>
@@ -25,9 +24,7 @@ window.onload = redirectToPage;
 <!-- alternative for no javascript -->
 <noscript>
 <iframe framespacing="0" frameborder="no" src="https://www.biblegateway.com/votd/get/?format=html&version=KJV">View Verse of the Day</iframe>
-</noscript> 
-<br>
-<br>
+</noscript><br> 
 <html>
     <label id="lblGreetings"></label>
 
