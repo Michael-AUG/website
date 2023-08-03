@@ -12,7 +12,7 @@ categories: jekyll update
 
 ![Door opening](/media/doorOpening.jpg)
 <br>*Creator: OMMB | Credit: Shutterstock / OMMB*
-<br>In writing this verse, Paul expresses both hope and an element of concern for the future. He knows that God has opened up a new and exciting ministry for him, but at the same time recognises that there may be stumbling-blocks in the way by those who are out to work against his ministry.
+<br><br>In writing this verse, Paul expresses both hope and an element of concern for the future. He knows that God has opened up a new and exciting ministry for him, but at the same time recognises that there may be stumbling-blocks in the way by those who are out to work against his ministry.
 
 Perhaps, like me, you are approaching a cross-roads in your life, as one door closes and another opens ahead of you. Perhaps, like me, you know that the new door and opportunity will be met with rejoicing in some quarters, and a less positive response from other quarters.
 
