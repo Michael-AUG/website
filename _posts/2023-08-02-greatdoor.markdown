@@ -5,9 +5,9 @@ date:   2023-08-02 23:00:07 +0100
 categories: jekyll update
 
 ---
-## A Great Door
+# A Great Door
 
-# For a great door and effectual is opened unto me, and there are many adversaries.
+*For a great door and effectual is opened unto me, and there are many adversaries.*
 *1 Corinthians 16. 9*
 
 ![Door opening](/media/doorOpening.jpg)
@@ -24,7 +24,7 @@ But take courage, friends, for if God has a plan for you (as He does for us all)
 
 In the meantime, we would do well to take Paul's advice to heart:
 
-# Watch ye, stand fast in the faith, quit you like men, be strong
+*Watch ye, stand fast in the faith, quit you like men, be strong*
 *1 Corinthians 16. 13*
 
 If you feel God is calling you to do something, then don't hesitate in stepping out, for His ways alone are perfect, and it is only in His Sovereign plan that we can find our happiness and fulfilment. 
