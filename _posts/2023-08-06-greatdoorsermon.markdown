@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "SERMON - A Great Door"
-date:   2023-08-05 23:45:07 +0100
+date:   2023-08-06 10:45:07 +0100
 categories: jekyll update
 
 ---
