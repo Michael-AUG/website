@@ -16,7 +16,7 @@ categories: jekyll update
 
 As Paul draws his first letter to Corinth to an end, he lets slip something very telling. He is every bit as human as we are!
 
-Those closest to me would tell you that I am always looking ahead, looking to the next thing, the next duty, the next job. I get it from my father who only sits still when he's ill. It is something I battle daily with as I try to live *in* the moment and enjoy what God is doing in my life, to enjoy the company of those closest to me, to enjoy God's wonderful creation. After all, as Question 1 in the Shorter Catechism states, it is "the Chief End of Man... to glorify God and enjoy Him for ever".
+Those closest to me would tell you that I am always looking ahead, looking to the next thing, the next duty, the next sermon, the next job. I get it from my father who only sits still when he's ill. It is something I battle daily with as I try to live *in* the moment and enjoy what God is doing in my life, to enjoy the company of those closest to me, to enjoy God's wonderful creation. After all, as Question 1 in the Shorter Catechism states, it is "the Chief End of Man... to glorify God and enjoy Him for ever".
 
 It is such a human thing to do, though, looking to the future. I don't believe there is a man or woman here who, at some point in their lives, has not forgotten the joys of the present to look to the uncertainty of the future. Perhaps it is because we are planning for something exciting, perhaps it is because we are scared about what lies around the corner, perhaps it is because we know what we want and are darned well going to achieve it. The reasons are many.
 
