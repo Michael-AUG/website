@@ -35,11 +35,11 @@ window.onload = redirectToPage;
     var greet;
 
     if (hrs < 12)
-        greet = 'Good Morning';
+        greet = 'Good morning or madainn mhath';
     else if (hrs >= 12 && hrs <= 17)
-        greet = 'Good Afternoon';
+        greet = 'Good afternoon or feasgar math';
     else if (hrs >= 17 && hrs <= 24)
-        greet = 'Good Evening';
+        greet = 'Good evening or feasgar math';
 
     document.getElementById('lblGreetings').innerHTML =
         '<b>' + greet + '!</b>';
