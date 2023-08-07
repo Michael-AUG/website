@@ -5,14 +5,18 @@ date:   2023-08-06 10:45:07 +0100
 categories: jekyll update
 
 ---
-# Sermon - The Great Door
-
 ## Preached at Rutherglen United Reformed Church
 
 ## Text: 1 Corinthians 16. 9
 
 ![Door opening](/media/doorOpening.jpg)
 <br>*Creator: OMMB | Credit: Shutterstock / OMMB*
+
+Listen to the sermon as preached below:
+ <audio controls>
+  <source src="/media/Rutherglen.mp3" type="audio/mpeg">
+Your browser does not support the audio element.
+</audio> 
 
 As Paul draws his first letter to Corinth to an end, he lets slip something very telling. He is every bit as human as we are!
 
