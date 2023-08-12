@@ -9,6 +9,8 @@ categories: jekyll update
 # Sermon - My Big Mouth
 ## Preached at Rutherglen URC
 
+Sadly there is no recording of this sermon available.
+
 ![Jeremiah in the stocks](/media/jeremiah.png)
 
 *Then I said, I will not make mention of Him, nor speak any more in His Name. But His Word was in my heart as a burning fire within my bones, and I was tired of forbearing, and I could not stop myself.*
