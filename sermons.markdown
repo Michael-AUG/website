@@ -20,12 +20,11 @@ window.onload = redirectToPage;
 </script>
 
 # Recent sermons are displayed below
-Most sermons have a button to let you listen to a recording of the sermon. Look for it just below the title and above the picture.
-
+As well as letting you read my sermons, you are also (in most cases) able to listen to a recording from when it was preached 'live'. Just click on the play button above where the sermon is displayed.
 <ul>
   {% for post in site.posts %}
     <li>
-      <a href="{{ post.url }}">{{ post.title }}</a>
+      <a href="{{ post.url }}">{{ post.title }} {{ post.date }}</a>
     </li>
   {% endfor %}
 </ul>
