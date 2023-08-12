@@ -8,6 +8,12 @@ categories: jekyll update
 # Sermon - Holding on to Guilt
 ## Preached at Righead and Hamilton URCs
 
+Listen to the sermon as preached at Righead URC below:
+ <audio controls>
+  <source src="/media/Guilt.mp3" type="audio/mpeg">
+Your browser does not support the audio element.
+</audio>
+
 ![Rubbish Barges on the Thames](/media/rubbish.jpg)
 <br>© Copyright [Graham Robson](https://www.geograph.org.uk/profile/8664) and licensed for reuse under this [Creative Commons Licence](http://creativecommons.org/licenses/by-sa/2.0/).
 
