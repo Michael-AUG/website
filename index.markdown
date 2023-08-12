@@ -25,10 +25,11 @@ window.onload = redirectToPage;
 <noscript>
 <iframe framespacing="0" frameborder="no" src="https://www.biblegateway.com/votd/get/?format=html&version=KJV">View Verse of the Day</iframe>
 </noscript><br> 
-<html>
-    <label id="lblGreetings"></label>
 
 ![Michael at the University of Glasgow, overlooking the Kelvingrove](/media/ToppleKelvingrove.jpg)
+
+<html>
+    <label id="lblGreetings"></label>
 
 <script>
     var myDate = new Date();
