@@ -28,6 +28,8 @@ window.onload = redirectToPage;
 <html>
     <label id="lblGreetings"></label>
 
+![Michael at the University of Glasgow, overlooking the Kelvingrove](/media/ToppleKelvingrove.jpg)
+
 <script>
     var myDate = new Date();
     var hrs = myDate.getHours();
