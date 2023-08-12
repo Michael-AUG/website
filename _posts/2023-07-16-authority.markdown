@@ -8,12 +8,18 @@ categories: jekyll update
 
 ## By Whose Authority?
 
-# Preached at Wattisfield United Reformed Church
+# Preached at Wattisfield United Reformed Church (also preached at Wimpole Road Methodist Church on 23rd July)
 # Reading: Luke 20. 1-8
 
 ![Michael preaching](/media/wattisfield.jpg)
 *Michael, mid sermon*
 <br>
+
+Listen to the sermon as preached at Wimpole Road Methodist Church below:
+ <audio controls>
+  <source src="/media/Authority.mp3" type="audio/mpeg">
+Your browser does not support the audio element.
+</audio>
 
 ### Tell us, by what authority doest Thou these things? Or who is He who gave Thee this authority?
 [Luke 20. 2]
