@@ -12,7 +12,7 @@ categories: jekyll update
 # Reading: Luke 20. 1-8
 
 ![Michael preaching](/media/wattisfield.jpg)
-*Michael, mid sermon*
+*Michael, mid sermon, at Wattisfield URC*
 <br>
 
 Listen to the sermon as preached at Wimpole Road Methodist Church below:
