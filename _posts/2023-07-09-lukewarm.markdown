@@ -1,16 +1,11 @@
 ---
 layout: post
-title:  "SERMON - The Goldilocks Gospel? (Too warm, too cold, just right?) - 9th July 2023"
+title:  "SERMON - The Goldilocks Gospel? (Too warm, too cold, just right?) - 9th July 2023 - Glenboig Christian Fellowship"
 date:   2023-07-09 11:00:07
 categories: jekyll update
 excerpt_separator: <!-- excerpt-end -->
 ---
-
-# The Goldilocks Gospel? (Too warm, too cold, just right?)
-
-## Preached at Glenboig Christian Fellowship
-
-### Reading: Revelation 3. 14-16, 22
+Reading: Revelation 3. 14-16, 22
 
 Sadly there is no recording of this sermon available.
 

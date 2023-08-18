@@ -1,15 +1,12 @@
 ---
 layout: post
-title:  "SERMON - By Whose Authority? - 16th July 2023"
+title:  "SERMON - By Whose Authority? - 16th July 2023 - Wattisfield URC"
 date:   2023-07-16 11:00:07
 categories: jekyll update
 excerpt_separator: <!-- excerpt-end -->
 ---
 
-## By Whose Authority?
-
-# Preached at Wattisfield United Reformed Church (also preached at Wimpole Road Methodist Church on 23rd July)
-# Reading: Luke 20. 1-8
+(Also preached at Wimpole Road Methodist Church on 23rd July)
 
 ![Michael preaching](/media/wattisfield.jpg)
 *Michael, mid sermon, at Wattisfield URC*

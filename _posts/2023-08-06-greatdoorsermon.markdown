@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "SERMON - A Great Door"
+title:  "SERMON - A Great Door - 6th August 2023 - Rutherglen URC"
 date:   2023-08-06 10:45:07
 categories: jekyll update
 excerpt_separator: <!-- excerpt-end -->
