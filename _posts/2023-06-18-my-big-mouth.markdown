@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "SERMON - My Big Mouth - 18th June 2023"
-date:   2023-06-18 16:00:07 +0100
+date:   2023-06-18 16:00:07
 categories: jekyll update
 
 ---
