@@ -3,6 +3,7 @@ layout: post
 title:  "SERMON - Holding On To Guilt - 2nd July 2023"
 date:   2023-07-02 11:00:07
 categories: jekyll update
+excerpt-separator: <!-- excerpt-end -->
 ---
 Listen to the sermon as preached at Righead URC below:
  <audio controls>

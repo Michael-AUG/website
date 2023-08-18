@@ -3,6 +3,7 @@ layout: post
 title:  "SERMON - By Whose Authority? - 16th July 2023"
 date:   2023-07-16 11:00:07
 categories: jekyll update
+excerpt-separator: <!-- excerpt-end -->
 ---
 
 ## By Whose Authority?
