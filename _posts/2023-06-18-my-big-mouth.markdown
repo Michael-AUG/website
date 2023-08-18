@@ -12,7 +12,6 @@ excerpt_separator: <!-- excerpt-end -->
 *Jeremiah 20.9*
 <!-- excerpt-start -->
 If there was a text that has spoken to me the most in the past few weeks, I think this would be it.<!-- excerpt-end -->
-
 In the last six months or so, I've been going through something of a barren period in my Christian faith. The first time I visited this Church, it was as a trainee Minister. We were here for a training session. The excitement of a future life (and career, not that we would use that word) in God's service was palpable within my heart - I couldn't wait to see what exciting things God had in store for me. About a year later, it was my pleasure to be assigned to Lindsey as her placement student at Hamilton and Righead for the year. Again, things were exciting, the future looked bright (to misquote the old Orange mobile phone adverts).
 
 Unfortunately the bright future was not to last, and before long I found myself no longer training to be a Minister, living hundreds of miles away from family and friends and, to top it off, my wife's Dad died shortly afterwards, adding to the misery. To be quite honest with you, the thought of continuing to preach did not fill me with great joy. The thought of continuing to do anything didn't fill me with great joy either. Preaching, something that for years had been a source of joy and purpose in my life, had lost its lustre. I worried that I'd never preach again.
