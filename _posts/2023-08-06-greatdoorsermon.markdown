@@ -18,8 +18,7 @@ Listen to the sermon as preached below:
 Your browser does not support the audio element.
 </audio> 
 <!-- excerpt-start -->
-As Paul draws his first letter to Corinth to an end, he lets slip something very telling. He is every bit as human as we are!
-<!-- excerpt-end -->
+As Paul draws his first letter to Corinth to an end, he lets slip something very telling. He is every bit as human as we are!<!-- excerpt-end -->
 
 Those closest to me would tell you that I am always looking ahead, looking to the next thing, the next duty, the next sermon, the next job. I get it from my father who only sits still when he's ill. It is something I battle daily with as I try to live *in* the moment and enjoy what God is doing in my life, to enjoy the company of those closest to me, to enjoy God's wonderful creation. After all, as Question 1 in the Shorter Catechism states, it is "the Chief End of Man... to glorify God and enjoy Him for ever".
 

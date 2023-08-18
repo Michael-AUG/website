@@ -23,9 +23,9 @@ Your browser does not support the audio element.
 
 ### Tell us, by what authority doest Thou these things? Or who is He who gave Thee this authority?
 [Luke 20. 2]
-<!-- excerpt-start -->
-I do wonder whether Jesus would have made a good politician. From the outside, this looks like a masterclass in answering the question you wish to answer, and not the one you have been asked. <!-- excerpt-end -->
- In almost Humphrey Appleby style, Jesus is asked a question, 'By what authority are You doing these things?' and turns the question round to those asking. On our way down here from Scotland, Jackie and I listened to an interview on BBC Radio Scotland where the presenter, interviewing Ian Blackford, former MP, took Mr Blackford to task for not answering the question he had been asked, but instead answering a question of his own making. It is a useful skill for a politician.
+
+<!-- excerpt-start -->I do wonder whether Jesus would have made a good politician. From the outside, this looks like a masterclass in answering the question you wish to answer, and not the one you have been asked.<!-- excerpt-end -->
+In almost Humphrey Appleby style, Jesus is asked a question, 'By what authority are You doing these things?' and turns the question round to those asking. On our way down here from Scotland, Jackie and I listened to an interview on BBC Radio Scotland where the presenter, interviewing Ian Blackford, former MP, took Mr Blackford to task for not answering the question he had been asked, but instead answering a question of his own making. It is a useful skill for a politician.
 
 But why? Why is this a useful political skill? Well, as we all know, often this tactic is used to avoid difficult questions, perhaps questions that may reflect badly on the interviewee, questions that will show him up or show him to have failed in some way. After all, returning to Yes Minister, we can consider this wonderful quotation from the first episode:
 

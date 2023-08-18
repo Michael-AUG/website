@@ -6,7 +6,7 @@ categories: jekyll update
 excerpt_separator: <!-- excerpt-end -->
 ---
 
-Welcome to my new blog page.<!-- excerpt-end --> As you'll see, my website has undergone a radical redesign as I've moved hosting platforms and now host the page myself. Everything you see has been created by me, without using the Wordpress package my old site was created on.
+<!-- excerpt-start -->Welcome to my new blog page.<!-- excerpt-end --> As you'll see, my website has undergone a radical redesign as I've moved hosting platforms and now host the page myself. Everything you see has been created by me, without using the Wordpress package my old site was created on.
 
 In time I will add more sermons and blog posts. In the meantime, enjoy!
 
