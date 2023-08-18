@@ -25,6 +25,7 @@ As well as letting you read my sermons, you are also (in most cases) able to lis
   {% for post in site.posts %}
     <li>
       <a href="{{ post.url }}">{{ post.title }}</a>
+      {{ post.excerpt }}
     </li>
   {% endfor %}
 </ul>

@@ -1,22 +1,18 @@
 ---
 layout: post
-title:  "SERMON - My Big Mouth - 18th June 2023"
+title:  "SERMON - My Big Mouth - 18th June 2023 - Rutherglen URC"
 date:   2023-06-18 16:00:07
 categories: jekyll update
-
+excerpt_separator: <!--more-->
 ---
-
-# Sermon - My Big Mouth
-## Preached at Rutherglen URC
-
-Sadly there is no recording of this sermon available.
 
 ![Jeremiah in the stocks](/media/jeremiah.png)
 
 *Then I said, I will not make mention of Him, nor speak any more in His Name. But His Word was in my heart as a burning fire within my bones, and I was tired of forbearing, and I could not stop myself.*
 *Jeremiah 20.9*
 
-If there was a text that has spoken to me the most in the past few weeks, I think this would be it.
+If there was a text that has spoken to me the most in the past few weeks, I think this would be it
+<!--more-->
 
 In the last six months or so, I've been going through something of a barren period in my Christian faith. The first time I visited this Church, it was as a trainee Minister. We were here for a training session. The excitement of a future life (and career, not that we would use that word) in God's service was palpable within my heart - I couldn't wait to see what exciting things God had in store for me. About a year later, it was my pleasure to be assigned to Lindsey as her placement student at Hamilton and Righead for the year. Again, things were exciting, the future looked bright (to misquote the old Orange mobile phone adverts).
 
