@@ -25,7 +25,8 @@ As well as letting you read my sermons, you are also (in most cases) able to lis
   {% for post in site.posts %}
     <li>
       <a href="{{ post.url }}">{{ post.title }}</a>
-      {{ post.excerpt }}
+      {% assign excerptParts = post.excerpt | split: "<!-- excerpt-start -->" %}
+    {{ excerptParts[1] | strip_newlines | truncatewords: 50 }}
     </li>
   {% endfor %}
 </ul>
