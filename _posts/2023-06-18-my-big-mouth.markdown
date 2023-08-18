@@ -3,7 +3,7 @@ layout: post
 title:  "SERMON - My Big Mouth - 18th June 2023 - Rutherglen URC"
 date:   2023-06-18 16:00:07
 categories: jekyll update
-excerpt-separator: <!-- excerpt-end -->
+excerpt_separator: <!-- excerpt-end -->
 ---
 
 ![Jeremiah in the stocks](/media/jeremiah.png)

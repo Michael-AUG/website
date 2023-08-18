@@ -3,7 +3,7 @@ layout: post
 title:  "SERMON - A Great Door"
 date:   2023-08-06 10:45:07
 categories: jekyll update
-excerpt-separator: <!-- excerpt-end -->
+excerpt_separator: <!-- excerpt-end -->
 ---
 ## Preached at Rutherglen United Reformed Church
 
