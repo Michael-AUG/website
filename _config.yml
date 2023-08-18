@@ -30,7 +30,7 @@ github_username:  Michael-AUG
 theme: minima
 plugins:
   - jekyll-feed
-
+excerpt-separator: <!-- excerpt-end -->
 # Links to include in menu navigation
 #links:
 #  section_1:

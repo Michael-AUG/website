@@ -3,7 +3,6 @@ layout: post
 title:  "SERMON - Holding On To Guilt - 2nd July 2023"
 date:   2023-07-02 11:00:07
 categories: jekyll update
-excerpt_separator: <!-- excerpt-end -->
 ---
 Listen to the sermon as preached at Righead URC below:
  <audio controls>
@@ -15,7 +14,6 @@ Your browser does not support the audio element.
 <br>© Copyright [Graham Robson](https://www.geograph.org.uk/profile/8664) and licensed for reuse under this [Creative Commons Licence](http://creativecommons.org/licenses/by-sa/2.0/).
 <!-- excerpt-start -->
 Paul is in trouble.
-
 We are nearing the end of the Acts of the Apostles. It has been a bumpy ride for those early Christians. We have seen many deaths, much imprisonment, multiple interrogations. One person in particular who would be used to interrogations is Paul.
 <!-- excerpt-end -->
 Of course, Paul did not start at the receiving end of interrogations. For the first part of his life, Paul, or Saul as he was then known, was the interrogator - meteing out 'justice' (as he saw it) to those followers of 'the way' (Acts 9. 1ff). We can read in Acts 9. 2 how Saul 'desired of [the high priest] letters to Damascus to the synagogues that, if he found any of the way,... he might bring them bound unto Jerusalem". And, of course, he was not bringing them to Jerusalem for a tea party at the Temple. He was bringing them for trial.
