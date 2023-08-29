@@ -6,6 +6,7 @@ categories: jekyll update
 excerpt_separator: <!-- excerpt-end -->
 ---
 Text: 2 Corinthians 5. 20
+“Now then we are ambassadors for Christ, as though God did beseech you by us: we pray you in Christ's stead, be ye reconciled to God"1
 
 ![Door opening](/media/ambassador.jpeg)
 <br>*The King receiving the Ukrainian Ambassador's Credentials | Credit: [The Royal Family - Twitter](https://twitter.com/RoyalFamily/status/1583081079509950466/photo/1)*
@@ -15,9 +16,11 @@ Listen to the sermon as preached below:
   <source src="/media/ambassador.mp3" type="audio/mpeg">
 Your browser does not support the audio element.
 </audio> 
-“Now then we are ambassadors for Christ, as though God did beseech you by us: we pray you in Christ's stead, be ye reconciled to God"1
+
 <!-- excerpt-start -->
-Have you ever considered what it is like to be an ambassador? <!-- excerpt-end --> A few years ago I watched a fascinating television programme on that very subject. It followed four British Ambassadors in their different roles around the world: our Ambassador in America, China, Iran and Bangkok. In the television series we saw some of the many things they get up to, from helping a British teenage girl out of an arranged marriage and providing safe passage back to the UK, to challenging a foreign nation on their extradition policy, to arranging state dinners for a visiting Royal. Their life is busy, important and varied, and it is the Ambassador’s life that I would like to examine with you this morning. 
+Have you ever considered what it is like to be an ambassador? <!-- excerpt-end --> 
+
+A few years ago I watched a fascinating television programme on that very subject. It followed four British Ambassadors in their different roles around the world: our Ambassador in America, China, Iran and Bangkok. In the television series we saw some of the many things they get up to, from helping a British teenage girl out of an arranged marriage and providing safe passage back to the UK, to challenging a foreign nation on their extradition policy, to arranging state dinners for a visiting Royal. Their life is busy, important and varied, and it is the Ambassador’s life that I would like to examine with you this evening. 
 
 i) The Dictionary defines an Ambassador as “an accredited diplomat sent by a state as its permanent representative in a foreign country”2, and indeed the word comes from the Latin word “ambactus”, meaning ‘servant’. Even for those of us not versed in international law, we all know that an ambassador’s primary role is to represent their own country in a foreign land. The Ambassador represents not just their nation, but their head of state. In our case, the Ambassador is a personal envoy and representative of the King, the American Ambassador represents the President, etc etc. It is expected, therefore, that the Ambassador be treated with the same honour and distinction as the person they represent. After all, it is in their place that the Ambassador comes. In much the same way as soldiers, when saluting military officer, are actually saluting the King's Commission, so too a nation honours an Ambassador to show honour to the Head of State they represent. 
 
