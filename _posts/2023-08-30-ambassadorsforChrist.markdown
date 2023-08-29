@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "SERMON - Ambassadors for Christ - 30th August 2023 - Dowanvale Free Church of Scotland"
-date:   2023-08-28 19:00:07
+date:   2023-08-30 19:00:07
 categories: jekyll update
 excerpt_separator: <!-- excerpt-end -->
 ---
