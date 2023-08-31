@@ -13,9 +13,43 @@ Text: 2 Corinthians 5. 20
 
 Listen to the sermon as preached below:
  <audio controls>
-  <source src="/media/ambassador.mp3" type="audio/mpeg">
+  <source src="/media/Ambassador.mp3" type="audio/mpeg">
 Your browser does not support the audio element.
 </audio> 
+
+The service began with the singing of Psalm 119. 33-40, reproduced below:
+
+     Teach me, O Lord, the perfect way
+        of thy precepts divine,
+     And to observe it to the end
+        I shall my heart incline.
+
+     Give understanding unto me,
+        so keep thy law shall I;
+     Yea, ev'n with my whole heart I shall
+        observe it carefully.
+
+     In thy law's path make me to go;
+        for I delight therein.
+     My heart unto thy testimonies,
+        and not to greed, incline.
+
+     Turn thou away my sight and eyes
+        from viewing vanity;
+     And in thy good and holy way
+        be pleased to quicken me.
+
+     Confirm to me thy gracious word,
+        which I did gladly hear,
+     Ev'n to thy servant, Lord, who is
+        devoted to thy fear.
+
+     Turn thou away my fear'd reproach;
+        for good thy judgments be.
+     Lo, for thy precepts I have long'd;
+        in thy truth quicken me.
+
+*The Scottish Psalter 1650*
 
 <!-- excerpt-start -->
 Have you ever considered what it is like to be an ambassador? <!-- excerpt-end --> 
@@ -92,6 +126,29 @@ As Christian Ambassadors, we are promised that, when our time is up or our duty 
 
 Friends, it is my hope and prayer that we will remember the high calling to which you and I have been called. I pray that we will remember that we are sent by the Lord Jesus Christ as His personal emissaries and Ambassadors in a confusing world. Remember that He promises us the gifts and tools we need - and eagerly await the day when you too are called back to the Throne, to your ‘citizenship in heaven’10. 
 
+The service ended with the singing of Psalm 137. 1-6, reproduced below:
+
+    By Babel's streams we sat and wept,
+       when Zion we thought on.
+    In midst thereof we hanged our harps
+       the willow-trees upon.
+
+    For there a song required they,
+       who did us captive bring:
+    Our spoilers called for mirth, and said,
+       A song of Zion sing.
+
+    O how the Lord's song shall we sing
+       within a foreign land?
+    If thee, Jerus'lem, I forget,
+       skill part from my right hand.
+
+    My tongue to my mouth's roof let cleave,
+       if I do thee forget, 
+    Jerusalem, and thee above
+       my chief joy do not set.
+
+*The Scottish Psalter 1650*
 
 References:
 1) 2 Corinthians 5. 20
