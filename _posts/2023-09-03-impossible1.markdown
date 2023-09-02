@@ -30,7 +30,7 @@ Let's take a look more closely at these verses. We won't manage to cover all of 
 
 To begin, Dr Ellicott explains that the instructions that we are about to cover are 'a number of general exhortations, not addressed to particular persons or classes, but to the Church at large.' (Ell. Romans 253) This is worth remembering, these instructions are not just intended for the Church leaders, ministers, preachers. They are not just intended for new converts. They are not intended solely for those Christians who are long in the tooth. They are intended for 'the Church at large'. They are as much for you and me as they were for the man or woman in the Roman Church.
 
-#9 Let love be without dissimulation. Abhor that which is evil; cleave to that which is good.
+# 9 Let love be without dissimulation. Abhor that which is evil; cleave to that which is good.
 
 It is one thing to be loving, it is another thing to love. We can all 'do' loving things, but whether we have true love beneath the surface is another question. To have love 'without dissimulation' means to have love that is unfeigned, without hypocrisy. It is a love that is loving for the sake of loving, for the sake of the good of the other person. How many of us has been loving to someone to show us in a good light? I suspect we all have. It is part of our (sinful) human nature to take something good and pure and misuse it for our own selfish gain. We know from Scripture that 'God is love; and he that dwelleth in love dwelleth in God, and God in him' (1 Jn. 1. 16), yet all too often we show love for the sake of our own selves, for the kudos that comes from being a nice guy, for the appropbation or appreciation of others, or to make ourselves feel good.
 
@@ -38,7 +38,7 @@ During last year, I was challenged in a Philosophy lecture, asked whether it is 
 
 One way we can seek to love unfeignedly, without hypocrisy, is to truly abhor that which is evil. And let's be clear here, this is not to hate evil because it makes us feel bad, or because we wouldn't want people being evil to us, I mean actually hating evil because it is the opposite of God. We know that God and evil cannot co-exist. It thereby follows that living in God necessitates not living in evil. If we truly 'Abhor that which is evil; cleave to that which is good', we will be coming close to loving without guile, selfishness, deceit or malice. 
 
-#10 Be kindly affectioned one to another with brotherly love; in honour preferring one another;
+# 10 Be kindly affectioned one to another with brotherly love; in honour preferring one another;
 
 Paul's choice of word, 'brotherly', is timely and pertinent. Those of us who are blessed with siblings know that, from time to time, they can really get on our wick! There have been times where my brother has really wound me up, and doubtless times when I have irritated him to despair as well. But there is a bond, a family bond, a bond of blood there that would be very hard, perhaps even impossible, to break. This is the sort of love that comes from a loving family. Now, of course, we acknowledge that (as a result of mankind's sin), not every family is united in love, and this is tragically sad, but in this verse Paul is instructing us to see our Christian family in the same way we should see our blood family. That's to say, united by something thicker than water, thicker even than blood. For whereas Matthew and I are united by blood, by a shared gene pool, we are united by the blood of Jesus Christ, for we are fellow sinners, saved by grace, called into a covenant relationship with Him and each other. 
 
@@ -50,7 +50,7 @@ What does it mean to prefer? Well, I prefer Cadbury's over Galaxy, I prefer appl
 
 I am reminded of a television programme I once watched, detailing the life of a monastery. In the shared, silent, meals, the monks were encouraged to be attentive to each other's needs - not simply passing the salt when asked, but actively looking out for the brother who needed the salt, or the dish of potatoes, or whatever it was. Not simply answering a fellow brother's request for help, nor reciprocating another person's kindness, but anticipating a fellow brother's need and acting on it before the request came. Can we say this is how our Church looks, friends?
 
-#11 Not slothful in business; fervent in spirit; serving the Lord;
+# 11 Not slothful in business; fervent in spirit; serving the Lord;
 
 What does sloth in business look like? Not some tree-climbing marsupial chairing a board meeting!
 
@@ -62,7 +62,7 @@ Well, I don't think that last example is quite what Paul had in mind - but there
 
 This, of course, is the very essence of serving the Lord. For in serving the Lord, we are allowing His Spirit, which came upon us 'the hour [we] first believed' (cf. Hymn: Amazing Grace), to overflow into our lives and the lives of others. For when we act, it is (as Paul was later to write) 'yet not I, but Christ liveth in me' (Gal. 2. 20).
 
-#12 Rejoicing in hope; patient in tribulation; continuing instant in prayer;
+# 12 Rejoicing in hope; patient in tribulation; continuing instant in prayer;
 
 What is the hope of the Christian? There is a conversation for an elevator, or a long bus journey. What do we hope for as Christians? Is it the easy life? Is it the warm, fuzzy feeling inside? Is it the thought of sitting on a cloud playing a harp? As Christians, our Gospel hope (and, indeed, promise) is that of everlasting life, when 'the things of earth will grow strangely dim, in the light of His glory and grace'. (Hymn: Turn your eyes upon Jesus)
 
@@ -75,17 +75,23 @@ Without doubt, this virtue was more needed in the first century Church than its 
 Allow me to quote from William Sangster:
 
 	The life of God does not depend on circumstances. When it first spread through the world, the Romans were the masters, and fearing some secret disloyalty to Rome at the heart of this new transforming life, they persecuted people who possessed it, and cast them to the lions. But those victims were the happy ones.
+
 	The harder, bitterer, more terrible sentence passed on to Christians in those days was **damnatus ad metalla** - condemned to the mines. Their sufferings there beggar description. Under the scourge they rowed their own galleys to North Africa, and then trekked through the scorching mountains to the Numidian Mines. Arrived at the mines, their chains were shortened so that never again could they stand upright. They were branded on the forehead with red-hot irons. As like as not, one eye would be gouged out, and with a lamp and mallet thrust into their hands, they were whipped underground never to return.
+
 	For company they had the scum of the earth. They worked beneath the lash of gaolers who killed for amusement. If the poor prisoners were fortunate they caught the prevalent fever and died. Yet many lived on.
+
 	Louis Bertrand has told in Sanguis Martyrum of their sufferings and triumphs. Many, it seems, wrote messages with charcoal on the smooth rock; prayers some of them, and the dear names of remembered friends.
-	But one word appears again, and again, and again. The Abbe Dimnet says it runs in long black lines, 'like a flight of swallows chasing one another towards the light': **Vita, Vita, Vita**.
+
+	But one word appears again, and again, and again. The Abbe Dimnet says it runs in long 
+black lines, 'like a flight of swallows chasing one another towards the light': **Vita, Vita, Vita**.
+
 	Life! They had it! There! When circumstances were so hard that they could have barely been harder in Belsen. Life! That life was 'life indeed'.
 
 (Taken from 'Let Me Commend', William Sangster, p30-31)
 
 If the hope in Christ was strong enough to sustain those brave, poor, followers of Christ, it should certainly be enough to sustain us in our need!
 
-#13 Distributing to the necessity of saints; given to hospitality.
+# 13 Distributing to the necessity of saints; given to hospitality.
 
 But how else can the Christian life change us? We saw earlier that, in preferring others to ourselves, we take the initiative to serve their needs. This is seen most clearly in this verse, where Paul commends the act of charity, distributing whatever they had among those in most need.
 
@@ -99,7 +105,7 @@ Let's remember the account in 1 Kings, where the prophet Elijah was in need of a
 
 It was only when, prompted by Elijah, she went and baked him the cake, that she found that neither the oil nor the meal ran out. To receive the bigger blessing, she had to be a blessing. 
 
-#14 Bless them which persecute you: bless, and curse not.
+# 14 Bless them which persecute you: bless, and curse not.
 
 In striking similarity to Our Lord Jesus' instruction in Matthew 5, here Paul instructs us to bless the very people who cause us harm. Of all the instructions he is giving, this is the one that challenges me the most. 
 
