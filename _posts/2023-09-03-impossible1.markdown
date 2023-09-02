@@ -74,18 +74,17 @@ Without doubt, this virtue was more needed in the first century Church than its 
 
 Allow me to quote from William Sangster:
 
-	The life of God does not depend on circumstances. When it first spread through the world, the Romans were the masters, and fearing some secret disloyalty to Rome at the heart of this new transforming life, they persecuted people who possessed it, and cast them to the lions. But those victims were the happy ones.
+*The life of God does not depend on circumstances. When it first spread through the world, the Romans were the masters, and fearing some secret disloyalty to Rome at the heart of this new transforming life, they persecuted people who possessed it, and cast them to the lions. But those victims were the happy ones.*
 
-	The harder, bitterer, more terrible sentence passed on to Christians in those days was **damnatus ad metalla** - condemned to the mines. Their sufferings there beggar description. Under the scourge they rowed their own galleys to North Africa, and then trekked through the scorching mountains to the Numidian Mines. Arrived at the mines, their chains were shortened so that never again could they stand upright. They were branded on the forehead with red-hot irons. As like as not, one eye would be gouged out, and with a lamp and mallet thrust into their hands, they were whipped underground never to return.
+*The harder, bitterer, more terrible sentence passed on to Christians in those days was **damnatus ad metalla** - condemned to the mines. Their sufferings there beggar description. Under the scourge they rowed their own galleys to North Africa, and then trekked through the scorching mountains to the Numidian Mines. Arrived at the mines, their chains were shortened so that never again could they stand upright. They were branded on the forehead with red-hot irons. As like as not, one eye would be gouged out, and with a lamp and mallet thrust into their hands, they were whipped underground never to return.*
 
-	For company they had the scum of the earth. They worked beneath the lash of gaolers who killed for amusement. If the poor prisoners were fortunate they caught the prevalent fever and died. Yet many lived on.
+*For company they had the scum of the earth. They worked beneath the lash of gaolers who killed for amusement. If the poor prisoners were fortunate they caught the prevalent fever and died. Yet many lived on.*
 
-	Louis Bertrand has told in Sanguis Martyrum of their sufferings and triumphs. Many, it seems, wrote messages with charcoal on the smooth rock; prayers some of them, and the dear names of remembered friends.
+*Louis Bertrand has told in Sanguis Martyrum of their sufferings and triumphs. Many, it seems, wrote messages with charcoal on the smooth rock; prayers some of them, and the dear names of remembered friends.*
 
-	But one word appears again, and again, and again. The Abbe Dimnet says it runs in long 
-black lines, 'like a flight of swallows chasing one another towards the light': **Vita, Vita, Vita**.
+*But one word appears again, and again, and again. The Abbe Dimnet says it runs in long black lines, 'like a flight of swallows chasing one another towards the light': **Vita, Vita, Vita**.*
 
-	Life! They had it! There! When circumstances were so hard that they could have barely been harder in Belsen. Life! That life was 'life indeed'.
+*Life! They had it! There! When circumstances were so hard that they could have barely been harder in Belsen. Life! That life was 'life indeed'.*
 
 (Taken from 'Let Me Commend', William Sangster, p30-31)
 
