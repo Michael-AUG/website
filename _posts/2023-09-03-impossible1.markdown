@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "SERMON - The Impossible Commandments? - 3rd September 2023 - Glenboig Christian Fellowship"
-date:   2023-09-02 10:01:07
+date:   2023-09-03 10:01:07
 categories: jekyll update
 excerpt_separator: <!-- excerpt-end -->
 ---
