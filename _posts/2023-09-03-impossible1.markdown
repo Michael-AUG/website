@@ -13,9 +13,36 @@ Reading: Romans 12. 9-21
 
 Listen to the sermon as preached below:
  <audio controls>
-  <source src="/media/impossible.mp3" type="audio/mpeg">
+  <source src="/media/impossible1.mp3" type="audio/mpeg">
 Your browser does not support the audio element.
 </audio> 
+
+The sermon began with a reading of the Metrical version of Psalm 73:
+
+    Thou, with thy counsel, while I live,
+         wilt me conduct and guide;
+      And to thy glory afterward
+         receive me to abide.
+
+    Whom have I in the heavens high
+         but thee, O Lord, alone?
+      And in the earth whom I desire
+         besides thee there is none.
+
+    My flesh and heart doth faint and fail,
+         but God doth fail me never:
+      For of my heart God is the strength
+         and portion for ever.
+
+    For, lo, they that are far from thee
+         for ever perish shall;
+      Them that a whoring from thee go
+         thou hast destroyed all.
+
+    But surely it is good for me
+         that I draw near to God:
+      In God I trust, that all thy works
+         I may declare abroad.
 
 <!-- excerpt-start -->
 When reading this morning's Scripture passage, you'd be forgiven for wondering whether there is actually any chance of us managing to fulfil Paul's instructions! <!-- excerpt-end -->  
