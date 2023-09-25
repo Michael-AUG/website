@@ -51,7 +51,7 @@ window.onload = redirectToPage;
 
 My name is Michael and I live just south of Glasgow with my wife, Jackie, hail from Essex, and study Divinity at the University of Glasgow. I have been a preacher since 2018, and have been married to Jackie since 2021.
 
-In my studies I have a particular interest in Reformation Theology, Church History, Presbyterian Practice, the role of the Church in 21st century Scotland and what Neurodiversity means to Christianity. My academic writing can be viewed on [my Academia page](https://glasgow.academia.edu/MichaelRJTopple). Alongside my studies, I am in the process of learning Gàidhlig (Scottish Gaelic).
+In my studies I have a particular interest in Reformation Theology, Church History, Presbyterian Practice, the role of the Church in 21st century Scotland and what Neurodiversity means to Christianity. My academic writing can be viewed on [my Academia page](https://glasgow.academia.edu/MichaelRJTopple). Alongside my studies, I am in the process of learning Gàidhlig (Scottish Gaelic) - *tha beagan Gàidhlig agam*.
 
 I am a Fellow or Member of various Antiquarian and Theological Societies, and in my spare time enjoy [amateur radio](https://gm5aug.topple.scot), and driving my classic and vintage cars.
 
