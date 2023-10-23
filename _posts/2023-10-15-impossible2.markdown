@@ -18,7 +18,7 @@ Your browser does not support the audio element.
 </audio> 
 
 This morning in our sermon we explored vv. 9-14 of our reading from Romans 12. In it we considered how our love should be genuine, how our relationships within the Church should be as a family, how our spirits should be constantly on the boil, ready to bubble over, how our hope should be set in the Lord Jesus, allowing us to overcome all things through Him who strengthens us (Phil. 4. 13), how our kindness and hospitality should lead us to serve others even when we ourselves are going without, and how our spirits should be spirits of blessing and not cursing. When said like that, it makes them sound almost unattainable! However, I hope we also were able to consider just how much work God puts in to helping us attain this - after all, we can only hope to achieve these things if we rest fully in the Lord and lean on His understanding (not on our own - Prov. 3. 5-6).
-<-- excerpt-start -->
+<!-- excerpt-start -->
 This evening we will continue our journey through our passage, taking the second half as our source of teaching. It is my prayer that the Lord will enable us to see that, in the second portion as much as the first, we can trust in His providential grace to enable us to achieve these things, through Him.
 <!-- excerpt-end -->
 #15 Rejoice with them that do rejoice, and weep with them that weep.
