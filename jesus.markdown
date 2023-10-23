@@ -30,7 +30,7 @@ There are some who speak of Jesus Christ as a political revolutionary, a religio
 
 The New Testament, however, teaches us that Jesus was no ordinary man, but was, in fact, God in human form. It teaches that, in His coming to earth to share in our humanity, God was at work bridging the gap between us and Him.
 
-*...in Christ God was reconciling the world to Himself, not counting their trespasses against them, and entrusting to us the message of reconciliation.*
+*"...in Christ God was reconciling the world to Himself, not counting their trespasses against them, and entrusting to us the message of reconciliation."*
 
 *– 2 Corinthians 5. 19; English Standard Version (Anglicised)*
 
