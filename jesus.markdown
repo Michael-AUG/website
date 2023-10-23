@@ -30,9 +30,9 @@ There are some who speak of Jesus Christ as a political revolutionary, a religio
 
 The New Testament, however, teaches us that Jesus was no ordinary man, but was, in fact, God in human form. It teaches that, in His coming to earth to share in our humanity, God was at work bridging the gap between us and Him.
 
-*God was in Christ, reconciling the world unto Himself, not imputing their trespasses unto them; and hath committed unto us the ministry of reconciliation.*
+*...in Christ God was reconciling the world to Himself, not counting their trespasses against them, and entrusting to us the message of reconciliation.*
 
-*– 2 Corinthians 5. 19; King James Version*
+*– 2 Corinthians 5. 19; English Standard Version (Anglicised)*
 
 In the Bible, each of the four Gospel writers (Matthew, Mark, Luke, and John) point toward God interacting with us. Until the coming of Christ, the Jewish people believed that God was afar off, and could be satisfied only with sacrifices. With Jesus arrived a new understanding of God, and a new relationship with Him. No longer was God distant and terrifying, but close and personal. Through Jesus Christ came an intimacy and peace with God, through having our sins forgiven and receiving a transformed heart and soul. Since Jesus walked the earth, countless men and women have felt their hearts and souls transformed by the power of God’s Holy Spirit, and have become agents of change and love in the world.
 
@@ -51,29 +51,29 @@ One of the most dramatic and meaningful encounters in the New Testament comes at
 
 As they walked home in the heat of the afternoon, a stranger comes alongside them. This stranger notices the sad expression on their faces and asks why they are unhappy. Amazed that He has not heard the news of Jesus’ death, they tell the stranger all they know. Eventually they come to Emmaus, and the two disciples invite the stranger into their house, still not knowing who He is. At the table, the stranger takes bread and blesses it, just as Jesus did at the Last Supper. Finally they recognise who He is, and sum up their experience by saying:
 
-*Did not our heart burn within us, while He talked with us by the way, and while He opened to us the Scriptures?*
+*"Did not our hearts burn within us while He talked to us on the road, while He opened to us the Scriptures?"*
 
-*– St Luke 24. 32; KJV*
+*– St Luke 24. 32; ESVUK*
 
 **How is this relevant today?**
 
 Today, nearly two thousand years after His death, several million people open the Bible every second to read about Jesus’ life and teachings. Around the world it is estimated that 2.4 billion people would describe themselves as Christian (nearly 1/3 of the world’s population), and day by day more people come to experience Jesus Christ’s teachings. While He was on earth, Jesus said:
 
-*I am come that they might have life, and that they might have it more abundantly.*
+*"I came that they may have life and have it abundantly."*
 
-*– St John 10. 10; KJV*
+*– St John 10. 10; ESVUK*
 
 The Gospels teach that a relationship with God is the most precious thing any of us could ever dream of, and leads to the most fulfilling life that can ever be experienced. It is important to note that Jesus never promised His followers an easy life; indeed, Jesus actually said:
 
-*If they have persecuted Me, they will also persecute you; if they have kept My saying, they will keep yours also.*
+*"If they persecuted Me, they will also persecute you. If they kept My word, they will also keep yours."*
 
-*– St John 15. 20; KJV*
+*– St John 15. 20; ESVUK*
 
 However, St Paul, one of the early followers and preachers of Jesus Christ, who helped found churches all over the world, wrote (in his letter to the church in Philippi)
 
-*I count all things but loss for the excellency of the knowledge of Christ Jesus my Lord: for whom I have suffered the loss of all things, and do count them but dung, that I may win Christ.*
+*"I count everything as loss because of the surpassing worth of knowing Christ Jesus my Lord. For His sake I have suffered the loss of all things and count them as rubbish, in order that I may gain Christ"*
 
-*– Philippians 3. 8; KJV*
+*– Philippians 3. 8; ESVUK*
 
 Even though it may sometimes make for uneasy conversations, funny looks while out and about, being teased by friends, or worse, Christians believe that knowing the purposeful hand of God in their lives, knowing His love and forgiveness, is well worth any minor sufferings we may experience. We believe that, through Jesus Christ, we find purpose and meaning in our lives, and can experience peace with God and fulfilment in Him by the power of the Holy Spirit dwelling in us. For these reasons, the story of Jesus Christ is still relevant today.
 

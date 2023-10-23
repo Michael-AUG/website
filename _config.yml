@@ -18,7 +18,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Thy strength and Thy power
+title: Your might and Your power
 email: michael@topple.scot
 description: The website of Michael Topple, a 'Wee Free', husband, student and preacher, living near Glasgow, Scotland. Also a tech nerd, radio ham, and coder. Tha beagan Gàidhlig agam!
 baseurl: "" # the subpath of your site, e.g. /blog

@@ -20,10 +20,10 @@ window.onload = redirectToPage;
 ![UoG_Undergrad_Banner](media/banner.webp)
 
 <script src="https://www.biblegateway.com/votd/votd.write.callback.js"></script>
-<script src="https://www.biblegateway.com/votd/get/?format=json&version=KJV&callback=BG.votdWriteCallback"></script>
+<script src="https://www.biblegateway.com/votd/get/?format=json&version=ESVUK&callback=BG.votdWriteCallback"></script>
 <!-- alternative for no javascript -->
 <noscript>
-<iframe framespacing="0" frameborder="no" src="https://www.biblegateway.com/votd/get/?format=html&version=KJV">View Verse of the Day</iframe>
+<iframe framespacing="0" frameborder="no" src="https://www.biblegateway.com/votd/get/?format=html&version=ESVUK">View Verse of the Day</iframe>
 </noscript><br> 
 
 ![Michael at the University of Glasgow, overlooking the Kelvingrove](/media/ToppleKelvingrove.jpg)
@@ -57,10 +57,10 @@ I am a Fellow or Member of various Antiquarian and Theological Societies, and in
 
 The title of this blog comes from the Psalms, Psalm 71 in particular. I think of this Psalm as "the preacher's Psalm" because of the Psalmist's cry to God:
 
-*O God, forsake me not; until I have shewed Thy strength unto this generation, and Thy power to every one that is to come.*
+*O God, do not forsake me, until I proclaim Your might to another generation, Your power to all those to come*
 (Psalm 71. 18)
 
-From a young age I felt God's call to ministry. Since then, I have found myself in a number of dead ends, "*in a dry and thirsty land, where no water is*" (to again quote the Psalmist - Psa. 63. 1). On each occasion, I had initially believed the Lord had called me to that place, situation and ministry, on each occasion I had thrown myself entirely into that situation, and on each occasion was proven wrong - that this was not where God wanted me. Yet these ups and downs have shown me that, when God has a plan for you (as He does for each of us), no number of wrong turns on our part will scupper His plan. It has taught me the difference between good ideas and God ideas, has shown me the importance of serious prayer and time with the Lord when seeking to discern His paths, and has also shown me that what **I think** I need may not be what **He knows** I need.
+From a young age I felt God's call to ministry. Since then, I have found myself in a number of dead ends, "*in a dry and thirsty land, where there is no water*" (to again quote the Psalmist - Psa. 63. 1). On each occasion, I had initially believed the Lord had called me to that place, situation and ministry, on each occasion I had thrown myself entirely into that situation, and on each occasion was proven wrong - that this was not where God wanted me. Yet these ups and downs have shown me that, when God has a plan for you (as He does for each of us), no number of wrong turns on our part will scupper His plan. It has taught me the difference between good ideas and God ideas, has shown me the importance of serious prayer and time with the Lord when seeking to discern His paths, and has also shown me that what **I think** I need may not be what **He knows** I need.
 
 Through all of this, though, I can say with John Newton:
 
