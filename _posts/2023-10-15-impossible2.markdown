@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "SERMON - The Impossible Commandments? - 15th October 2023 - Dumfries Free Church of Scotland"
-date:   2023-09-03 10:01:07
+date:   2023-10-15 10:01:07
 categories: jekyll update
 excerpt_separator: <!-- excerpt-end -->
 ---
