@@ -83,6 +83,7 @@ Have you ever come across those rather rare people in life who you never once ne
 But how can we hope to achieve this? Well, a big start would be to practice what we preach - and for this we need look no further than the Lord Jesus Christ for an example. It was He who told His followers to turn the other cheek, and this is exactly what He did when enduring the Roman beatings and hanging from the Roman cross. 
 
 To again return to the poem:
+
 	You are writing a gospel,
 	A chapter each day,
 	By the deeds that you do,
