@@ -3,21 +3,6 @@ layout: page
 title: Who is Jesus?
 permalink: /jesus/
 ---
-
-<script>
-function redirectToPage() {
-  const currentDate = new Date();
-  const dayOfWeek = currentDate.getDay();
-
-  if (dayOfWeek === 0) {
-    window.location.replace('https://www.topple.scot/sabbath');
-  }
-}
-
-window.onload = redirectToPage;
-</script>
-
-
 *I wrote this article when I was an Elder in a Church down in Essex, and have attempted to give a brief introduction to the Christian faith and to the person of Jesus Christ. I hope it helps you.*
 
 **Who is Jesus?**

@@ -3,20 +3,6 @@ layout: page
 title: Societies
 permalink: /societies/
 ---
-<script>
-function redirectToPage() {
-  const currentDate = new Date();
-  const dayOfWeek = currentDate.getDay();
-
-  if (dayOfWeek === 0) {
-    window.location.replace('https://www.topple.scot/sabbath');
-  }
-}
-
-window.onload = redirectToPage;
-</script>
-
-
 I am a...
 
 Fellow of the [Society of Antiquaries of Scotland](https://socantscot.org)

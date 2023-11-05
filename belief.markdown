@@ -4,20 +4,6 @@ title: My Beliefs
 permalink: /beliefs/
 ---
 
-<script>
-function redirectToPage() {
-  const currentDate = new Date();
-  const dayOfWeek = currentDate.getDay();
-
-  if (dayOfWeek === 0) {
-    window.location.replace('https://www.topple.scot/sabbath');
-  }
-}
-
-window.onload = redirectToPage;
-</script>
-
-
 # But what do I believe?
 Well, the answer to that is fairly simple - I believe that the Bible is the inspired Word of God and that we add to it or subtract from it at our peril.
 

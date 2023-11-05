@@ -4,19 +4,6 @@
 
 layout: page
 ---
-<script>
-function redirectToPage() {
-  const currentDate = new Date();
-  const dayOfWeek = currentDate.getDay();
-
-  if (dayOfWeek === 0) {
-    window.location.replace('https://www.topple.scot/sabbath');
-  }
-}
-
-window.onload = redirectToPage;
-</script>
-
 ![UoG_Undergrad_Banner](media/banner.webp)
 
 <script src="https://www.biblegateway.com/votd/votd.write.callback.js"></script>
