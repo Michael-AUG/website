@@ -22,8 +22,8 @@ window.onload = redirectToPage;
 # Recent sermons are displayed below
 As well as letting you read my sermons, you are also (in most cases) able to listen to a recording from when it was preached 'live'. Just click on the play button above where the sermon is displayed.
 
-![Michael mid-sermon at Wattisfield URC](media/wattisfield_crop.jpg)
-<br>*Michael, mid sermon, at Wattisfield United Reformed Church*
+![Michael mid-sermon at Dumfries Free Church of Scotland](media/michaelDumfries.jpg)
+<br>*Michael, mid sermon, at Dumfries Free Church of Scotland - October 2023*
 
 <ul>
   {% for post in site.posts %}
