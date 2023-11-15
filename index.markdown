@@ -13,7 +13,8 @@ layout: page
 <iframe framespacing="0" frameborder="no" src="https://www.biblegateway.com/votd/get/?format=html&version=ESVUK">View Verse of the Day</iframe>
 </noscript><br> 
 
-![Michael at the University of Glasgow, overlooking the Kelvingrove](/media/ToppleKelvingrove.jpg)
+![Michael at the top of Bealach na Bà, overlooking the Applecross Peninsula (Wester Ross, Highlands)](/media/michael.jpg)
+*Michael at the top of Bealach na Bà, overlooking the Applecross Peninsula (Wester Ross, Highlands)*
 
 <html>
     <label id="lblGreetings"></label>
