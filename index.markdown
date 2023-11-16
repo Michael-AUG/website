@@ -56,4 +56,4 @@ God bless,
 ![Moses at the Burning Bush](media/Moses.jpg)
 *Illustration by Elizabeth Wang, R-60038-CW-V2, ‘Moses and the Burning Bush’, copyright © Radiant Light 2006, www.radiantlight.org.uk*
 
-![#cleachdi - use it!](/media/cleachdi.png)
+[![#cleachdi - use it!](https://www.cleachdi.scot/)(/media/cleachdi.png)]
