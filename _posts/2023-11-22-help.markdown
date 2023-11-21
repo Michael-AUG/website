@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "REFLECTION - "I will", says Jesus, "be clean" - 22nd November 2023 - University of Glasgow Memorial Chapel"
+title:  "REFLECTION - 'I will', says Jesus, 'be clean' - 22nd November 2023 - University of Glasgow Memorial Chapel"
 date:   2023-11-21 22:55:07
 categories: jekyll update
 excerpt_separator: <!-- excerpt-end -->
