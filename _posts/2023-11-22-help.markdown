@@ -6,12 +6,18 @@ categories: jekyll update
 excerpt_separator: <!-- excerpt-end -->
 ---
 
+![The Beatles - Help!](/media/help.jpg)
+
 <!-- excerpt-start -->
 Three men recognise that they can't manage without Divine help.<!-- excerpt-end -->
 
-Sung Psalm 56. 9-13
-
 Reading - Matthew 8. 1-13
+
+Click below to listen to the sermon being preached:
+<audio controls>
+<source src="/media/help.mp3" type="audio/mpeg">
+Your browser does not support the audio element.
+</audio>
 
 # Lord, if You will, you can make me clean.
 
