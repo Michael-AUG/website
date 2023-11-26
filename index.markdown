@@ -50,6 +50,13 @@ The title of this blog comes from the Psalms, Psalm 71 in particular. I think of
 
 In these pages you can find my sermons and reflections, read more about my faith, discover more about Jesus, see my collection of communion tokens  and follow links to the various organisations I am a part of. I hope you find something of interest.
 
+I'll close with some words from the great C. S. Lewis:
+
+    “Aslan is a lion - the Lion, the great Lion." 
+    "Ooh" said Susan. "I'd thought he was a man. Is he-quite safe? I shall feel rather nervous about meeting a lion"...
+    "Safe?" said Mr Beaver ..."Who said anything about safe? 'Course he isn't safe. But he's good. He's the King, I tell you.”
+    *'The Lion, the Witch, and the Wardrobe', C. S. Lewis*
+
 God bless,
 *Michael*
 
