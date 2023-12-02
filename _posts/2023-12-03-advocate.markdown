@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "SERMON - An Advocate with the Father - 3rd December 2023 - Glenboig Christian Fellowship"
-date:   2023-11-21 22:55:07
+date:   2023-12-03 11:00:07
 categories: jekyll update
 excerpt_separator: <!-- excerpt-end -->
 ---
@@ -16,7 +16,8 @@ Your browser does not support the audio element.
 **Call to Worship:**
 Psalm 121. 1-2
 
-“But if anyone does sin, we have an advocate with the Father, Jesus Christ the righteous. He is the propitiation for our sins”.1 Thus reads one of the most encouraging promises in Scripture, the assurance that, if and when we sin, Jesus Christ will intercede with the Father on our behalf, and that “by His wounds, [we] are healed.”2
+<!-- excerpt-begin -->
+“But if anyone does sin, we have an advocate with the Father, Jesus Christ the righteous. He is the propitiation for our sins”.1 Thus reads one of the most encouraging promises in Scripture, the assurance that, if and when we sin, Jesus Christ will intercede with the Father on our behalf<!-- excerpt-end -->, and that “by His wounds, [we] are healed.”2
 
 Our reading this morning comes from the First Letter of John. This letter, believed to have been written by the Beloved Disciple who, at the Last Supper, reclined on Jesus’ breast,3 is a letter of encouragement and instruction to believers. However, in order to understand it fully, we need to engage in a bit of ‘mirror reading’, or ‘reading between the lines’.
 
