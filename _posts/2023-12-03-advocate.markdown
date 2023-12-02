@@ -11,7 +11,7 @@ Click below to listen to the sermon being preached:
 <source src="/media/help.mp3" type="audio/mpeg">
 Your browser does not support the audio element.
 </audio>
-
+<br>
 <p style="line-height: 100%; margin-bottom: 0in"><font size="5" style="font-size: 18pt">Call
 to Worship:</font></p>
 <p style="line-height: 100%; margin-bottom: 0in"><font size="5" style="font-size: 18pt">Psalm
@@ -19,8 +19,7 @@ to Worship:</font></p>
 <p style="line-height: 100%; margin-bottom: 0in"><br/>
 
 </p>
-<p align="center" style="line-height: 100%; margin-bottom: 0in"><font size="5" style="font-size: 18pt"><u><b>An
-Advocate with the Father</b></u></font></p>
+
 <p align="left" style="font-weight: normal; line-height: 100%; margin-bottom: 0in">
 <font size="5" style="font-size: 18pt"><i>	“But if anyone does sin,
 we have an advocate with the Father, Jesus Christ the righteous. He
@@ -56,10 +55,6 @@ In 2.7, he explains that he is “</span><i>writing to you no new
 commandment, but an old commandment that you had from the
 beginning</i><span style="font-style: normal">”.<a class="sdfootnoteanc" name="sdfootnote5anc" href="#sdfootnote5sym"><sup>5</sup></a>
 Again, this is nothing novel that he is writing.</span></font></p>
-<p align="left" style="font-weight: normal; line-height: 100%; margin-bottom: 0in">
-<br/>
-
-</p>
 <p align="left" style="font-style: normal; font-weight: normal; line-height: 100%; margin-bottom: 0in">
 <font size="5" style="font-size: 18pt">	But why would he need to
 write reiterating well-ken truths?</font></p>
