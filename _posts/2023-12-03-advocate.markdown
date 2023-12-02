@@ -11,506 +11,157 @@ Click below to listen to the sermon being preached:
 <source src="/media/help.mp3" type="audio/mpeg">
 Your browser does not support the audio element.
 </audio>
-<br>
-<p style="line-height: 100%; margin-bottom: 0in"><font size="5" style="font-size: 18pt">Call
-to Worship:</font></p>
-<p style="line-height: 100%; margin-bottom: 0in"><font size="5" style="font-size: 18pt">Psalm
-121. 1-2</font></p>
-<p style="line-height: 100%; margin-bottom: 0in"><br/>
 
-</p>
+﻿Glenboig Christian Fellowship
+Sunday, December 3rd 2023
 
-<p align="left" style="font-weight: normal; line-height: 100%; margin-bottom: 0in">
-<font size="5" style="font-size: 18pt"><i>	“But if anyone does sin,
-we have an advocate with the Father, Jesus Christ the righteous. He
-is the propitiation for our sins”.</i><span style="font-style: normal"><a class="sdfootnoteanc" name="sdfootnote1anc" href="#sdfootnote1sym"><sup>1</sup></a>
-Thus reads one of the most encouraging promises in Scripture, the
-assurance that, if and when we sin, Jesus Christ will intercede with
-the Father on our behalf, and that “</span><i>by His wounds, [we]
-are healed</i><span style="font-style: normal">.”<a class="sdfootnoteanc" name="sdfootnote2anc" href="#sdfootnote2sym"><sup>2</sup></a></span></font></p>
-<p align="left" style="font-weight: normal; line-height: 100%; margin-bottom: 0in">
-<font size="5" style="font-size: 18pt"><span style="font-style: normal">	Our
-reading this morning comes from the First Letter of John. This
-letter, believed to have been written by the Beloved Disciple who, at
-the Last Supper, reclined on Jesus’ breast,<a class="sdfootnoteanc" name="sdfootnote3anc" href="#sdfootnote3sym"><sup>3</sup></a>
-is a letter of encouragement and instruction to believers. However,
-in order to understand it fully, we need to engage in a bit of
-‘mirror reading’, or ‘reading between the lines’.</span></font></p>
-<p align="left" style="font-style: normal; font-weight: normal; line-height: 100%; margin-bottom: 0in">
-<font size="5" style="font-size: 18pt">	What is going on in the
-Church to which John is writing?</font></p>
-<p align="left" style="font-weight: normal; line-height: 100%; margin-bottom: 0in">
-<font size="5" style="font-size: 18pt"><span style="font-style: normal">1)	In
-1.1, John writes about the “</span><i>[The life] which was from the
-beginning, which we have heard, which we have seen with our eyes,
-which we looked upon and have touched with our hands”.</i><span style="font-style: normal"><a class="sdfootnoteanc" name="sdfootnote4anc" href="#sdfootnote4sym"><sup>4</sup></a>
-This instruction which he is sending to the church is nothing new.
-They have already heard the Good News of Jesus Christ, indeed some of
-them may even have encountered Jesus as He walked the earth. Here
-John is setting the tone – ‘You already know all this, but I am
-just going to go through it with you again’.</span></font></p>
-<p align="left" style="font-weight: normal; line-height: 100%; margin-bottom: 0in">
-<font size="5" style="font-size: 18pt"><span style="font-style: normal">2)
-In 2.7, he explains that he is “</span><i>writing to you no new
-commandment, but an old commandment that you had from the
-beginning</i><span style="font-style: normal">”.<a class="sdfootnoteanc" name="sdfootnote5anc" href="#sdfootnote5sym"><sup>5</sup></a>
-Again, this is nothing novel that he is writing.</span></font></p>
-<p align="left" style="font-style: normal; font-weight: normal; line-height: 100%; margin-bottom: 0in">
-<font size="5" style="font-size: 18pt">	But why would he need to
-write reiterating well-ken truths?</font></p>
-<p align="left" style="font-weight: normal; line-height: 100%; margin-bottom: 0in">
-<font size="5" style="font-size: 18pt"><span style="font-style: normal">	We
-can find our answer further on in chapter 2: “</span><i>They went
-out from us, but they were not of us; for if they had been of us,
-they would have continued with us. But they went out, that it might
-become plain that they all are not of us.</i><span style="font-style: normal">”,<a class="sdfootnoteanc" name="sdfootnote6anc" href="#sdfootnote6sym"><sup>6</sup></a>
-and “</span><i>I write to you, not because you do not know the
-truth, but because you know it”</i><span style="font-style: normal">.<a class="sdfootnoteanc" name="sdfootnote7anc" href="#sdfootnote7sym"><sup>7</sup></a>
-What is clear is that people, perhaps even believers, perhaps even
-church leaders, have walked away from the faith of Jesus Christ and,
-in so doing, have led others astray.</span></font></p>
-<p align="left" style="font-weight: normal; line-height: 100%; margin-bottom: 0in">
-<font size="5" style="font-size: 18pt"><span style="font-style: normal">	John
-continues: “</span><i>I write these things to you about those who
-are trying to deceive you”.</i><span style="font-style: normal"><a class="sdfootnoteanc" name="sdfootnote8anc" href="#sdfootnote8sym"><sup>8</sup></a>
-The believers in this place have not just wandered astray, but appear
-to have been deliberately led astray. The relevance of this will
-become clear as we proceed through. But this is a letter calling the
-scattered sheep back into the fold, and helping them identify wolves
-within their midst.</span></font></p>
-<p align="left" style="font-style: normal; font-weight: normal; line-height: 100%; margin-bottom: 0in">
-<font size="5" style="font-size: 18pt">	So, having considered what is
-going on in the place that John is writing to, let’s consider what
-he is actually sending them in these six verses. Why is he taking the
-trouble to write?</font></p>
-<p align="left" style="font-weight: normal; line-height: 100%; margin-bottom: 0in">
-<font size="5" style="font-size: 18pt"><span style="font-style: normal">	We
-find a mixture of encouragement and instruction: “</span><i>I am
-writing these things to you so that you may not sin”</i><span style="font-style: normal"><a class="sdfootnoteanc" name="sdfootnote9anc" href="#sdfootnote9sym"><sup>9</sup></a>
-- the instructional element – and </span><i>“But if anyone does
-sin, we have an advocate with the Father, Jesus Christ the righteous.
-He is the propitiation for our sins”</i><span style="font-style: normal"><a class="sdfootnoteanc" name="sdfootnote10anc" href="#sdfootnote10sym"><sup>10</sup></a>
-- the encouraging element.  </span></font>
-</p>
-<p align="left" style="font-weight: normal; line-height: 100%; margin-bottom: 0in">
-<font size="5" style="font-size: 18pt"><span style="font-style: normal">	There,
-in the first verse of our reading, we have our answer to what he was
-sending. So perhaps I needn’t say any more!</span></font></p>
-<p align="left" style="font-style: normal; font-weight: normal; line-height: 100%; margin-bottom: 0in">
-<font size="5" style="font-size: 18pt">	I believe, in order to
-understand the passage fully, we need to grapple with two key
-theological terms. These are terms that don’t tend to be used in
-everyday speech, but are essential if we are to understand the
-reading.</font></p>
-<p align="left" style="font-style: normal; font-weight: normal; line-height: 100%; margin-bottom: 0in">
-<font size="5" style="font-size: 18pt">	There are some who do not
-think we should use special theological language because it makes
-Christianity inaccessible to those outwith. While I can see this line
-of argument, sometimes the vernacular or language we employ in our
-everyday lives is just not up to adequately explaining what we read
-in our Bibles. Sometimes we need the language of Scripture to fully
-expound these truths.</font></p>
-<p align="left" style="font-weight: normal; line-height: 100%; margin-bottom: 0in">
-<font size="5" style="font-size: 18pt"><span style="font-style: normal">	So,
-our first theological word: </span><i>advocate</i><span style="font-style: normal">.
-The likelihood is that you have at least heard, if not used, this
-word before. In our Scottish legal system we have </span><i>advocates</i><span style="font-style: normal">.
-</span></font>
-</p>
-<p align="left" style="font-weight: normal; line-height: 100%; margin-bottom: 0in">
-<font size="5" style="font-size: 18pt"><span style="font-style: normal">	In
-Scotland there are two very senior Law officers, the Lord Advocate
-and the Solicitor General. These two ladies are “the principal
-legal advisers to the Scottish Government”,<a class="sdfootnoteanc" name="sdfootnote11anc" href="#sdfootnote11sym"><sup>11</sup></a>
-offering advice and support in all legal matters. Meanwhile, at a
-much lower level, up and down our nation, every day </span><i>advocates</i><span style="font-style: normal">
-stand up in our court houses, cross examining witnesses and
-defendants and either working for the defence or the prosecution –
-fulfilling similar roles to English barristers.</span></font></p>
-<p align="left" style="font-weight: normal; line-height: 100%; margin-bottom: 0in">
-<font size="5" style="font-size: 18pt"><span style="font-style: normal">	The
-dictionary describes an advocate as “a person who upholds or
-defends a cause or cause of action”,<a class="sdfootnoteanc" name="sdfootnote12anc" href="#sdfootnote12sym"><sup>12</sup></a>
-and this makes sense given what we know of the legal advocate’s
-job. However, what about the jump to the theological?</span></font></p>
-<p align="left" style="font-weight: normal; line-height: 100%; margin-bottom: 0in">
-<font size="5" style="font-size: 18pt"><span style="font-style: normal">	John
-writes that “</span><i>we have an advocate with the Father</i><span style="font-style: normal">”.<a class="sdfootnoteanc" name="sdfootnote13anc" href="#sdfootnote13sym"><sup>13</sup></a>
-If we were to apply the legal image I outlined a moment ago here, we
-can perhaps see what I am alluding to. You see, God has righteous
-laws, unalterable rules with which He rules the world and sets
-humanity its boundaries. These laws are not there to work as a
-straight-jacket, but are there to protect us. However, time and time
-again we break these rules, we sin against Him and challenge  His law
-of love. </span></font>
-</p>
-<p align="left" style="font-weight: normal; line-height: 100%; margin-bottom: 0in">
-<font size="5" style="font-size: 18pt"><span style="font-style: normal">	If
-God was to challenge us on these infractions of His law, as we are
-promised at the Day of Judgement, we would be found guilty on all
-counts. As we can read in Romans, “</span><i>all have sinned and
-fall short of the glory of God”.</i><span style="font-style: normal"><a class="sdfootnoteanc" name="sdfootnote14anc" href="#sdfootnote14sym"><sup>14</sup></a>
-None of us would pass the test, all would fail. And, as we can read
-throughout the New Testament, the only just punishment for such a
-transgression of God’s law is hell – for God and sin cannot
-co-exist – 1 Corinthians makes this very clear “</span><i>the
-unrighteous will not inherit the kingdom of God</i><span style="font-style: normal">”.<a class="sdfootnoteanc" name="sdfootnote15anc" href="#sdfootnote15sym"><sup>15</sup></a></span></font></p>
-<p align="left" style="font-weight: normal; line-height: 100%; margin-bottom: 0in">
-<font size="5" style="font-size: 18pt"><span style="font-style: normal">	However,
-as John explains to us, all is not lost. Thanks to His incredible
-grace, God has provided the answer to this problem. Jesus stands as
-our advocate. “</span><i>He pleads our case with the Righteous
-Judge. We may imagine the conversation going something like this:
-“Father, I know this one has sinned and violated our commands. He
-is guilty as charged. However, you have said that my sacrifice is
-sufficient payment for the debt he owes. My righteousness was applied
-to his account when he trusted in me for salvation and forgiveness. I
-have paid the price, so he can be pronounced ‘Not guilty.’ There
-is no debt left for him to pay””.</i><span style="font-style: normal"><a class="sdfootnoteanc" name="sdfootnote16anc" href="#sdfootnote16sym"><sup>16</sup></a></span></font></p>
-<p align="left" style="font-weight: normal; line-height: 100%; margin-bottom: 0in">
-<font size="5" style="font-size: 18pt"><span style="font-style: normal">	Those
-of you unfortunate enough to have experienced the legal system will
-know that, in order to receive legal assistance, you have to ask for
-it. You have to approach someone and ask for their help; and this is
-no different for Jesus. In order for Him to work in our hearts and
-become our advocate, we need to ask Him into our lives. Once we do
-this, Jesus is ready to plead our cause – as the hymn goes, “</span><i>For
-lo, between our sins and their reward, we set the passion of Thy Son
-our Lord”</i><span style="font-style: normal">.<a class="sdfootnoteanc" name="sdfootnote17anc" href="#sdfootnote17sym"><sup>17</sup></a></span></font></p>
-<p align="left" style="font-weight: normal; line-height: 100%; margin-bottom: 0in">
-<font size="5" style="font-size: 18pt"><span style="font-style: normal">	So,
-Jesus is our mediator and advocate, ready so stand for us at the day
-of Judgement. We know that Jesus said “</span><i>I came that they
-may have life and have it abundantly”</i><span style="font-style: normal"><a class="sdfootnoteanc" name="sdfootnote18anc" href="#sdfootnote18sym"><sup>18</sup></a>
-- but even with Jesus as our advocate, how do we get from guilty to
-not guilty? For this, we need to consider our second theological word
-– Jesus is “</span><i>the propitiation for our sins</i><span style="font-style: normal">”.<a class="sdfootnoteanc" name="sdfootnote19anc" href="#sdfootnote19sym"><sup>19</sup></a></span></font></p>
-<p align="left" style="font-weight: normal; line-height: 100%; margin-bottom: 0in">
-<font size="5" style="font-size: 18pt"><span style="font-style: normal">	Put
-simply, the word propitiation means ‘satisfaction’. “It means
-that Christ, in His perfect life and atoning, substitutionary death,
-that He satisfied the wrath of God against our sin and against us. It
-wasn't that He simply satisfied or assuaged God's wrath against sin;
-He assuaged God's wrath against us. ”<a class="sdfootnoteanc" name="sdfootnote20anc" href="#sdfootnote20sym"><sup>20</sup></a></span></font></p>
-<p align="left" style="font-style: normal; font-weight: normal; line-height: 100%; margin-bottom: 0in">
-<font size="5" style="font-size: 18pt">	We see this in the
-Westminster Confession where, in Chapter VIII, we can read:</font></p>
-<p align="left" style="font-weight: normal; line-height: 100%; margin-bottom: 0in">
-<font size="5" style="font-size: 18pt"><span style="font-style: normal">	</span><i>The
-Lord Jesus, by His perfect obedience and sacrifice of 	Himself, which
-he through the eternal Spirit once offered up 	unto God, hath fully
-satisfied the justice of His Father; and 	purchased not only
-reconciliation, but an everlasting 	inheritance in the kingdom of
-Heaven, for all those whom the 	Father hath given unto Him.<a class="sdfootnoteanc" name="sdfootnote21anc" href="#sdfootnote21sym"><sup>21</sup></a></i></font></p>
-<p align="left" style="font-style: normal; font-weight: normal; line-height: 100%; margin-bottom: 0in">
-<font size="5" style="font-size: 18pt">	A way of understanding
-Christ’s act of propitiation is to imagine a judge. Before him
-stands a case of some nature, and the defendant is found guilty. The
-punishment on the statute books, in this case is a fine, and so the
-judge is bound to issue the fine – that is what the law demands of
-him. If he decided not to issue the fine,  it would make a mockery of
-the law, and he is not prepared to do that. However, the judge has
-compassion on the person. Because the judge is graceful and merciful,
-he doesn’t want to sentence the man to a fine that he knows he’ll
-not be able to cope with. So he does something amazing – he issues
-the fine, as the law demands, but then gets out his chequebook and
-writes a cheque to settle the debt. Therefore the law is satisfied –
-the fine is levied – but the defendant is not saddled with a debt
-he could never hope to pay.</font></p>
-<p align="left" style="font-style: normal; font-weight: normal; line-height: 100%; margin-bottom: 0in">
-<font size="5" style="font-size: 18pt">	In Jesus’ death on the
-cross, He suffered the punishment that we all deserved. Don’t
-forget, Christ lived a perfect life. He never put a foot wrong and
-kept the Law to the letter. In fact, we can read that Christ came not
-“<i>to abolish [the Law and the Prophets], but to fulfil them</i>”.<a class="sdfootnoteanc" name="sdfootnote22anc" href="#sdfootnote22sym"><sup>22</sup></a>
-Jesus did not deserve to die and suffer the way He did. He didn’t
-deserve to endure God’s wrath. But, because of God’s immense love
-for mankind, He sacrificed Himself (for remember that the Father and
-the Son are One) to wipe our slates clean. </font>
-</p>
-<p align="left" style="font-style: normal; font-weight: normal; line-height: 100%; margin-bottom: 0in">
-<font size="5" style="font-size: 18pt">	On the day of Judgement, He
-will say to God Almighty those words I’ve already shared, “<i>My
-righteousness was applied to his account when he trusted in me for
-salvation and forgiveness. I have paid the price, so he can be
-pronounced ‘Not guilty.’ There is no debt left for him to pay”.<a class="sdfootnoteanc" name="sdfootnote23anc" href="#sdfootnote23sym"><sup>23</sup></a></i></font></p>
-<p align="left" style="font-style: normal; font-weight: normal; line-height: 100%; margin-bottom: 0in">
-<font size="5" style="font-size: 18pt"><i>	</i><b>Our reading,
-therefore, gives us the answer to the problem of our sin, and how it
-divides us from God.</b> Until Jesus came, there was no hope, for the
-great chasm between mankind and God was so great that nobody would
-ever have been able to cross it. In Jesus’ death, He became our
-propitiation, bridging the chasm and drawing us back into God’s
-realm.</font></p>
-<p align="left" style="font-style: normal; font-weight: normal; line-height: 100%; margin-bottom: 0in">
-<font size="5" style="font-size: 18pt">	But the reading does more
-than explain this (as if this wasn’t enough!) For John goes on to
-offer us two yardsticks.</font></p>
-<p align="left" style="font-style: normal; font-weight: normal; line-height: 100%; margin-bottom: 0in">
-<font size="5" style="font-size: 18pt">	The first yardstick is for us
-to use introspectively. We can find this yardstick in vv3 and 6. “<i>And
-by this we know that we have come to know Him, if we keep His
-commandments… whoever says he abides in Him ought to walk in the
-same way in which He walked”.</i><a class="sdfootnoteanc" name="sdfootnote24anc" href="#sdfootnote24sym"><sup>24</sup></a></font></p>
-<p align="left" style="font-style: normal; font-weight: normal; line-height: 100%; margin-bottom: 0in">
-<font size="5" style="font-size: 18pt">	These verses help us identify
-where we are in our faith walk. While it is important, essential
-even, to remember that it is not by our works that we get to heaven
-(as I’ve explained, it is all thanks to Jesus in His twin roles as
-advocate and propitiation), it is also important we consider our
-response to Jesus’ sacrifice on the cross. The Letter of James
-explains this well. Here James deals with the question of whether we
-need to show works if it is our faith in God’s grace that saves us.
-He says that “<i>faith apart from works is useless”</i>,<a class="sdfootnoteanc" name="sdfootnote25anc" href="#sdfootnote25sym"><sup>25</sup></a>
-that it is a sure sign of a dry, straw-like religious observance to
-see people trusting in God’s grace but not outworking Jesus’
-example in their lives. After all, we should ask ourselves, ‘If
-Jesus has done all of this for me, is there anything I am being
-prompted to change for Him?’ - not <b>for</b> our salvation, but as
-a grateful response <b>to</b> it!</font></p>
-<p align="left" style="font-style: normal; font-weight: normal; line-height: 100%; margin-bottom: 0in">
-<font size="5" style="font-size: 18pt">	So too, returning to 1 John,
-we have the instruction “<i>whoever says he abides in [Jesus] ought
-to walk in the same way in which He walked”.<a class="sdfootnoteanc" name="sdfootnote26anc" href="#sdfootnote26sym"><sup>26</sup></a>
-</i>If we identify with Jesus, we should keep His rules. A little
-like, if we belong to an organisation and wish to enjoy its benefits,
-we should observe the organisation’s rules. We don’t do this to
-get the benefits, but out of respect to the organisation. So too, we
-don’t walk in Jesus’ way to get something out of Him, but out of
-respect and thanks for all that He has done for us.</font></p>
-<p align="left" style="font-style: normal; font-weight: normal; line-height: 100%; margin-bottom: 0in">
-<font size="5" style="font-size: 18pt">	The second yardstick is to
-help us clearly identify other people, and work out their walk with
-God. As I mentioned at the beginning, the people to whom John was
-writing had been led away by false leaders. Their experience is not
-unique – across the world, Sunday by Sunday, there are false
-leaders standing up in some churches who are leading people away from
-Christ. This is a problem as much today as it was 2,000 years ago.</font></p>
-<p align="left" style="font-style: normal; font-weight: normal; line-height: 100%; margin-bottom: 0in">
-<font size="5" style="font-size: 18pt">	So, what can we do? Well,
-says John, “<i>Whoever says, ‘I know Him’, but does not keep
-His commandments is a liar.”</i><a class="sdfootnoteanc" name="sdfootnote27anc" href="#sdfootnote27sym"><sup>27</sup></a>
-The same criteria by which we judge our own faith can be used to
-identify false leaders, wolves in sheep’s clothing. We can look at
-the actions of other people within the Church and determine whether
-they are keeping God’s laws. And, if they aren’t, we can be
-fairly certain that either they have been led astray (and need
-shepherding back in to the fold), or they are (to quote John), a liar
-and shouldn’t be followed.</font></p>
-<p align="left" style="font-style: normal; font-weight: normal; line-height: 100%; margin-bottom: 0in">
-<font size="5" style="font-size: 18pt">	Now, of course, it is
-important for us to remember that the sinful human nature being as it
-is, it is always tempting to judge other people based on their
-actions. It is important, as ever, to take circumstances into
-account. An otherwise upright Christian who takes a stumble, or makes
-a mistake, is not the kind of person that John calls a liar. We are
-no better than they are – for they have made a mistake in just the
-same way we so frequently do. However, for example, the Church leader
-who acts or lives in a way utterly contrary to the Bible, it is this
-kind of person that John has set his sights on. They are the ones we
-should watch out for.</font></p>
-<p align="left" style="font-style: normal; font-weight: normal; line-height: 100%; margin-bottom: 0in">
-<font size="5" style="font-size: 18pt">	<b>So what can we take from
-our Scripture reading today</b>? What can we apply to our lives to
-shape our Christian walk?</font></p>
-<p align="left" style="font-style: normal; font-weight: normal; line-height: 100%; margin-bottom: 0in">
-<font size="5" style="font-size: 18pt">	We can remember that,
-considering v4, there is an inferred expectation that we will keep
-Jesus’ commandments. As I’ve said, we do not observe Jesus’
-commands because we want to get into heaven or experience His favour,
-but <b>because</b> He has already done so much for us that we want to
-please Him and give Him the glory.</font></p>
-<p align="left" style="font-style: normal; font-weight: normal; line-height: 100%; margin-bottom: 0in">
-<font size="5" style="font-size: 18pt">	Furthermore, as we saw in v6,
-there is an inferred expectation that we abide in Him. We all know
-the old hymn, <i>Abide with me<a class="sdfootnoteanc" name="sdfootnote28anc" href="#sdfootnote28sym"><sup>28</sup></a></i>
-– this isn’t that. We aren’t asking Jesus to stay with us, as
-the hymn is. It isn’t even Jesus asking us to stay with Him. Rather
-to abide <b>in</b> Jesus means to rely on Him, to live through Him,
-and allow Him to live <b>in</b> us. It means to see the world as He
-does, to have compassion as He does. Additionally, as we’ll
-consider in a moment, to abide in Jesus, to “<i>dwell[s] in the
-shelter of the Most High… [and] abide in the shadow of the
-Almighty</i>”,<a class="sdfootnoteanc" name="sdfootnote29anc" href="#sdfootnote29sym"><sup>29</sup></a>
-is all we can hope to do when comes the Day of Judgement.</font></p>
-<p align="left" style="font-style: normal; font-weight: normal; line-height: 100%; margin-bottom: 0in">
-<font size="5" style="font-size: 18pt">	A question that it is
-important to consider at this point can be found in v3 – “<i>And
-by this we know that we have come to know Him, if we keep His
-commandments”</i>.<a class="sdfootnoteanc" name="sdfootnote30anc" href="#sdfootnote30sym"><sup>30</sup></a>
-Are we to read from this that, if we fail to keep His commandments,
-we are not Christians? One theologian, explaining this, writes that,</font></p>
-<p align="left" style="font-style: normal; font-weight: normal; line-height: 100%; margin-bottom: 0in">
-<font size="5" style="font-size: 18pt">	<i>In the Greek world, [John]
-was faced with people who saw 	God as an intellectual exercise and
-who could say, ‘I know 	God’  without being conscious of any
-ethical obligation 	whatever. In the Greek world he was faced with
-people who 	had an emotional experience and who could say, ‘I am in
-	God and God is in me’, and who did not see God in terms of
-	commandments at all.</i></font></p>
-<p align="left" style="font-style: normal; font-weight: normal; line-height: 100%; margin-bottom: 0in">
-<font size="5" style="font-size: 18pt"><i>	John is determined to lay
-it down quite unmistakably and 	without compromise that the only way
-in which we can show 	that we know God is by obedience to Him, and
-the only way 	we can show that we have union with Christ is by
-imitation of 	Him. Christianity is the religion which offers the
-greatest 	privilege and brings with it the greatest obligation.
-	Intellectual effort and emotional experience are not neglected 	–
-far from it – but they must combine to issue in moral 	action.<a class="sdfootnoteanc" name="sdfootnote31anc" href="#sdfootnote31sym"><sup>31</sup></a></i></font></p>
-<p align="left" style="font-style: normal; font-weight: normal; line-height: 100%; margin-bottom: 0in">
-<font size="5" style="font-size: 18pt"><i>	</i>As with so many
-things, friends, what is at issue here is not what we do, but our
-motives behind them. You and I are Christians, not because we turn up
-at Church Sunday by Sunday; not because we say our prayers or because
-we feed the hungry. We are Christians because we have opened our
-hearts to Jesus Christ, and because God determined to reveal Himself
-to us before the foundation of the world. While I am not condoning
-sin for one moment, the occasional slip-up on our part is not going
-to call that into question – because God can see far past the oft
-idiotic or misguided actions we take, and see into our hearts. We
-remain children of God when we slip up. Indeed, the authors of the
-Westminster Confession wrote at length on <i>The Perseverance of the
-Saints –</i> the theological concept explaining why, even when we
-sin, we don’t fall away from the state of grace that Christ gives
-us - in chapter 17 of the <i>Confession</i>:</font></p>
-<p style="line-height: 100%; margin-bottom: 0in"><font size="5" style="font-size: 18pt"><span style="font-style: normal"><span style="font-weight: normal">	</span></span><i>This
-perseverance of the saints depends, not upon their own 	free will,
-but upon the immutability of the decree of election, 	flowing from
-the free and unchangeable love of God the 	Father; upon the efficacy
-of the merit and intercession of 	Jesus Christ; the abiding of the
-Spirit and of the seed of God 	within them; and the nature of the
-covenant of grace: from 	all which ariseth also the certainty and
-infallibility thereof.<a class="sdfootnoteanc" name="sdfootnote32anc" href="#sdfootnote32sym"><sup>32</sup></a></i></font></p>
-<p style="line-height: 100%; margin-bottom: 0in"><font size="5" style="font-size: 18pt"><i>	</i><span style="font-style: normal">Put
-simply, if we believe that we are saved by God’s grace, as part of
-His sovereign will, it is ludicrous for us to believe that we are
-able to wriggle free of His grasp! Our salvation is all on Him, and
-our failings don’t come into it!</span></font></p>
-<p style="line-height: 100%; margin-bottom: 0in"><font size="5" style="font-size: 18pt"><span style="font-style: normal">	Lastly,
-and perhaps the most important takeaway message of all, it is
-important that we remember the role of an advocate and see the
-relevance in our lives. In a courtroom it is the advocate that speaks
-and, apart from when under questioning, we as the defendant remain
-silent. Indeed, if we try to speak out of place, the Judge is well
-within his rights to cry, ‘Silence in court’! Just as the
-defendant in court depends on his advocate representing him, we
-depend all the more on Jesus as our mediator and advocate in heaven,
-representing us to the Father Almighty. We depend not on our own
-skill or goodness, our own performance in the dock, our own
-achievements or faith, but upon His unblemished record and unbroken
-success rate.</span></font></p>
-<p style="line-height: 100%; margin-bottom: 0in"><font size="5" style="font-size: 18pt"><span style="font-style: normal">	Friends,
-let us this day recognise the supreme importance of Jesus as our
-advocate and representative – our representative in the courtroom
-advocate when comes the Day of Judgement, and our representative on
-the cross of Calvary, where He bled and died for our sins and the
-sins of the world, offering Himself as the propitiation for our sins,
-that we may be fully clothed in Him and washed clean in His blood. </span></font>
-</p>
-<p style="line-height: 100%; margin-bottom: 0in"><font size="5" style="font-size: 18pt"><span style="font-style: normal">	</span><i><span style="font-weight: normal">“But
-if anyone does sin, we have an advocate with the Father, Jesus Christ
-the righteous. He is the propitiation for our sins”.</span></i><span style="font-style: normal"><span style="font-weight: normal"><a class="sdfootnoteanc" name="sdfootnote33anc" href="#sdfootnote33sym"><sup>33</sup></a></span></span></font></p>
-<div id="sdfootnote1"><p class="sdfootnote"><a class="sdfootnotesym" name="sdfootnote1sym" href="#sdfootnote1anc">1</a>1
-	John 2. 1b</p>
-</div>
-<div id="sdfootnote2"><p class="sdfootnote"><a class="sdfootnotesym" name="sdfootnote2sym" href="#sdfootnote2anc">2</a>1
-	Peter 2. 24</p>
-</div>
-<div id="sdfootnote3"><p class="sdfootnote"><a class="sdfootnotesym" name="sdfootnote3sym" href="#sdfootnote3anc">3</a>John
-	13. 23</p>
-</div>
-<div id="sdfootnote4"><p class="sdfootnote"><a class="sdfootnotesym" name="sdfootnote4sym" href="#sdfootnote4anc">4</a>1
-	John 1. 1</p>
-</div>
-<div id="sdfootnote5"><p class="sdfootnote"><a class="sdfootnotesym" name="sdfootnote5sym" href="#sdfootnote5anc">5</a>1
-	John 2. 7</p>
-</div>
-<div id="sdfootnote6"><p class="sdfootnote"><a class="sdfootnotesym" name="sdfootnote6sym" href="#sdfootnote6anc">6</a>1
-	John 2. 19</p>
-</div>
-<div id="sdfootnote7"><p class="sdfootnote"><a class="sdfootnotesym" name="sdfootnote7sym" href="#sdfootnote7anc">7</a>1
-	John 2. 21</p>
-</div>
-<div id="sdfootnote8"><p class="sdfootnote"><a class="sdfootnotesym" name="sdfootnote8sym" href="#sdfootnote8anc">8</a>1
-	John 2. 26</p>
-</div>
-<div id="sdfootnote9"><p class="sdfootnote"><a class="sdfootnotesym" name="sdfootnote9sym" href="#sdfootnote9anc">9</a>1
-	John 2. 1</p>
-</div>
-<div id="sdfootnote10"><p class="sdfootnote"><a class="sdfootnotesym" name="sdfootnote10sym" href="#sdfootnote10anc">10</a>1
-	John 2. 1b</p>
-</div>
-<div id="sdfootnote11"><p class="sdfootnote"><a class="sdfootnotesym" name="sdfootnote11sym" href="#sdfootnote11anc">11</a><a href="https://www.gov.scot/about/who-runs-government/cabinet-and-ministers/">https://www.gov.scot/about/who-runs-government/cabinet-and-ministers/</a>
-		</p>
-</div>
-<div id="sdfootnote12"><p class="sdfootnote"><a class="sdfootnotesym" name="sdfootnote12sym" href="#sdfootnote12anc">12</a>Collins
-	English Dictionary</p>
-</div>
-<div id="sdfootnote13"><p class="sdfootnote"><a class="sdfootnotesym" name="sdfootnote13sym" href="#sdfootnote13anc">13</a>1
-	John 2. 1</p>
-</div>
-<div id="sdfootnote14"><p class="sdfootnote"><a class="sdfootnotesym" name="sdfootnote14sym" href="#sdfootnote14anc">14</a>Romans
-	3. 23</p>
-</div>
-<div id="sdfootnote15"><p class="sdfootnote"><a class="sdfootnotesym" name="sdfootnote15sym" href="#sdfootnote15anc">15</a>1
-	Corinthians 6. 9</p>
-</div>
-<div id="sdfootnote16"><p class="sdfootnote"><a class="sdfootnotesym" name="sdfootnote16sym" href="#sdfootnote16anc">16</a><a href="https://www.gotquestions.org/Jesus-Advocate.html">https://www.gotquestions.org/Jesus-Advocate.html</a>
-		</p>
-</div>
-<div id="sdfootnote17"><p class="sdfootnote"><a class="sdfootnotesym" name="sdfootnote17sym" href="#sdfootnote17anc">17</a>Hymn
-	– And now, O Father, mindful of the love; William Bright.</p>
-</div>
-<div id="sdfootnote18"><p class="sdfootnote"><a class="sdfootnotesym" name="sdfootnote18sym" href="#sdfootnote18anc">18</a>John
-	10. 10</p>
-</div>
-<div id="sdfootnote19"><p class="sdfootnote"><a class="sdfootnotesym" name="sdfootnote19sym" href="#sdfootnote19anc">19</a>1
-	John 2. 2</p>
-</div>
-<div id="sdfootnote20"><p class="sdfootnote"><a class="sdfootnotesym" name="sdfootnote20sym" href="#sdfootnote20anc">20</a><a href="https://www.ligonier.org/podcasts/ask-ligonier/what-is-propitiation">https://www.ligonier.org/podcasts/ask-ligonier/what-is-propitiation</a>
-		</p>
-</div>
-<div id="sdfootnote21"><p class="sdfootnote"><a class="sdfootnotesym" name="sdfootnote21sym" href="#sdfootnote21anc">21</a>Westminster
-	Confession of Faith, chapter VII, section V</p>
-</div>
-<div id="sdfootnote22"><p class="sdfootnote"><a class="sdfootnotesym" name="sdfootnote22sym" href="#sdfootnote22anc">22</a>Matthew
-	5. 17</p>
-</div>
-<div id="sdfootnote23"><p class="sdfootnote"><a class="sdfootnotesym" name="sdfootnote23sym" href="#sdfootnote23anc">23</a><a href="https://www.gotquestions.org/Jesus-Advocate.html">https://www.gotquestions.org/Jesus-Advocate.html</a>
-		</p>
-</div>
-<div id="sdfootnote24"><p class="sdfootnote"><a class="sdfootnotesym" name="sdfootnote24sym" href="#sdfootnote24anc">24</a>1
-	John 2. 3, 6</p>
-</div>
-<div id="sdfootnote25"><p class="sdfootnote"><a class="sdfootnotesym" name="sdfootnote25sym" href="#sdfootnote25anc">25</a>James
-	2. 20</p>
-</div>
-<div id="sdfootnote26"><p class="sdfootnote"><a class="sdfootnotesym" name="sdfootnote26sym" href="#sdfootnote26anc">26</a>1
-	John 2. 6</p>
-</div>
-<div id="sdfootnote27"><p class="sdfootnote"><a class="sdfootnotesym" name="sdfootnote27sym" href="#sdfootnote27anc">27</a>1
-	John 2. 4</p>
-</div>
-<div id="sdfootnote28"><p class="sdfootnote"><a class="sdfootnotesym" name="sdfootnote28sym" href="#sdfootnote28anc">28</a>Abide
-	with me, fast falls the eventide; Henry Francis Lyte.</p>
-</div>
-<div id="sdfootnote29"><p class="sdfootnote"><a class="sdfootnotesym" name="sdfootnote29sym" href="#sdfootnote29anc">29</a>Psalm
-	91. 1</p>
-</div>
-<div id="sdfootnote30"><p class="sdfootnote"><a class="sdfootnotesym" name="sdfootnote30sym" href="#sdfootnote30anc">30</a>1
-	John 2. 3</p>
-</div>
-<div id="sdfootnote31"><p class="sdfootnote"><a class="sdfootnotesym" name="sdfootnote31sym" href="#sdfootnote31anc">31</a>‘The
-	Letters of John and Jude’, <i>The Daily Study Bible (Revised
-	Edition)</i><span style="font-style: normal">, William Barclay,
-	1958, Edinburgh, p. 43.</span></p>
-</div>
-<div id="sdfootnote32"><p class="sdfootnote"><a class="sdfootnotesym" name="sdfootnote32sym" href="#sdfootnote32anc">32</a>The
-	Westminster Confession of Faith (1647), Ch. 17 Of the Perseverance
-	of the Saints.</p>
-</div>
-<div id="sdfootnote33"><p class="sdfootnote"><a class="sdfootnotesym" name="sdfootnote33sym" href="#sdfootnote33anc">33</a>1
-	John 2. 1b</p>
-</div>
-</body>
-</html>
+Call to Worship:
+Psalm 121. 1-2
+
+An Advocate with the Father
+
+“But if anyone does sin, we have an advocate with the Father, Jesus Christ the righteous. He is the propitiation for our sins”.1 Thus reads one of the most encouraging promises in Scripture, the assurance that, if and when we sin, Jesus Christ will intercede with the Father on our behalf, and that “by His wounds, [we] are healed.”2
+
+Our reading this morning comes from the First Letter of John. This letter, believed to have been written by the Beloved Disciple who, at the Last Supper, reclined on Jesus’ breast,3 is a letter of encouragement and instruction to believers. However, in order to understand it fully, we need to engage in a bit of ‘mirror reading’, or ‘reading between the lines’.
+
+What is going on in the Church to which John is writing?
+
+1)In 1.1, John writes about the “[The life] which was from the beginning, which we have heard, which we have seen with our eyes, which we looked upon and have touched with our hands”.4 This instruction which he is sending to the church is nothing new. They have already heard the Good News of Jesus Christ, indeed some of them may even have encountered Jesus as He walked the earth. Here John is setting the tone – ‘You already know all this, but I am just going to go through it with you again’.
+2) In 2.7, he explains that he is “writing to you no new commandment, but an old commandment that you had from the beginning”.5 Again, this is nothing novel that he is writing.
+
+But why would he need to write reiterating well-ken truths?
+
+We can find our answer further on in chapter 2: “They went out from us, but they were not of us; for if they had been of us, they would have continued with us. But they went out, that it might become plain that they all are not of us.”,6 and “I write to you, not because you do not know the truth, but because you know it”.7 What is clear is that people, perhaps even believers, perhaps even church leaders, have walked away from the faith of Jesus Christ and, in so doing, have led others astray.
+
+John continues: “I write these things to you about those who are trying to deceive you”.8 The believers in this place have not just wandered astray, but appear to have been deliberately led astray. The relevance of this will become clear as we proceed through. But this is a letter calling the scattered sheep back into the fold, and helping them identify wolves within their midst.
+
+So, having considered what is going on in the place that John is writing to, let’s consider what he is actually sending them in these six verses. Why is he taking the trouble to write?
+
+We find a mixture of encouragement and instruction: “I am writing these things to you so that you may not sin”9 - the instructional element – and “But if anyone does sin, we have an advocate with the Father, Jesus Christ the righteous. He is the propitiation for our sins”10 - the encouraging element.
+
+There, in the first verse of our reading, we have our answer to what he was sending. So perhaps I needn’t say any more!
+
+I believe, in order to understand the passage fully, we need to grapple with two key theological terms. These are terms that don’t tend to be used in everyday speech, but are essential if we are to understand the reading.
+
+There are some who do not think we should use special theological language because it makes Christianity inaccessible to those outwith. While I can see this line of argument, sometimes the vernacular or language we employ in our everyday lives is just not up to adequately explaining what we read in our Bibles. Sometimes we need the language of Scripture to fully expound these truths.
+
+So, our first theological word: advocate. The likelihood is that you have at least heard, if not used, this word before. In our Scottish legal system we have advocates. 
+
+In Scotland there are two very senior Law officers, the Lord Advocate and the Solicitor General. These two ladies are “the principal legal advisers to the Scottish Government”,11 offering advice and support in all legal matters. Meanwhile, at a much lower level, up and down our nation, every day advocates stand up in our court houses, cross examining witnesses and defendants and either working for the defence or the prosecution – fulfilling similar roles to English barristers.
+
+The dictionary describes an advocate as “a person who upholds or defends a cause or cause of action”,12 and this makes sense given what we know of the legal advocate’s job. However, what about the jump to the theological?
+
+John writes that “we have an advocate with the Father”.13 If we were to apply the legal image I outlined a moment ago here, we can perhaps see what I am alluding to. You see, God has righteous laws, unalterable rules with which He rules the world and sets humanity its boundaries. These laws are not there to work as a straight-jacket, but are there to protect us. However, time and time again we break these rules, we sin against Him and challenge  His law of love. 
+
+If God was to challenge us on these infractions of His law, as we are promised at the Day of Judgement, we would be found guilty on all counts. As we can read in Romans, “all have sinned and fall short of the glory of God”.14 None of us would pass the test, all would fail. And, as we can read throughout the New Testament, the only just punishment for such a transgression of God’s law is hell – for God and sin cannot co-exist – 1 Corinthians makes this very clear “the unrighteous will not inherit the kingdom of God”.15
+
+However, as John explains to us, all is not lost. Thanks to His incredible grace, God has provided the answer to this problem. Jesus stands as our advocate. “He pleads our case with the Righteous Judge. We may imagine the conversation going something like this: “Father, I know this one has sinned and violated our commands. He is guilty as charged. However, you have said that my sacrifice is sufficient payment for the debt he owes. My righteousness was applied to his account when he trusted in me for salvation and forgiveness. I have paid the price, so he can be pronounced ‘Not guilty.’ There is no debt left for him to pay””.16
+
+Those of you unfortunate enough to have experienced the legal system will know that, in order to receive legal assistance, you have to ask for it. You have to approach someone and ask for their help; and this is no different for Jesus. In order for Him to work in our hearts and become our advocate, we need to ask Him into our lives. Once we do this, Jesus is ready to plead our cause – as the hymn goes, “For lo, between our sins and their reward, we set the passion of Thy Son our Lord”.17
+
+So, Jesus is our mediator and advocate, ready so stand for us at the day of Judgement. We know that Jesus said “I came that they may have life and have it abundantly”18 - but even with Jesus as our advocate, how do we get from guilty to not guilty? For this, we need to consider our second theological word – Jesus is “the propitiation for our sins”.19
+
+Put simply, the word propitiation means ‘satisfaction’. “It means that Christ, in His perfect life and atoning, substitutionary death, that He satisfied the wrath of God against our sin and against us. It wasn't that He simply satisfied or assuaged God's wrath against sin; He assuaged God's wrath against us. ”20
+
+We see this in the Westminster Confession where, in Chapter VIII, we can read:
+
+  The Lord Jesus, by His perfect obedience and sacrifice of Himself, 
+  which he through the eternal Spirit once offered up unto God, 
+  hath fully satisfied the justice of His Father; and 
+  purchased not only reconciliation, but an everlasting 
+  inheritance in the kingdom of Heaven, for all those whom 
+  the Father hath given unto Him.21
+
+A way of understanding Christ’s act of propitiation is to imagine a judge. Before him stands a case of some nature, and the defendant is found guilty. The punishment on the statute books, in this case is a fine, and so the judge is bound to issue the fine – that is what the law demands of him. If he decided not to issue the fine,  it would make a mockery of the law, and he is not prepared to do that. However, the judge has compassion on the person. Because the judge is graceful and merciful, he doesn’t want to sentence the man to a fine that he knows he’ll not be able to cope with. So he does something amazing – he issues the fine, as the law demands, but then gets out his chequebook and writes a cheque to settle the debt. Therefore the law is satisfied – the fine is levied – but the defendant is not saddled with a debt he could never hope to pay.
+
+In Jesus’ death on the cross, He suffered the punishment that we all deserved. Don’t forget, Christ lived a perfect life. He never put a foot wrong and kept the Law to the letter. In fact, we can read that Christ came not “to abolish [the Law and the Prophets], but to fulfil them”.22 Jesus did not deserve to die and suffer the way He did. He didn’t deserve to endure God’s wrath. But, because of God’s immense love for mankind, He sacrificed Himself (for remember that the Father and the Son are One) to wipe our slates clean. 
+
+On the day of Judgement, He will say to God Almighty those words I’ve already shared, “My righteousness was applied to his account when he trusted in me for salvation and forgiveness. I have paid the price, so he can be pronounced ‘Not guilty.’ There is no debt left for him to pay”.23
+
+Our reading, therefore, gives us the answer to the problem of our sin, and how it divides us from God. Until Jesus came, there was no hope, for the great chasm between mankind and God was so great that nobody would ever have been able to cross it. In Jesus’ death, He became our propitiation, bridging the chasm and drawing us back into God’s realm.
+
+But the reading does more than explain this (as if this wasn’t enough!) For John goes on to offer us two yardsticks.
+
+The first yardstick is for us to use introspectively. We can find this yardstick in vv3 and 6. “And by this we know that we have come to know Him, if we keep His commandments… whoever says he abides in Him ought to walk in the same way in which He walked”.24
+
+These verses help us identify where we are in our faith walk. While it is important, essential even, to remember that it is not by our works that we get to heaven (as I’ve explained, it is all thanks to Jesus in His twin roles as advocate and propitiation), it is also important we consider our response to Jesus’ sacrifice on the cross. The Letter of James explains this well. Here James deals with the question of whether we need to show works if it is our faith in God’s grace that saves us. He says that “faith apart from works is useless”,25 that it is a sure sign of a dry, straw-like religious observance to see people trusting in God’s grace but not outworking Jesus’ example in their lives. After all, we should ask ourselves, ‘If Jesus has done all of this for me, is there anything I am being prompted to change for Him?’ - not for our salvation, but as a grateful response to it!
+
+So too, returning to 1 John, we have the instruction “whoever says he abides in [Jesus] ought to walk in the same way in which He walked”.26 If we identify with Jesus, we should keep His rules. A little like, if we belong to an organisation and wish to enjoy its benefits, we should observe the organisation’s rules. We don’t do this to get the benefits, but out of respect to the organisation. So too, we don’t walk in Jesus’ way to get something out of Him, but out of respect and thanks for all that He has done for us.
+
+The second yardstick is to help us clearly identify other people, and work out their walk with God. As I mentioned at the beginning, the people to whom John was writing had been led away by false leaders. Their experience is not unique – across the world, Sunday by Sunday, there are false leaders standing up in some churches who are leading people away from Christ. This is a problem as much today as it was 2,000 years ago.
+
+So, what can we do? Well, says John, “Whoever says, ‘I know Him’, but does not keep His commandments is a liar.”27 The same criteria by which we judge our own faith can be used to identify false leaders, wolves in sheep’s clothing. We can look at the actions of other people within the Church and determine whether they are keeping God’s laws. And, if they aren’t, we can be fairly certain that either they have been led astray (and need shepherding back in to the fold), or they are (to quote John), a liar and shouldn’t be followed.
+
+Now, of course, it is important for us to remember that the sinful human nature being as it is, it is always tempting to judge other people based on their actions. It is important, as ever, to take circumstances into account. An otherwise upright Christian who takes a stumble, or makes a mistake, is not the kind of person that John calls a liar. We are no better than they are – for they have made a mistake in just the same way we so frequently do. However, for example, the Church leader who acts or lives in a way utterly contrary to the Bible, it is this kind of person that John has set his sights on. They are the ones we should watch out for.
+
+So what can we take from our Scripture reading today? What can we apply to our lives to shape our Christian walk?
+
+We can remember that, considering v4, there is an inferred expectation that we will keep Jesus’ commandments. As I’ve said, we do not observe Jesus’ commands because we want to get into heaven or experience His favour, but because He has already done so much for us that we want to please Him and give Him the glory.
+
+Furthermore, as we saw in v6, there is an inferred expectation that we abide in Him. We all know the old hymn, Abide with me28 – this isn’t that. We aren’t asking Jesus to stay with us, as the hymn is. It isn’t even Jesus asking us to stay with Him. Rather to abide in Jesus means to rely on Him, to live through Him, and allow Him to live in us. It means to see the world as He does, to have compassion as He does. Additionally, as we’ll consider in a moment, to abide in Jesus, to “dwell[s] in the shelter of the Most High… [and] abide in the shadow of the Almighty”,29 is all we can hope to do when comes the Day of Judgement.
+
+A question that it is important to consider at this point can be found in v3 – “And by this we know that we have come to know Him, if we keep His commandments”.30 Are we to read from this that, if we fail to keep His commandments, we are not Christians? One theologian, explaining this, writes that,
+
+    In the Greek world, [John] was faced with people who saw
+    God as an intellectual exercise and who could say, ‘I know God’
+    without being conscious of any ethical obligation whatever.
+    In the Greek world he was faced with people who
+    had an emotional experience and who could say, ‘I am in God
+    and God is in me’, and who did not see God in terms of commandments at all.
+
+    John is determined to lay it down quite unmistakably and without compromise
+    that the only way in which we can show that we know God is by obedience to Him,
+    and the only way we can show that we have union with Christ is by imitation of Him.
+    Christianity is the religion which offers the greatest privilege and brings with it the greatest obligation.
+    Intellectual effort and emotional experience are not neglected – far from it –
+    but they must combine to issue in moral action.31
+
+As with so many things, friends, what is at issue here is not what we do, but our motives behind them. You and I are Christians, not because we turn up at Church Sunday by Sunday; not because we say our prayers or because we feed the hungry. We are Christians because we have opened our hearts to Jesus Christ, and because God determined to reveal Himself to us before the foundation of the world. While I am not condoning sin for one moment, the occasional slip-up on our part is not going to call that into question – because God can see far past the oft idiotic or misguided actions we take, and see into our hearts. We remain children of God when we slip up. Indeed, the authors of the Westminster Confession wrote at length on The Perseverance of the Saints – the theological concept explaining why, even when we sin, we don’t fall away from the state of grace that Christ gives us - in chapter 17 of the Confession:
+
+    This perseverance of the saints depends, not upon their own free will, but upon
+    the immutability of the decree of election, flowing from the free and unchangeable
+    love of God the Father; upon the efficacy of the merit and intercession of Jesus Christ;
+    the abiding of the Spirit and of the seed of God within them; and the nature of
+    the covenant of grace: from all which ariseth also the certainty and infallibility thereof.32
+
+Put simply, if we believe that we are saved by God’s grace, as part of His sovereign will, it is ludicrous for us to believe that we are able to wriggle free of His grasp! Our salvation is all on Him, and our failings don’t come into it!
+
+Lastly, and perhaps the most important takeaway message of all, it is important that we remember the role of an advocate and see the relevance in our lives. In a courtroom it is the advocate that speaks and, apart from when under questioning, we as the defendant remain silent. Indeed, if we try to speak out of place, the Judge is well within his rights to cry, ‘Silence in court’! Just as the defendant in court depends on his advocate representing him, we depend all the more on Jesus as our mediator and advocate in heaven, representing us to the Father Almighty. We depend not on our own skill or goodness, our own performance in the dock, our own achievements or faith, but upon His unblemished record and unbroken success rate.
+
+Friends, let us this day recognise the supreme importance of Jesus as our advocate and representative – our representative in the courtroom advocate when comes the Day of Judgement, and our representative on the cross of Calvary, where He bled and died for our sins and the sins of the world, offering Himself as the propitiation for our sins, that we may be fully clothed in Him and washed clean in His blood.
+
+“But if anyone does sin, we have an advocate with the Father, Jesus Christ the righteous. He is the propitiation for our sins”.33
+
+1 1 John 2. 1b
+2 1 Peter 2. 24
+3 John 13. 23
+4 1 John 1. 1
+5 1 John 2. 7
+6 1 John 2. 19
+7 1 John 2. 21
+8 1 John 2. 26
+9 1 John 2. 1
+10 1 John 2. 1b
+11 https://www.gov.scot/about/who-runs-government/cabinet-and-ministers/
+12 Collins English Dictionary
+13 1 John 2. 1
+14 Romans 3. 23
+15 1 Corinthians 6. 9
+16 https://www.gotquestions.org/Jesus-Advocate.html
+17 Hymn – And now, O Father, mindful of the love; William Bright.
+18 John 10. 10
+19 1 John 2. 2
+20 https://www.ligonier.org/podcasts/ask-ligonier/what-is-propitiation
+21 Westminster Confession of Faith, chapter VII, section V
+22 Matthew 5. 17
+23 https://www.gotquestions.org/Jesus-Advocate.html
+24 1 John 2. 3, 6
+25 James 2. 20
+26 1 John 2. 6
+27 1 John 2. 4
+28 Abide with me, fast falls the eventide; Henry Francis Lyte.
+29 Psalm 91. 1
+30 1 John 2. 3
+31 ‘The Letters of John and Jude’, The Daily Study Bible (Revised Edition), William Barclay, 1958, Edinburgh, p. 43.
+32 The Westminster Confession of Faith (1647), Ch. 17 Of the Perseverance of the Saints.
+33 1 John 2. 1b
