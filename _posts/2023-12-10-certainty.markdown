@@ -91,48 +91,48 @@ Books cited:
 
 Taylor, William. *Luke. Volume 2, Part Two, Luke 9:51-24:53*. Tain, Ross-shire: Christian Focus, 2018.
 
-[1] Luke 24. 36-37
-[2] Luke 1. 3-4
-[3] Ibid.
-[4] John 20. 19
-[5] Luke 24. 36
-[6] Luke 24. 34
-[7] Luke 24. 6-7
-[8] Luke 24. 27
-[9] Luke 24. 44
-[10] Luke 24. 11
-[11] Luke 24. 32
-[12] Luke 24. 31
-[13] Luke 24. 36
-[14] Luke 24. 38
-[15] Genesis 3. 15
-[16] Ibid.
-[17] Psalm 22. 1, 7, 14
-[18] Psalm 69. 9, 21
-[19] Mark 15. 34
-[20] Mark 15. 36
-[21] Exodus 12. 6-7
-[22] William Taylor, *Luke. Volume 2, Part Two, Luke 9:51-24:53* (Tain, Ross-shire: Christian Focus, 2018), sec. 43.
-[23] Daniel 12. 1-2
-[24] 1 Thessalonians 4. 15-18
-[25] Standing on the Promises of Christ my King; Russell Kelso Carter.
-[26] Luke 1. 4
-[27] 1 Corinthians 1. 18
-[28] 1 Corinthians 1. 22
-[29] Let earth and heaven combine; Charles Wesley.
-[30] Luke 1. 4
-[31] Low in the grave He lay, Jesus my Saviour; Robert Lowry.
-[32] Luke 24. 39
-[33] John 20. 25
-[34] Luke 24. 41-42
-[35] Mark 5. 43
-[36] Luke 24. 47
-[37] Luke 1. 4
-[38] Ibid.
-[39] Wording used by the Moderator of the CofS as he presents the Bible to the newly crowned Monarch.
-[40] Low in the grave He lay.
-[41] Luke 24. 47
-[42] Genesis 3. 15
-[43] Ibid.
-[44] Luke 1. 4
-[45] Ibid.
+- [1] Luke 24. 36-37
+- [2] Luke 1. 3-4
+- [3] Ibid.
+- [4] John 20. 19
+- [5] Luke 24. 36
+- [6] Luke 24. 34
+- [7] Luke 24. 6-7
+- [8] Luke 24. 27
+- [9] Luke 24. 44
+- [10] Luke 24. 11
+- [11] Luke 24. 32
+- [12] Luke 24. 31
+- [13] Luke 24. 36
+- [14] Luke 24. 38
+- [15] Genesis 3. 15
+- [16] Ibid.
+- [17] Psalm 22. 1, 7, 14
+- [18] Psalm 69. 9, 21
+- [19] Mark 15. 34
+- [20] Mark 15. 36
+- [21] Exodus 12. 6-7
+- [22] William Taylor, *Luke. Volume 2, Part Two, Luke 9:51-24:53* (Tain, Ross-shire: Christian Focus, 2018), sec. 43.
+- [23] Daniel 12. 1-2
+- [24] 1 Thessalonians 4. 15-18
+- [25] Standing on the Promises of Christ my King; Russell Kelso Carter.
+- [26] Luke 1. 4
+- [27] 1 Corinthians 1. 18
+- [28] 1 Corinthians 1. 22
+- [29] Let earth and heaven combine; Charles Wesley.
+- [30] Luke 1. 4
+- [31] Low in the grave He lay, Jesus my Saviour; Robert Lowry.
+- [32] Luke 24. 39
+- [33] John 20. 25
+- [34] Luke 24. 41-42
+- [35] Mark 5. 43
+- [36] Luke 24. 47
+- [37] Luke 1. 4
+- [38] Ibid.
+- [39] Wording used by the Moderator of the CofS as he presents the Bible to the newly crowned Monarch.
+- [40] Low in the grave He lay.
+- [41] Luke 24. 47
+- [42] Genesis 3. 15
+- [43] Ibid.
+- [44] Luke 1. 4
+- [45] Ibid.
