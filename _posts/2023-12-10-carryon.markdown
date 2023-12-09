@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "SERMON - Keep Calm and Carry On - 10th December 2023 - Dowanvale Free Church of Scotland"
-date:   2023-12-07 09:30:07
+date:   2023-12-03 18:30:07
 categories: jekyll update
 excerpt_separator: <!-- excerpt-end -->
 ---
@@ -89,7 +89,7 @@ Back down in Essex, my father has a little boat. It's about 17' long, painted br
 
 Let us remember the words of Hebrews 6. 19 (you are seeing my Boys' Brigade side coming out now!), where we read "**We have [Jesus] as a sure and stedfast anchor of the soul**".[51]
 
-I leave you with this thought, friends -- in the crazy world in which we live, are you clinging on to your anchor in Jesus Christ? Are the winds blowing all around you? Are the currents threatening to drag you out to sea? Take Paul's advice, cling tight to your "faith and [a] good conscience",[52] hold firm to your anchor, for Jesus Christ is a sure and stedfast anchor of our soul, and He will never slip.
+I leave you with this thought, friends -- <!-- excerpt-start -->in the crazy world in which we live, are you clinging on to your anchor in Jesus Christ? Are the winds blowing all around you? Are the currents threatening to drag you out to sea? Take Paul's advice<!-- excerpt-end -->, cling tight to your "faith and [a] good conscience",[52] hold firm to your anchor, for Jesus Christ is a sure and stedfast anchor of our soul, and He will never slip.
 
 And now to Him alone be all glory, this night and forevermore. Amen
 

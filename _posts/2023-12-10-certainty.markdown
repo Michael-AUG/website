@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "SERMON - Standing on the Promises of God - 10th December 2023 - Righead and Hamilton URCs"
-date:   2023-12-07 09:30:07
+date:   2023-12-10 10:30:07
 categories: jekyll update
 excerpt_separator: <!-- excerpt-end -->
 ---
