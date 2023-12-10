@@ -11,7 +11,7 @@ excerpt_separator: <!-- excerpt-end -->
 
 Click below to listen to the sermon being preached:
 <audio controls>
-<source src="/media/XXXXXXXX.mp3" type="audio/mpeg">
+<source src="/media/promises.mp3" type="audio/mpeg">
 Your browser does not support the audio element.
 </audio>
 
