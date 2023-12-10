@@ -9,7 +9,7 @@ excerpt_separator: <!-- excerpt-end -->
 ![God's promises](/media/promises.jpg)
 *God's promises found in His Word - [image from Google Image search](https://ihconvention.com/wp-content/uploads/2021/08/promises.jpg)*
 
-Click below to listen to the sermon being preached:
+Click below to listen to the sermon being preached - **Apologies for my voice - I had a dreadful cold and was losing my voice.**:
 <audio controls>
 <source src="/media/promises.mp3" type="audio/mpeg">
 Your browser does not support the audio element.
