@@ -9,9 +9,9 @@ excerpt_separator: <!-- excerpt-end -->
 ![Keep Calm and Carry On](/media/keepcalm.png)
 *Keep Calm and Carry On poster - [image from Google Image search](http://master-logo.blogspot.com/2015/06/keep-calm-and-carry-on-logo-vector.html)*
 
-Click below to listen to the sermon being preached:
+Click below to listen to the sermon being preached - **Apologies for my croaky voice, I was battling a cold**:
 <audio controls>
-<source src="/media/XXXXXXXX.mp3" type="audio/mpeg">
+<source src="/media/keepCalm.mp3.mp3" type="audio/mpeg">
 Your browser does not support the audio element.
 </audio>
 
