@@ -11,7 +11,7 @@ excerpt_separator: <!-- excerpt-end -->
 
 Click below to listen to the sermon being preached - **Apologies for my croaky voice, I was battling a cold**:
 <audio controls>
-<source src="/media/keepCalm.mp3.mp3" type="audio/mpeg">
+<source src="/media/keepCalm.mp3" type="audio/mpeg">
 Your browser does not support the audio element.
 </audio>
 
