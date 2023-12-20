@@ -4,8 +4,10 @@
 
 layout: page
 ---
-![UoG_Undergrad_Banner](media/banner.webp)
+**"We refuse to practice cunning or to tamper with God's word"**
+*2 Corinthians 4. 2b*
 
+![UoG_Undergrad_Banner](media/banner.webp)
 <script src="https://www.biblegateway.com/votd/votd.write.callback.js"></script>
 <script src="https://www.biblegateway.com/votd/get/?format=json&version=ESVUK&callback=BG.votdWriteCallback"></script>
 <!-- alternative for no javascript -->
