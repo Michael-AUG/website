@@ -19,3 +19,6 @@ As well as letting you read my sermons, you are also (in most cases) able to lis
       {% assign excerptParts = post.excerpt | split: "<!-- excerpt-start -->" %}
       {{ excerptParts[1] | strip_newlines | remove: "</p>" | remove: "<br>" | remove: "\n" | truncatewords: 50 }}
   {% endfor %}
+
+Scriptural quotations from after 5th November 2023, unless otherwise stated, are from the English Standard Version (Anglicised).
+Scriptural quotations from before 5th November 2023, unless otherwise stated, are from the King James Bible.
