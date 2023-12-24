@@ -40,4 +40,4 @@ If you don’t accept Jesus, you will go out from here and probably enjoy your d
 
 So, this morning, friends, I invite you to take Jesus as your Friend, to walk with Him, to share with Him your problems and your joys. For, all the presents and carols, and turkeys and parties aside, this is the real message of Christmas, that “God so loved the world, that he gave his only Son, that whoever believes in him should not perish but have eternal life.” (Jn. 3. 16).
 
-<!-- excerpt-start -->It is this Jesus who I offer you this morning. And I urge you, do not just walk on unaffected by what you’ve heard – for in Him is life and light, and the life and light is for you, if you’ll accept it. So accept the greatest gift this Christmas.<!-- excerpt-end -->
+<!-- excerpt-start -->It is this Jesus who I offer you this morning. And I urge you, do not just walk on unaffected by what you’ve heard – for in Him is life and light, and the life and light is for you, if you’ll accept it.<!-- excerpt-end --> So accept the greatest gift this Christmas!
