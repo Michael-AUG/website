@@ -5,7 +5,7 @@ date:   2023-12-24 19:30:07
 categories: jekyll update
 excerpt_separator: <!-- excerpt-end -->
 ---
-![Christmas](/images/christmas.webp)
+![Christmas](/media/christmas.webp)
 
 Click below to listen to the sermon being preached:
 <audio controls>
