@@ -1,11 +1,11 @@
 ---
 layout: post
-title:  "SERMON - The True Meaning of Christmas - 24th December 2023 - Dowanvale Free Church"
-date:   2023-12-24 19:30:07
+title:  "SERMON - Can these bones live? - 14th January 2024 - Glenboig Christian Fellowship"
+date:   2024-01-14 12:30:07
 categories: jekyll update
 excerpt_separator: <!-- excerpt-end -->
 ---
-![Christmas](/media/bones.jpg)
+![Dry bones](/media/bones.jpg)
 
 Click below to listen to the sermon being preached:
 <audio controls>
@@ -31,7 +31,7 @@ Those which in truth and faithfulness
 
 (Psalm 89. 46-47, 49 – 1650 Metrical Psalter)</i>
 
-If I was to give this sermon a subtitle, I would have called it ‘Good News from the Graveyard’, because this is precisely what we have heard, isn’t it? The prophet Ezekiel is taken by the Lord’s Spirit into a valley full of dry bones. God asks him whether these long-dead corpses can live again, and proceeds to reanimate them. If, like me, you went to Sunday School, this may be a passage you’re familiar with; if not, you may have wondered what all of this was about. It is my sincere prayer that, over the next few minutes, I will be led to show you how these peculiar events from some six centuries before the birth of Christ are in fact a perfect illustration of the lengths that God is prepared to go on your behalf, and ask what ‘life’ really is.
+<!-- excerpt-start -->If I was to give this sermon a subtitle, I would have called it ‘Good News from the Graveyard’, because this is precisely what we have heard<!-- excerpt-end -->, isn’t it? The prophet Ezekiel is taken by the Lord’s Spirit into a valley full of dry bones. God asks him whether these long-dead corpses can live again, and proceeds to reanimate them. If, like me, you went to Sunday School, this may be a passage you’re familiar with; if not, you may have wondered what all of this was about. It is my sincere prayer that, over the next few minutes, I will be led to show you how these peculiar events from some six centuries before the birth of Christ are in fact a perfect illustration of the lengths that God is prepared to go on your behalf, and ask what ‘life’ really is.
 
 I believe that this passage splits neatly into three sections: namely 1) *Can these bones live?*, 2) *O Lord God, You know*, and 3) *I have spoken, and I will do it, declares the Lord*. In the first we will consider the meaning of death, in the second we will consider the awesome power of God, and in the third we will consider the meaning of life itself.
 
@@ -148,9 +148,9 @@ What God did before Ezekiel’s eyes in that valley of dry bones, He continues t
 
 
 **Works cited:**
-Macleod, Donald. Faith to Live by - Understanding Christian Doctrine. Christian Focus Publications L, 2016.
-Rolf Jacobson. ‘Commentary on Ezekiel 37: 1-14’. Working Preacher from Luther Seminary, 9 March 2008. https://www.workingpreacher.org/commentaries/revised-common-lectionary/fifth-sunday-in-lent/commentary-on-ezekiel-371-14-2.
-The Rev. F. Gardiner, D.D. ‘Jeremiah to Malachi’. In A Bible Commentary for English Readers by Various Writers, edited by Charles John Ellicott, Vol. 5. London: Cassell and Co., n.d.
+* Macleod, Donald. Faith to Live by - Understanding Christian Doctrine. Christian Focus Publications L, 2016.
+* Rolf Jacobson. ‘Commentary on Ezekiel 37: 1-14’. Working Preacher from Luther Seminary, 9 March 2008. https://www.workingpreacher.org/commentaries/revised-common-lectionary/fifth-sunday-in-lent/commentary-on-ezekiel-371-14-2.
+* The Rev. F. Gardiner, D.D. ‘Jeremiah to Malachi’. In A Bible Commentary for English Readers by Various Writers, edited by Charles John Ellicott, Vol. 5. London: Cassell and Co., n.d.
 
 [^1]: Rolf Jacobson, ‘Commentary on Ezekiel 37: 1-14’, Working Preacher from Luther Seminary, 9 March 2008, sec. Historical Context, https://www.workingpreacher.org/commentaries/revised-common-lectionary/fifth-sunday-in-lent/commentary-on-ezekiel-371-14-2.
 [^2]: Donald Macleod, Faith to Live by - Understanding Christian Doctrine (Christian Focus Publications L, 2016), 78.
