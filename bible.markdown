@@ -12,10 +12,10 @@ This pamphlet, although a little old, addresses this issue; and I replicate it h
 
 *The Wonderful Word of God - by [Rev. James Taylor](https://en.wikipedia.org/wiki/James_Taylor_(Presbyterian_minister)) - a Scottish Presbyterian minister from the nineteenth century*
 
-![Wonderful1](/images/WonderfulWordOfGod-1.jpg)
+![Wonderful1](/media/WonderfulWordOfGod-1.jpg)
 
-![Wonderful2](/images/WonderfulWordOfGod-2.jpg)
+![Wonderful2](/media/WonderfulWordOfGod-2.jpg)
 
-![Wonderful3](/images/WonderfulWordOfGod-3.jpg)
+![Wonderful3](/media/WonderfulWordOfGod-3.jpg)
 
-![Wonderful4](/images/WonderfulWordOfGod-4.jpg)
+![Wonderful4](/media/WonderfulWordOfGod-4.jpg)
