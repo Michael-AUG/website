@@ -9,7 +9,7 @@ excerpt_separator: <!-- excerpt-end -->
 
 Click below to listen to the sermon being preached:
 <audio controls>
-<source src="/media/xxxxxxxx" type="audio/mpeg">
+<source src="/media/guide.mp3" type="audio/mpeg">
 Your browser does not support the audio element.
 </audio>
 
