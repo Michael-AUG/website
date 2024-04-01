@@ -44,7 +44,7 @@ But, says Paul, without Christ rising from the dead, we would, to quote Private 
 
 Concluding with that line at the end:
 *Had Christ that once was slain ne’er burst His three day prison,*
-*our faith had been in vain. But now hath Christ arisen. *
+*our faith had been in vain. But now hath Christ arisen.*
 
 So what does Paul say? He reminds his readers how he, and indeed others, had encountered the living Jesus. 
 
@@ -57,6 +57,7 @@ You see, Paul has a habit of of qualifying the important things he says by expla
 Paul begins by reminding us, “of first importance… [that] Christ died for [y]our sins.” (15. 3) 
 
 Note that this immediately knocks out that first heresy - maybe He was a doppelganger, maybe it was an illusion trick, maybe He was just unconscious as He hung from the tree. 
+
 No, friends. Christ died for our sins in accordance with the Scriptures, and He was buried. We know this, of course, from the endings of the Gospels, where we have spelled out in incredible detail whose tomb it was, that Jesus was laid in, who attended to Him as his lifeless, yet probably still warm, body was laid in that tomb. 
 
 He died and He was buried and He was raised on the third day, Paul writes, “in accordance with the Scriptures”. (15. 3) For all that the Scriptures had foretold of our Lord and Saviour Jesus Christ had to be fulfilled, and they were.
@@ -73,7 +74,8 @@ Later on still, we read that Jesus appeared to James, the brother of Jesus: who 
 
 Jesus didn't have much time for them on that occasion, but clearly found time for for his brother James after He had come back from the dead, for He appeared to James and we can read in James's epistle of how he encountered his Lord, Saviour, and brother. In Acts 1.14, we can read how James was among the group of the disciples who were praying in the upper room at the time of Pentecost. James clearly believed what had happened, that Christ had been raised from the dead, or else he would not have been wasting his time with that funny group of people who were going round believing that somebody could come back from the grave. 
 
-Then of course, we come “last of all, as to one untimely born” (15. 8)  to Jesus's appearance to Saul. As I say, a spiritual encounter perhaps, but an encounter nonetheless. 
+Then of course, we come “last of all, as to one untimely born” (15. 8) to Jesus's appearance to Saul. As I say, a spiritual encounter perhaps, but an encounter nonetheless. 
+
 And of course, while Paul writes “last of all” in his letter, we know that down through the centuries Jesus has appeared to so many and such varied people. Maybe some of you here have encountered the risen Lord as well in your own walk of faith. 
 
 But what does this mean? Paul makes very clear that this good news is far from being some sort of heavenly magic trick, a way of convincing us that Jesus was a good egg. The resurrection means that we are no longer “still in our sins”. (15. 17) 
@@ -85,7 +87,7 @@ Rather, we read that, in Jesus Christ, our sins are forgiven, our communion, our
 And yet, as by one man came death, so “by a man has come also the resurrection of the dead”. (15. 21) 
 Just as one man allowed himself and his wife to fall into sin, and then in turn allowed sin to enter the world, just as that one or two people changed the course of human history, so too, in Jesus Christ, the whole created order is changed. 
 
-Eternal life is found. The formerly final end that was death is no longer an end, but rather a portal to a new beginning. Remember friends, how Jesus Christ went to the cross and died in place of dreadful Barabbas, and for that, Barabbas was surely thankful. **But He also died in place of you and me. He died for sins that we were not to commit for another 2,000 odd years. He died knowing our hearts and our souls, and how black they are and how calcified they are with with sin and with passion and with earthly interests. **
+Eternal life is found. The formerly final end that was death is no longer an end, but rather a portal to a new beginning. Remember friends, how Jesus Christ went to the cross and died in place of dreadful Barabbas, and for that, Barabbas was surely thankful. **But He also died in place of you and me. He died for sins that we were not to commit for another 2,000 odd years. He died knowing our hearts and our souls, and how black they are and how calcified they are with with sin and with passion and with earthly interests.**
 
 We know how in torment, He prayed in the garden (Lk. 22. 39), how, in pain, He hung on the cross (Lk. 23. 33), and how in death He paid that ultimate sacrifice as He cried, **“It is finished” (Jn. 19. 30), and won for us eternal life.**
 
