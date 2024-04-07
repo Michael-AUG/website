@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "SERMON - Had Christ that once was slain - 31st March 2024 - Halstead URC"
-date:   2024-03-15 12:30:07
+date:   2024-03-31 12:30:07
 categories: jekyll update
 excerpt_separator: <!-- excerpt-end -->
 ---
