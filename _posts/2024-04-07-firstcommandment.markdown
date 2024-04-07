@@ -109,12 +109,12 @@ In the first Commandment, the Lord God instructs His people to take and/or worsh
 
 
 Works cited:
-Bright, John. A History of Israel. The Old Testament Library. London: SCM Press Ltd., 1967.
-Dummelow, J. R., ed. ‘Exodus’. In A Commentary on the Holy Bible. London: MacMillan and Co. Ltd., 1946.
-Holy Bible: English Standard Version. London: Collins, 2007.
-Lawson, Roderick. The Shorter Catechism: With Explanatory Notes and Review Questions. Christian Focus Publications ed. Great Britain: Christian Heritage, 2017.
-Mackintosh, Charles Henry. Notes on the Book of Exodus. 3rd ed. London: George Morrish, 1862.
-Westminster Divines. ‘The Larger Catechism’. In The Confession of Faith, 49–112. Edinburgh and London: William Blackwood and Sons Ltd., 1969.
+* Bright, John. A History of Israel. The Old Testament Library. London: SCM Press Ltd., 1967.
+* Dummelow, J. R., ed. ‘Exodus’. In A Commentary on the Holy Bible. London: MacMillan and Co. Ltd., 1946.
+* Holy Bible: English Standard Version. London: Collins, 2007.
+* Lawson, Roderick. The Shorter Catechism: With Explanatory Notes and Review Questions. Christian Focus Publications ed. Great Britain: Christian Heritage, 2017.
+* Mackintosh, Charles Henry. Notes on the Book of Exodus. 3rd ed. London: George Morrish, 1862.
+* Westminster Divines. ‘The Larger Catechism’. In The Confession of Faith, 49–112. Edinburgh and London: William Blackwood and Sons Ltd., 1969.
 
 [^1]: John Bright, A History of Israel, The Old Testament Library (London: SCM Press Ltd., 1967), 134.
 [^2]: Holy Bible: English Standard Version. (London: Collins, 2007), ix.
