@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "SERMON - You shall not make any graven imagese - 26th May 2024 - Glenboig Christian Fellowship"
+title:  "SERMON - You shall not make any graven images - 26th May 2024 - Glenboig Christian Fellowship"
 date:   2024-05-26 12:30:07
 categories: jekyll update
 excerpt_separator: <!-- excerpt-end -->
