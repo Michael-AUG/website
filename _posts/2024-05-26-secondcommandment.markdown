@@ -105,28 +105,31 @@ Dear friends, if you have been to Calvary and laid hold of the solution that Chr
 
 
 
-[^1]: J. R. Dummelow, ed., ‘1 Peter’, in A Commentary on the Holy Bible (London: MacMillan and Co. Ltd., 1946), 1038.
-[^2]: Ibid.
-[^3]: Ibid.
-[^4]: Ibid., 1040.
-[^5]: A. J. Mason, ‘1 Peter’, in Ephesians to Revelation, vol. 8, A Bible Commentary for English Readers (London: Cassell and Co., 1905), 434.
+[^2]: J. I. Packer, Knowing God, Paperback edition (London: Hodder & Stoughton, 2013), 47.
+[^2]: The Heidelberg Catechism or, Method of Instruction in the Christian Religion (Edinburgh: The Banner of Truth Trust, 2013), 66.
+[^3]: Greg Ho, ‘Does God Accept Your Worship?’ (Sermon, Calvary Community Church, 22 September 2019), https://www.calvaryem.org/sermons/does-god-accept-your-worship/.
+[^4]: Westminster Divines, ‘The Larger Catechism’, in The Confession of Faith (Edinburgh and London: William Blackwood and Sons Ltd., 1969), 79.
+[^5]: Packer, Knowing God, 48.
 [^6]: Ibid.
-[^7]: Ibid.
-[^8]: William Barclay, James and Peter, Rev. ed, The Daily Study Bible (Edinburgh: St Andrews Press, 1960), 322–23.
-[^9]: John Gill, John Gill’s Exposition on the Entire Bible - Verse by Verse, 1746, sec. 1 Peter 5. 8, http://archive.org/details/JohnGillsCommentaryOnTheBible.
-[^10]: Mason, ‘1 Peter’, 434.
-[^11]: Barclay, James and Peter, 323.
-[^12]: Ibid.
-[^13]: Mason, ‘1 Peter’, 434.
-[^14]: Barclay, James and Peter, 323.
-[^15]: Mason, ‘1 Peter’, 434.
-[^16]: 
-[^17]: 
-[^18]: 
-[^19]: 
+[^7]: Ibid., 49.
+[^8]: John Calvin, ‘Exodus 20’, in Commentary on the Bible (Christian Classics Ethereal Library), 20, accessed 23 May 2024, https://biblehub.com/commentaries/calvin/exodus/20.htm.
+[^9]: Packer, Knowing God, 50.
+[^10]: Ibid., 51.
+[^11]: Charles Henry Mackintosh, Notes on the Book of Exodus, 3rd ed. (London: George Morrish, 1862), 331.
+[^12]: Packer, Knowing God, 51.
+[^13]: Westminster Divines, ‘Larger Catechism’, 79.
+[^14]: Packer, Knowing God, 52.
+[^15]: Ibid.
+[^16]: Ibid.
+[^17]: Ibid., 53.
+[^18]: The Heidelberg Catechism or, Method of Instruction in the Christian Religion, 67.
+[^19]: Packer, Knowing God, 55.
 
 Books cited:
-* Barclay, William. James and Peter. Rev. ed. The Daily Study Bible. Edinburgh: St Andrews Press, 1960.
-* Dummelow, J. R., ed. ‘1 Peter’. In A Commentary on the Holy Bible. London: MacMillan and Co. Ltd., 1946.
-* John Gill. John Gill’s Exposition on the Entire Bible - Verse by Verse, 1746. http://archive.org/details/JohnGillsCommentaryOnTheBible.
-* Mason, A. J. ‘1 Peter’. In Ephesians to Revelation, Vol. 8. A Bible Commentary for English Readers. London: Cassell and Co., 1905.
+* Calvin, John. ‘Exodus 20’. In Commentary on the Bible. Christian Classics Ethereal Library. Accessed 23 May 2024. https://biblehub.com/commentaries/calvin/exodus/20.htm.
+* Greg Ho. ‘Does God Accept Your Worship?’ Sermon, Calvary Community Church, 22 September 2019. https://www.calvaryem.org/sermons/does-god-accept-your-worship/.
+* Mackintosh, Charles Henry. Notes on the Book of Exodus. 3rd ed. London: George Morrish, 1862.
+* Packer, J. I. Knowing God. Paperback edition. London: Hodder & Stoughton, 2013.
+* The Heidelberg Catechism or, Method of Instruction in the Christian Religion. Edinburgh: The Banner of Truth Trust, 2013.
+* Westminster Divines. ‘The Larger Catechism’. In The Confession of Faith, 49–112. Edinburgh and London: William Blackwood and Sons Ltd., 1969.
+
