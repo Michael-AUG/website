@@ -64,6 +64,7 @@ Or perhaps we can see this from the crucifix. To differentiate from a cross, a c
 **The second reason** is that not only do images dishonour God, but they **mislead us by conveying false ideas about Him**. Put it this way, most if not all of us will have seen a picture of Jesus in a child’s Bible, and probably seen Him depicted as a white man with blue eyes and blonde hair. And yet we know that, given the part of the world He lived in, this is extraordinarily unlikely to have been the case! Or, returning to Aaron’s bull or calf, we can see that the people’s response to seeing the image of the uncontrollable animal was to worship it with wild frenzy. Aaron called it “a feast to the Lord” (Ex. 32. 5), yet Biblical commentators describe it as a “shameful orgy”![^10]
 
 In his ‘Notes on the Book of Exodus’, Mackintosh explains that:
+
 *The enemy [satan] is ever active in seeking to make us cast away these divine realities, take up the ‘graving tool’ of unbelief, and ‘make gods’ for ourselves. *[^11]
 
 And don’t we see this to be true in our own lives, friends? We see something in God that we don’t like, or don’t agree with, and all too often we seek to excise that bit from Him (with our ‘graving tool of unbelief’) and make out that ‘our God isn’t like that’. Then we worship the god we wish we had, not the God we do have.
@@ -92,8 +93,8 @@ If we want to get to know God, therefore, it must be on His terms. We will never
 
 This is why, in the Heidelberg Catechism, question 98 asks:
 
-*But may not pictures be tolerated in churches as books for the laity?*
-*Answer: No: for we should not be wiser than God, who will not have His people taught by dumb idols, **but by the lively preaching of His Word**. *[^18]
+*But may not pictures be tolerated in churches as books for the laity?
+Answer: No: for we should not be wiser than God, who will not have His people taught by dumb idols, **but by the lively preaching of His Word**. *[^18]
 
 The question we should ask ourselves this morning, having considered all this, is how we stand on this commandment. True, our church here may not be full of religious art. We may not see depictions of Christ on the wall, or an image of God in the corner. Above the communion table there does not hang a crucifix. And in our homes we may not have pictures of Christ, nor an image of a bull symbolising God’s strength. And yet, still we must ask ourselves whether the God whom we worship is the God of the Bible, or the god of our imaginings? Do we worship God “in spirit and in truth”?  (Jn. 4. 24)  Do we agree with Peter that “we have something more sure [than even the voice of God], the prophetic word [found in Scripture], to which you will do well to pay attention as to a lamp shining in a dark place, until the day dawns and the morning star rises in your hearts”? (2 Pet. 1. 19)  Is the God whom we worship the God of the Bible? The Lord Jehovah?
 
