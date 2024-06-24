@@ -20,9 +20,9 @@ morning’s, and brings the 49<sup>th</sup> chapter of Isaiah to a close.
 This morning we considered how the first half of the chapter encouraged
 us to recognise Christ as our covenantal Saviour, bringing salvation not
 just to the land and people of Israel, but to God’s people throughout
-the world. This evening we find the prophecy entering new waters, as
+the world. <!-- excerpt-start -->This evening we find the prophecy entering new waters, as
 God’s people call out to the Lord with their concerns, and He answers
-them. It is my prayer that the encouragement that the Lord gives them
+them.<!-- excerpt-end --> It is my prayer that the encouragement that the Lord gives them
 will also be of encouragement for you.
 
 The Lord begins by making a triumphal declaration. In a similar way to
