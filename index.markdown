@@ -7,7 +7,6 @@ layout: page
 **"We refuse to practice cunning or to tamper with God's word"**
 *2 Corinthians 4. 2b*
 
-![UoG_Undergrad_Banner](media/banner.webp)
 <script src="https://www.biblegateway.com/votd/votd.write.callback.js"></script>
 <script src="https://www.biblegateway.com/votd/get/?format=json&version=ESVUK&callback=BG.votdWriteCallback"></script>
 <!-- alternative for no javascript -->
@@ -39,32 +38,13 @@ layout: page
 </script>
 </html>
 
-My name is Michael and I live just south of Glasgow with my wife, Jackie, hail from Essex, and study Divinity at the University of Glasgow. I have been a preacher since 2015, and have been married to Jackie since 2021.
+Welcome to my website: my name is Michael Topple and I'm a Christian and a preacher, living just south of Glasgow in Scotland. I'm married to Jacqueline (Jax) and we are members of [Dowanvale Free Church of Scotland](https://www.dowanvale.org). In the Church, I serve as the Church Administrator, while Jax is the Church Treasurer. Alongside my paid work as the Administrator, I am also a Theology student and occasional preacher in various churches across the west of Scotland.
 
-In my studies I have a particular interest in Reformation Theology, Church History, Presbyterian Practice, the role of the Church in 21st century Scotland and the role of Calvin's Doctors in Reformed Churches. My academic writing can be viewed on [my Academia page](https://glasgow.academia.edu/MichaelRJTopple). Alongside my studies, I am in the process of learning Gàidhlig (Scottish Gaelic) - *Fàilte gu mo làrach-lìn* - welcome to my website.
+The primary intention of this website is to be somewhere I can upload sermons I've preached, in the hope that they will be of use to people. Also on here you will see a few articles I've written, and a brief introduction to one of my other hobbies: collecting Communion Tokens.
 
-I am a Fellow or Member of various Antiquarian and Theological Societies, and in my spare time enjoy [amateur radio](https://gm5aug.topple.scot), and driving my classic and vintage cars.
+I hope that this website is a blessing to you, and that the Lord will speak to you through what you read or hear.
 
-The title of this blog comes from the Psalms, Psalm 71 in particular. I think of this Psalm as "the preacher's Psalm" because of the Psalmist's cry to God:
+God bless
+Michael
 
-*O God, do not forsake me, until I proclaim Your might to another generation, Your power to all those to come*
-(Psalm 71. 18)
-
-In these pages you can find my sermons and reflections, read more about my faith, discover more about Jesus, see my collection of communion tokens  and follow links to the various organisations I am a part of. I hope you find something of interest.
-
-I'll close with some words from the great C. S. Lewis:
-
-    “Aslan is a lion - the Lion, the great Lion." 
-    "Ooh" said Susan. "I'd thought he was a man. 
-    Is he quite safe? I shall feel rather nervous about meeting a lion"...
-    "Safe?" said Mr Beaver ..."Who said anything about safe? 
-    'Course he isn't safe. But he's good. He's the King, I tell you.”
-    *'The Lion, the Witch, and the Wardrobe', C. S. Lewis*
-
-God bless,
-*Michael*
-
-![Moses at the Burning Bush](media/Moses.jpg)
-*Illustration by Elizabeth Wang, R-60038-CW-V2, ‘Moses and the Burning Bush’, copyright © Radiant Light 2006, www.radiantlight.org.uk*
-
-[<img src="/media/cleachdi.png">](https://www.cleachdi.scot/)
+(PS - if you want to email me, email michael (at) topple (dot) scot)
