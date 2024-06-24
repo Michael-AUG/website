@@ -11,8 +11,6 @@ Click below to listen to the sermon being preached:
 Your browser does not support the audio element.
 </audio>
 
-*Apologies that the first few minutes of the sermon were not recorded.*
-
 # The LORD has forgotten me!
 
 This evening’s passage of Scripture is a continuation from this
