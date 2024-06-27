@@ -18,10 +18,7 @@ morning’s, and brings the 49<sup>th</sup> chapter of Isaiah to a close.
 This morning we considered how the first half of the chapter encouraged
 us to recognise Christ as our covenantal Saviour, bringing salvation not
 just to the land and people of Israel, but to God’s people throughout
-the world. <!-- excerpt-start -->This evening we find the prophecy entering new waters, as
-God’s people call out to the Lord with their concerns, and He answers
-them.<!-- excerpt-end --> It is my prayer that the encouragement that the Lord gives them
-will also be of encouragement for you.
+the world. <!-- excerpt-start -->This evening we find the prophecy entering new waters, as God’s people call out to the Lord with their concerns, and He answers them.<!-- excerpt-end --> It is my prayer that the encouragement that the Lord gives them will also be of encouragement for you.
 
 The Lord begins by making a triumphal declaration. In a similar way to
 Psalm 95, He encourages the people to “sing for joy… and exalt”, because
@@ -301,8 +298,7 @@ captivity to Satan.”[^9] We can see this in how Jesus discusses it:
 
 > *When a strong man, fully armed, guards his own palace, his goods are
 > safe; but when one stronger than he attacks him and overcomes him, he
-> takes away his armour in which he trusted and divides his spoil. (Luke
-> 11. 21-22)*
+> takes away his armour in which he trusted and divides his spoil. (Luke 11. 21-22)*
 
 While the enemy is indeed powerful (indeed, “prowls around like a
 roaring lion” (1 Pet. 5. 8)), “God is far more powerful, takes away his
