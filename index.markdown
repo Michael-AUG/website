@@ -40,6 +40,16 @@ layout: page
 
 Welcome to my website: my name is Michael Topple and I'm a Christian and a preacher, living just south of Glasgow in Scotland. I'm married to Jacqueline (Jax) and we are members of [Dowanvale Free Church of Scotland](https://www.dowanvale.org). In the Church, I work as the Church Administrator, while Jax volunteers as the Church Treasurer. Alongside my paid work as the Administrator, I am also a Theology student and occasional preacher in various churches (Free Church and others) across the west of Scotland.
 
+The name of this website is a reference to the Psalms, specifically to Psalm 68. 11:
+> *The Lord Himself did give the word,*
+> *the word abroad did spread;*
+> *Great was the company of them*
+> *the same who published. (Scottish Psalter 1650)*
+
+Rendered in more modern English, the verse reads:
+> *The Lord gave the word;*
+> *Great was the company of those who proclaimed it: (NKJV)*
+
 The primary intention of this website is to be somewhere I can upload sermons I've preached, in the hope that they will be of use to people. Also on here you will see a few articles I've written, and a brief introduction to one of my other hobbies: collecting Communion Tokens.
 
 I hope that this website is a blessing to you, and that the Lord will speak to you through what you read or hear.
