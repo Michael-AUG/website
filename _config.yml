@@ -18,9 +18,9 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Your might and Your power
+title: sixty-eight:eleven
 email: michael@topple.scot
-description: Sermons from Michael Topple, a husband, student, Free Churchman and preacher, living near Glasgow, Scotland.
+description: Sermons from Michael Topple, a husband, Divinity student, Free Churchman and preacher, living near Glasgow, Scotland.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://www.topple.scot" # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: jekyllrb
