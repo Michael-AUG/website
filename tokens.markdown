@@ -11,6 +11,7 @@ As well as various other things, I collect communion tokens. Communion tokens we
 Traditionally Communion season (which was celebrated quarterly) was preceded by a visit from your Elder. The Elder would distribute your token which you would then present on the Sunday for admission to the Lord's Table.
 
 You can find further information about Communion tokens at the following websites:
+* [Communion Tokens of the Free Church of Scotland - Kerr, R. & Lockie, J. R. (1946)](https://journals.socantscot.org/index.php/psas/article/view/8230/8198)
 * [Communion Tokens of the British Isles - David Powell](https://www.mernick.org.uk/lnc/DPowell/CommunionTokens.htm)
 * [Dunblane Museum - Communion Tokens](https://dunblanemuseum.org.uk/communion-tokens/)
 * [The Communion Token Collector](https://communiontoken.blog/)
