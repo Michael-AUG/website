@@ -18,22 +18,22 @@ This morning’s reading was from Jesus’ Sermon on the Mount, where we
 heard the Beatitudes and then some instructions, and it is these
 instructions (vv. 13-16) that <!-- excerpt-start -->I have taken as my text this morning: Jesus’ discourse on salt and light, and how it applies to our lives as believers.<!-- excerpt-end --> In these verses, Jesus shares “two piercing metaphors on salt
 and light to illustrate the impact that the disciples will have on the
-world around them”,[1] comparing them to salt and light and commanding
+world around them”,[^1] comparing them to salt and light and commanding
 them to be an example to others that they might in turn lead people to
 worship God. As J.C. Ryle explains, in his ‘Expository Thoughts’, “These
 verses teach us, in the first place, the character which true Christians
-must support and maintain in the world.”[2]
+must support and maintain in the world.”[^2]
 
 So let us consider salt and light in order, before considering what
 effect these instructions have on the life of the Christian believer.
 
 ## Salt
 
-#### “You are the salt of the earth.” (v. 16)[3]
+#### “You are the salt of the earth.” (v. 16)[^3]
 
 When Jesus describes His disciples as salt, He is making an important
 statement. “He means,” says Calvin, “that it is their office to salt the
-earth”.[4] This is to say that they themselves are not salty. This is
+earth”.[^4] This is to say that they themselves are not salty. This is
 not Jesus building the Disciples up, saying what great guys they are and
 how full of salt or the Spirit they are. This saltiness is not something
 that they have created, nor is it in their gift, but rather it is their
@@ -41,13 +41,13 @@ responsibility. It is perhaps seen nowadays in the context of a Gospel
 Minister, where he is charged with spreading the Gospel, but he himself
 is not the Gospel. So here, Jesus’ disciples are the salt not because
 they’re great and godly people, because they themselves have been
-liberally “seasoned with the salt of heavenly doctrine”[5] through their
-encounters with the Lord Jesus.
+liberally “seasoned with the salt of heavenly doctrine”[^5] through
+their encounters with the Lord Jesus.
 
 In using something like salt as His metaphor, Jesus was undoubtedly
 encouraging us to use our senses in understanding what He said. We can
 consider, therefore, how “salt has a **peculiar** taste of its own,
-utterly unlike anything else.”[6] We know that the Christian faith is
+utterly unlike anything else.”[^6] We know that the Christian faith is
 different to any other world religion. For our God is not vindictive or
 capricious, we do not have to earn our way to heaven, and we are not
 threatened with coming back as a lesser being after we die. Rather in
@@ -83,13 +83,14 @@ returning, discover (as happens to me) that your glasses are coated with
 a very fine layer of salt from the spray of the sea. Those of you who
 are cooks know that “when \[salt is\] mingled with other substances it
 preserves them from corruption; it imparts a portion of its taste to
-everything it is mingled with.”[7] We know that salted meat lasts longer
-than unsalted meat, and salted chips taste far nicer than unsalted ones,
-and that this is all down to the salt. I wonder whether you have ever
-encountered those Christians, good, saintly people, with whom spending
-only a few minutes can really recharge your batteries and fill you with
-the joy of the Lord? I know a few such people, and can attest that they
-are not only salty, but that their salt does rub off on other people.
+everything it is mingled with.”[^7] We know that salted meat lasts
+longer than unsalted meat, and salted chips taste far nicer than
+unsalted ones, and that this is all down to the salt. I wonder whether
+you have ever encountered those Christians, good, saintly people, with
+whom spending only a few minutes can really recharge your batteries and
+fill you with the joy of the Lord? I know a few such people, and can
+attest that they are not only salty, but that their salt does rub off on
+other people.
 
 #### 
 
@@ -97,7 +98,7 @@ are not only salty, but that their salt does rub off on other people.
 
 Salt, however, is useful, says Jesus, until it has “lost its taste”
 (v13). While I have never encountered this, Ellicott suggests that Dead
-Sea Salt has been known to lose its taste after many years,[8] although
+Sea Salt has been known to lose its taste after many years,[^8] although
 this has been debated in recent years; but whether or not salt **does**
 lose its saltiness, what matters to us is that **if it** **did** lose
 its saltiness, there would be no purpose to it. Non-salty salt is pretty
@@ -110,7 +111,7 @@ become unusable. Plumptre explains that:
 > store-house was sprinkled in wet weather upon the slopes and steps of
 > the temple to prevent the feet of the priests from slipping, and we
 > may accordingly see in our Lord’s words a possible reference to this
-> practice.*[9]
+> practice.*[^9]
 
 For Temple Worship, the salt (like everything else) had to be pure. If
 it became contaminated in some way, it all had to be disposed of, hence
@@ -149,13 +150,13 @@ and in reading this text we must never forget that. However, even so,
 you and I, as Christians, are “all children of the light, after having
 been enlightened by faith, and are commanded to carry in our hands
 ‘burning lamps,’ (that we may not wander in darkness,) and even to point
-out to others the way of life”.[10] (“Stay dressed for action and keep
+out to others the way of life”.[^10] (“Stay dressed for action and keep
 your lamps burning”, Lk. 12. 35) This means that we are “to live in such
-a manner, as if the eyes of all were upon \[us\]”.[11]
+a manner, as if the eyes of all were upon \[us\]”.[^11]
 
 What can we know about light?
 
-Firstly, light is entirely distinct from darkness.[12] We can never
+Firstly, light is entirely distinct from darkness.[^12] We can never
 confuse light and darkness, for they are polar opposites. Do you and I
 hold on to our former things of darkness, the things we said or did or
 felt or longed for before we were born again in Jesus Christ? If so, we
@@ -165,11 +166,11 @@ of all that He did for them, live in the light. Now, of course, even
 those carrying the light can sin, for “all have sinned and fallen short
 of the glory of God.” (Rom. 3. 23) However, “Jesus’ disciples have
 kingdom life within them as a living testimony to those in the world who
-do not yet have the light.”[13]
+do not yet have the light.”[^13]
 
 We needn’t worry, however, whether our light is as big as the light
 within person sitting next to us. After all, as Ryle reminds us, “The
-least spark in a dark room can be seen at once.”[14] It was our late
+least spark in a dark room can be seen at once.”[^14] It was our late
 Queen who, in one of her annual addresses, reminded us that a candle in
 a dark room gives off a great light. Even the smallest light can be the
 difference between absolute darkness and light itself. If you have been
@@ -185,7 +186,7 @@ Sunday School, *Jesus bids us shine?*
 > *Jesus bids us shine with a clear pure light,  
 > like a little candle burning in the night;  
 > in this world of darkness we must shine –  
-> you in your small corner, and I in mine.*[15]
+> you in your small corner, and I in mine.*[^15]
 
 What matters is not the size of the light, but that it gives light in
 the darkness.
@@ -194,7 +195,7 @@ the darkness.
 
 Jesus continues with His analogy by discussing how the light was used.
 We are told that “The typical lamp in a Jewish home was fairly small and
-was placed on a stand to give maximum illumination.”[16] Of course,
+was placed on a stand to give maximum illumination.”[^16] Of course,
 homes in Jesus’ time were not as they are now, often one or two rooms,
 very ‘open-plan’, so one light was sufficient. And this lamp (likely
 some form of oil-based candle) was positioned high up so that it gave
@@ -213,11 +214,11 @@ small and have little power is irrelevant when they are lifted high.
 But again, what did Jesus mean when He declared that His followers were
 the light(s) of the world? Well, we can recall that “\[Light\] was the
 first thing called into being. Without it the world would be a gloomy
-blank.”[17] God’s first creative action, back in Genesis 1, was to speak
-light into creation, for without the light, creation itself would have
-been meaningless. Without light in the world we would see nothing, feel
-nothing, have nothing: there could be no life, for light is an essential
-for life.
+blank.”[^17] God’s first creative action, back in Genesis 1, was to
+speak light into creation, for without the light, creation itself would
+have been meaningless. Without light in the world we would see nothing,
+feel nothing, have nothing: there could be no life, for light is an
+essential for life.
 
 And while we rely on physical light, provided by the sun, so too you and
 I as Christians are reliant on the spiritual light of Jesus Christ,
@@ -228,7 +229,8 @@ like. We won’t save people in and of ourselves, for that can only be the
 sovereign decision of God, but He can and does use us in the process of
 a person’s salvation. “The world will see the light of the kingdom
 through the good works done by Jesus’ disciples (and believers today),
-with the result that the Father who is in heaven will be glorified.”[18]
+with the result that the Father who is in heaven will be
+glorified.”[^18]
 
 Lastly, of course, we can consider how God has used light in times past.
 Having led His people out of Egypt, God gave the people a pillar of
@@ -256,11 +258,11 @@ this morning: Am I a Christian?
 J. C. Ryle wrote, on this passage, “There must be something marked,
 distinct, and peculiar about our character, if we are true Christians…
 Have we grace? Then it must be seen – Have we the Spirit? Then there
-must be fruit.”[19] We considered earlier how unique salt is, and how it
-is very difficult to describe without making use of the word ‘salt’. As
-we are described in 1 Peter, “a chosen generation, a royal priesthood,
-an holy nation, **a peculiar people**;” (1 Pet. 2. 9 KJV), my question
-for all of us would be ‘How peculiar are we?’
+must be fruit.”[^19] We considered earlier how unique salt is, and how
+it is very difficult to describe without making use of the word ‘salt’.
+As we are described in 1 Peter, “a chosen generation, a royal
+priesthood, an holy nation, **a peculiar people**;” (1 Pet. 2. 9 KJV),
+my question for all of us would be ‘How peculiar are we?’
 
 Now, of course the question sounds funny to our ears. There are many
 Christians, indeed many Churches, that I would describe as peculiar in a
@@ -302,7 +304,7 @@ did) “aim at what is honourable not only in the Lord’s sight but also in
 the sight of man”? (2 Cor. 8. 21) Of course our primary aim in the
 Christian life is to live to God’s glory. Every one of us will know the
 answer to the first question in the Catechism, where the Chief End of
-Man is “to glorify God and to enjoy Him for ever”,[20] and yet the way
+Man is “to glorify God and to enjoy Him for ever”,[^20] and yet the way
 we do this can have a serious effect on others.
 
 Take Sabbath Keeping, for example. A friend of my wife’s, when she
@@ -335,7 +337,7 @@ spiritual status before others, making ostentatious prayers in the
 marketplace, etc etc (Matt. 6. 4). When we are carrying the light of
 Christ, we should not aim “‘to be seen of men,’ and win their praise,
 but to win men, through our use of the light which we know not to be our
-own, to glorify the Giver of the light.”[21]
+own, to glorify the Giver of the light.”[^21]
 
 So friends, be encouraged in your walks with the Lord this week. For He
 has gifted you, through the Holy Spirit, the position of being salt and
@@ -351,55 +353,59 @@ are magnetically drawn, not to us, but to the Lord Jesus Himself.
 And now to Him be all glory, in the Church, in our lives, and in our
 hearts, this day and forevermore.
 
+*Prayer*
 
-[1] Lane T. Dennis, Wayne Grudem, and J. I. Packer, eds., *ESV Study
-Bible, Personal Size*, First Edition (Crossway, 2015), 1827.
+[^1]: Lane T. Dennis, Wayne Grudem, and J. I. Packer, eds., *ESV Study
+    Bible, Personal Size*, First Edition (Crossway, 2015), 1827.
 
-[2] J. C. Ryle, *Expository Thoughts on the Gospels: Matthew*
-(Edinburgh: Banner of Truth Trust, 1986), 36.
+[^2]: J. C. Ryle, *Expository Thoughts on the Gospels: Matthew*
+    (Edinburgh: Banner of Truth Trust, 1986), 36.
 
-[3] This and all other Bible quotations, unless otherwise stated, taken
-from the English Standard Version (Anglicised).
+[^3]: This and all other Bible quotations, unless otherwise stated,
+    taken from the English Standard Version (Anglicised).
 
-[4] Jean Calvin, *Commentary on a Harmony of the Evangelists, Matthew,
-Mark and Luke* (Grand Rapids, Mich.: Baker Book House, 1981), 270.
+[^4]: Jean Calvin, *Commentary on a Harmony of the Evangelists, Matthew,
+    Mark and Luke* (Grand Rapids, Mich.: Baker Book House, 1981), 270.
 
-[5] Ibid.
+[^5]: Ibid.
 
-[6] Ryle, *Expository Thoughts on the Gospels*, 36.
+[^6]: Ryle, *Expository Thoughts on the Gospels*, 36.
 
-[7] Ibid.
+[^7]: Ibid.
 
-[8] The Rev. E. H. Plumptre DD et al, ‘The Gospel According To St
-Matthew, St Mark, and St Luke’, in *A Bible Commentary for English
-Readers by Various Writers*, ed. Charles John Ellicott, vol. 6 (London:
-Cassell and Co., n.d.), 22.
+[^8]: The Rev. E. H. Plumptre DD et al, ‘The Gospel According To St
+    Matthew, St Mark, and St Luke’, in *A Bible Commentary for English
+    Readers by Various Writers*, ed. Charles John Ellicott, vol. 6
+    (London: Cassell and Co., n.d.), 22.
 
-[9] Ibid.
+[^9]: Ibid.
 
-[10] Calvin, *Matthew, Mark and Luke*, 273.
+[^10]: Calvin, *Matthew, Mark and Luke*, 273.
 
-[11] Ibid., 274.
+[^11]: Ibid., 274.
 
-[12] Ryle, *Expository Thoughts on the Gospels*, 36.
+[^12]: Ryle, *Expository Thoughts on the Gospels*, 36.
 
-[13] Dennis, Grudem, and Packer, *ESV Study Bible, Personal Size*, 1828.
+[^13]: Dennis, Grudem, and Packer, *ESV Study Bible, Personal Size*,
+    1828.
 
-[14] Ryle, *Expository Thoughts on the Gospels*, 36.
+[^14]: Ryle, *Expository Thoughts on the Gospels*, 36.
 
-[15] Susan Warner, *Jesus Bids Us Shine*, 1881, Hymn, 1881,
-https://hymnary.org/text/jesus_bids_us_shine_with_a\_pure_clear_li.
+[^15]: Susan Warner, *Jesus Bids Us Shine*, 1881, Hymn, 1881,
+    https://hymnary.org/text/jesus_bids_us_shine_with_a\_pure_clear_li.
 
-[16] Dennis, Grudem, and Packer, *ESV Study Bible, Personal Size*, 1828.
+[^16]: Dennis, Grudem, and Packer, *ESV Study Bible, Personal Size*,
+    1828.
 
-[17] Ryle, *Expository Thoughts on the Gospels*, 36.
+[^17]: Ryle, *Expository Thoughts on the Gospels*, 36.
 
-[18] Dennis, Grudem, and Packer, *ESV Study Bible, Personal Size*, 1828.
+[^18]: Dennis, Grudem, and Packer, *ESV Study Bible, Personal Size*,
+    1828.
 
-[19] Ryle, *Expository Thoughts on the Gospels*, 36.
+[^19]: Ryle, *Expository Thoughts on the Gospels*, 36.
 
-[20] Roderick Lawson, *The Shorter Catechism: With Explanatory Notes and
-Review Questions*, Christian Focus Publications ed (Great Britain:
-Christian Heritage, 2017) Q. 1.
+[^20]: Roderick Lawson, *The Shorter Catechism: With Explanatory Notes
+    and Review Questions*, Christian Focus Publications ed (Great
+    Britain: Christian Heritage, 2017) Q. 1.
 
-[21]  The Rev. E. H. Plumptre DD et al, ‘Matthew, Mark and Luke’, 23.
+[^21]:  The Rev. E. H. Plumptre DD et al, ‘Matthew, Mark and Luke’, 23.
