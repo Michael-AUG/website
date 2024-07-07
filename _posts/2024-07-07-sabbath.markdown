@@ -1,0 +1,552 @@
+---
+layout: post
+title:  "SERMON - Remember the Sabbath Day and keep it holy - 7th July 2024 - Glenboig Christian Fellowship"
+date:   2024-07-07 11:30:07
+categories: jekyll update
+excerpt_separator: <!-- excerpt-end -->
+---
+
+![Eric Liddell](/media/liddell.jpg)
+
+Click below to listen to the sermon being preached:
+<audio controls>
+<source src="/media/sabbath.mp3" type="audio/mpeg">
+Your browser does not support the audio element.
+</audio>
+
+<!-- excerpt-start -->This morning we move on to our fourth sermon on the Ten Commandments, reading the Lord’s instruction to the people of Israel to “Remember the Sabbath Day and keep it holy.”.<!-- excerpt-end -->[^1] (Ex. 20. 8). The Ten Commandments are
+helpfully split into two sections, with the first section concerning our
+relationship with God Himself, and the second section concerning our
+relationship with others around us. In a way, we can see the first
+section as ‘vertical’, and the second section as ‘horizontal’. Today’s
+commandment is the last commandment in the ‘vertical’ section, the last
+one to explicitly focus on our relationship with the Lord. Although, of
+course, it must be recognised that just as the ‘vertical’ commandments
+do influence the way we treat others around us, so too the ‘horizontal’
+commandments do, of course, influence the way we relate to God.
+
+With this in mind, I propose this morning to explore this Commandment in
+three stages. Firstly, we will consider what the Lord said in Exodus and
+throughout the Old Testament, seeing how the Lord anticipated the people
+to observe the Sabbath. Secondly we will consider how Jesus responded to
+the Sabbath observances of His day. Lastly we will consider the
+Christian Sabbath today, asking why and how we are to observe it still.
+
+In so doing, I should add that it is no coincidence that we are
+exploring this Commandment this week. Those of you who know your history
+will be aware that this week, this Thursday to be precise, is the
+100<sup>th</sup> anniversary of a major race in the 1924 Olympic Games,
+where the Scottish athlete Eric Liddell refused to run on the Lord’s Day
+because it clashed with his beliefs. This was, of course, dramatised in
+the film *Chariots of Fire*. I am hoping that, amongst other things,
+Eric Liddell’s example may be an encouragement to us, and that this
+sermon may help us understand why he acted as he did, and consider our
+response to the Lord’s Day too.
+
+## God’s Instruction to the People
+
+So first, let us explore the Commandment as it is written. Turn with me,
+if you will, to Exodus 20, commencing reading at verse 8:
+
+> *“Remember the Sabbath day, to keep it holy. Six days you shall
+> labour, and do all your work, but the seventh day is a Sabbath to the
+> LORD your God. On it you shall not do any work, you, or your son, or
+> your daughter, your male servant, or your female servant, or your
+> livestock, or the sojourner who is within your gates. For in six days
+> the LORD made heaven and earth, the sea, and all that is in them, and
+> rested on the seventh day. Therefore the LORD blessed the Sabbath day
+> and made it holy. (Ex. 20. 8-11)*
+
+#### First instruction: Remember
+
+This commandment, and the following commandment, are the only two which
+(in our translations) do not begin with ‘You’ (or ‘Thou’). This is not
+accidental, a mere slip of the pen or error in copying: there is a
+reason that this commandment begins with ‘Remember’: and that is
+“because we are very ready to forget it”.[^2] After all, the Sabbath
+comes but once a week, and we spend the intervening six days occupied by
+the things of the world. This is no new thing, something that has come
+about only since the Industrial Revolution, or the advent of
+smartphones: this has been a problem since the Lord first revealed
+Himself to mankind.
+
+We can see this from an incident in Numbers 15:
+
+> *While the people of Israel were in the wilderness, they found a man
+> gathering sticks on the Sabbath day. And those who found him gathering
+> sticks brought him to Moses and Aaron and to all the congregation.
+> They put him in custody, because it had not been made clear what
+> should be done to him. And the LORD said to Moses, “The man shall be
+> put to death; all the congregation shall stone him with stones outside
+> the camp.” And all the congregation brought him outside the camp and
+> stoned him to death with stones, as the LORD commanded Moses. (Numbers
+> 15. 32-36)*
+
+This man, we are led to believe, was subject to the Ten Commandments,
+and therefore we can only assume either wilfully ignored, or forgot, the
+instruction to rest on the Sabbath. His punishment was severe.
+
+Later on in the Old Testament, we can remember how the Lord despaired at
+the actions of the religious leaders:
+
+> *Her priests have done violence to my law and have profaned my holy
+> things. They have made no distinction between the holy and the common,
+> neither have they taught the difference between the unclean and the
+> clean, and **they have disregarded my Sabbaths**, so that I am
+> profaned among them. (Ezekiel 22. 26)*
+
+#### Second Instruction: Keep it Holy
+
+Hot on the heels of the instruction to remember comes the instruction to
+“keep it holy.” For the people of Israel this meant not only abstaining
+from sinful activities, but also from activities that would at other
+times be quite acceptable, and instead dedicating that time to the Lord.
+
+This was not a totally new instruction for the people of Israel. Earlier
+in the Exodus, when the Lord provided food for the people, the bread or
+manna from heaven, they were instructed to gather twice as much on the
+sixth day because “Tomorrow is a day of solemn rest, a holy Sabbath to
+the Lord; bake what you will bake and boil what you will boil, and all
+that is left over lay aside to be kept till the morning.” (Ex. 16. 23)
+
+This was a clear departure from the previous instruction, that every day
+they should gather just as much as they needed for that day, and that
+they should not gather any more for the following day (v 19), because it
+would go off overnight. Those who disobeyed this instruction found out
+that, as the Lord promised, their food had gone off overnight – “it bred
+worms and stank.” (v. 20)
+
+However, to help them keep the Sabbath day holy, on the sixth day they
+were allowed to gather more in to keep for the following day. Overnight
+“it did not stink, and \[come morning\] there were no worms in it.” (v.
+24) Some people did go out looking for food on the seventh day, “but
+they found none. And the Lord said to Moses, ‘How long will you refuse
+to keep my commandments and my laws?’” (v. 27-28)
+
+In Nehemiah’s day we can read how people desecrated the Sabbath, not by
+doing sinful things, but by doing lawful things on the wrong day:
+
+> *In those days I saw in Judah people treading winepresses on the
+> Sabbath, and bringing in heaps of grain and loading them on donkeys,
+> and also wine, grapes, figs, and all kinds of loads, which they
+> brought into Jerusalem on the Sabbath day. And I warned them on the
+> day when they sold food. Tyrians also, who lived in the city, brought
+> in fish and all kinds of goods and sold them on the Sabbath to the
+> people of Judah, in Jerusalem itself! Then I confronted the nobles of
+> Judah and said to them, “What is this evil thing that you are doing,
+> profaning the Sabbath day? Did not your fathers act in this way, and
+> did not our God bring all this disaster on us and on this city? Now
+> you are bringing more wrath on Israel by profaning the Sabbath.” (Neh.
+> 13. 15-18)*
+
+#### Third Instruction: Nor anyone under you
+
+Another interesting dynamic of this Commandment concerns who it applies
+to. Every other commandment is directed to the reader, or the hearer.
+When Moses read the Commandments aloud, or as the people read them to
+themselves, the other commandments gave them instructions on how to live
+their lives. This Commandment is different, however, for as well as
+instructing the reader/hearer how to live his life, it also gives
+instruction to those under them.
+
+Of course, ‘people under them’ could mean many different groups of
+people. For parents, it would have meant their children. For slave
+owners and servant owners, it would have meant their servants and
+slaves. For clan or tribal leaders it would have meant all the people of
+their tribes. Furthermore, the instruction isn’t just for people:
+
+> *On it you shall not do any work, you, or your son, or your daughter,
+> your male servant, or your female servant, **or your livestock**, or
+> the sojourner who is within your gates. (20. 10)*
+
+The man who ploughed the field could not argue that, if he set the ox to
+drive the plough but did not lift a finger himself, that was keeping the
+law. No, it was even forbidden to get an animal to work on your behalf.
+
+Brueggemann, considering this passage, writes thus:
+
+> *The fourth commandment on sabbath, before it had to do with worship,
+> concerned work stoppage. Sabbath is the regular, disciplined, highly
+> visible decision to stop work so that one’s existence is not driven by
+> production or by the commodities that are produced… It is clear that
+> there could be no sabbath work stoppage in Pharaoh’s domain, not for
+> the slaves, not for the taskmasters, not for the supervisors, not even
+> for Pharaoh. The domain of Pharaoh is an endless rat race with a drive
+> toward monopoly that defined the life of all parties.*[^3]
+
+Here Brueggemann is comparing the life that the people of Israel endured
+under Pharaoh to the life that God led them out into. Under Pharaoh’s
+slave-based system, the Israelites were used and exploited for all that
+could be squeezed from them. The only reason they were fed and watered
+was so that they would do more work. The moment an Israelite slave lost
+his usefulness, he was no more use to Pharaoh. Compare this to the life
+that God led them out to, where instead of working themselves to the
+bone, they were reminded of the actions of God Himself. God worked (very
+hard) for six days creating Creation as we know it, but He deliberately
+ceased work on the seventh day.
+
+Brueggemann, considering God’s rest in Genesis, says:
+
+> *The work of creation is, for the Creator, demanding work, and God
+> must rest. But God will rest on the seventh day because there is in
+> God, or in God’s creation, no restlessness, no anxiety, no disease,
+> and no compulsion to do more. The sabbath day is a festival of
+> well-being that is grounded in divine confidence in the abundance of
+> earth that has been set in motion.*[^4]
+
+The instruction, therefore, for the original hearers of the Commandment
+was simple. Not only were they to down tools and keep the Sabbath day
+holy, but they were to do all within their power to ensure that those
+under them had the same opportunity to do likewise. We saw this, too, in
+the Nehemiah reading earlier didn’t we: Nehemiah wrote, “In those days I
+saw in Judah people treading winepresses on the Sabbath, and bringing in
+heaps of grain and loading them on donkeys, and also wine, grapes, figs,
+and all kinds of loads, which they brought into Jerusalem on the Sabbath
+day. **And I warned them on the day when they sold food.**” (Neh. 13.
+15)
+
+#### Fourth Instruction: Remember Why
+
+God’s final instruction to the original hearers of the Commandment was
+to remember why He was instructing this. After all, for a people who
+were in the wilderness, surviving often hand to mouth, involved in any
+number of skirmishes, looking for the promised land, to spend 1/7 of
+their life apparently doing nothing must have seemed a strange thing to
+do. God reminded them in the Commandment that:
+
+> *For in six days the LORD made heaven and earth, the sea, and all that
+> is in them, and rested on the seventh day. Therefore the LORD blessed
+> the Sabbath day and made it holy. (20. 11)*
+
+This is why they were to cease work. Not just because God wanted to give
+them a day off, not just (as Brueggemann suggests later on in his book)
+because they were to live a life counter to the capitalistic approach of
+Pharaoh, but because they were to follow the pattern that the Lord had
+laid down in Genesis. God worked for six days, and rested on the
+seventh, even though (being all powerful) it’s not as though He needed
+to rest. If He’d wanted to carry on, He could easily have done. The
+people of Israel were called to live as covenant people under God, and
+to live as He commanded and instructed. Therefore to shape their lives
+around the Creation pattern was to make sure that they dedicated at
+least one day to the remembrance of God’s work in creation.
+
+In Ezekiel God gave further explanation to why He ordained the Sabbath
+day:
+
+> *Moreover, I gave them my Sabbaths, as a sign between me and them,
+> that they might know that I am the LORD who sanctifies them. (Ezekiel
+> 20. 12)*
+
+The Sabbath was a sign of the covenant between God and man. A little
+like circumcision, it was a physical, tangible reminder for the people
+of Israel that they lived under God; and it was also a sign to those
+outside the camp that these people were living under God. When all
+around them the world continued, within the camp there was Sabbath rest.
+
+## Jesus’ Instruction to Christians
+
+The Sabbath story doesn’t just end there, though. For while Sabbath as a
+concept continued to evolve down through the centuries, Jesus Himself
+addressed the question of the Sabbath when He lived and ministered.
+
+#### Jesus’ Instruction: Don’t be Legalistic
+
+By the time of Christ, the rules concerning the Sabbath had become
+“deeply legalistic and self-righteous”.[^5] Throughout the Scriptures we
+can see how the Pharisees continually challenged Jesus when He
+ministered on the Jewish Sabbath. This is most evident in Luke’s Gospel:
+
+> *But the ruler of the synagogue, indignant because Jesus had healed on
+> the Sabbath, said to the people, “There are six days in which work
+> ought to be done. Come on those days and be healed, and not on the
+> Sabbath day.” (Luke 13. 14)*
+
+Can you imagine the scene? Just because Jesus had healed the disabled
+woman on the Sabbath, “the ruler’s indignation was aroused, completely
+ignoring the woman being freed from 18 years of suffering. Jesus was not
+violating any Old Testament commandment; later Jewish traditions had
+added many more commandments and prohibitions than God had ever given in
+His Word.”[^6] The Pharisees had, through the addition of more and more
+and more laws and traditions, turned the Sabbath day from a day of rest
+and worship into “a burden with man-made regulations.”[^7]
+
+Jesus did not accept this, however. We can remember that Matthew’s
+Gospel was written with a Jewish readership in mind, yet we can read
+plenty of accounts of Jesus performing miracles on the Sabbath in his
+Gospel account, so we can imagine how its initial readers would have
+reacted when they heard that the Lord had done these things on the
+Sabbath day.
+
+In Matthew 12 we have Jesus’ ultimate declaration on the Sabbath. Having
+been challenged because His disciples had plucked some ears of grain to
+eat as they walked on the Sabbath day, Jesus reminded the Pharisees that
+even great King David had eaten holy food in the Temple on the Sabbath
+day (see 1 Sam 21. 1-6) when he was hiding from Saul. The Old Testament
+scriptures did not condemn David for this, because “the Law was intended
+to serve God’s people, rather than God’s people being intended to serve
+the Law.”[^8]
+
+Jesus then challenges the Pharisees, asking which of them would allow
+their sheep to fall down a hole or pit on the Sabbath and not pull it
+out. He explains that just as they would reach in and help the sheep
+out, He is reaching out and healing those in need, even on the Sabbath,
+because “Of how much more value is a man than a sheep! So it is lawful
+to do good on the Sabbath.” (Matt. 12. 12)
+
+Here Jesus outlies something called the principles of necessity and
+mercy, and these two rules still cover the Christian Sabbath to this
+day. They are the only two Biblical exceptions to the rule concerning
+work on the Sabbath. We’ll come onto it more later, but just while we
+are here we can consider these principles a little further.
+
+**Acts of Mercy:** The nurse who is rostered to work on a Sunday once
+every three weeks: should she feel bad about this? Is she breaking the
+Sabbath? No, because works of mercy can still take place on the Sabbath.
+Jesus healed and did good works on the Sabbath, and so can we.
+
+**Acts of Necessity:** The parent who still has to cook dinner for their
+family on the Lord’s Day: is he/she breaking the commandment to stop
+work? No, because acts of necessity can still take place – we all have
+to eat! And yes, they could follow the Old Testament pattern of
+gathering in twice as much for the Sabbath, but Jesus and His disciples
+didn’t as they plucked the ears of grain, and this is a good enough
+principle for us too.
+
+#### Jesus’ Instruction: Come unto me
+
+We have considered earlier how the Sabbath was instituted of God as a
+time of rest. This involved rest from our earthly labours, yes, but rest
+also in the Lord. In Matthew 12 Jesus describes Himself as “lord of the
+Sabbath” (Matt. 12. 8), and in the Epistle to the Hebrews, we are
+encouraged to “enter in to the Sabbath rest provided by Christ.”[^9] We
+know that Jesus is our Sabbath rest because of His gracious invitation
+in Matthew 11:
+
+> *Come to me, all who labour and are heavy laden, and I will give you
+> rest. Take my yoke upon you, and learn from me, for I am gentle and
+> lowly in heart, and you will find rest for your souls. For my yoke is
+> easy, and my burden is light.” (Matt. 11. 28-30)*
+
+The word Sabbath comes from the Hebrew word *sabat*, “which means ‘to
+rest or stop or cease from work’”,[^10] and in Jesus’ invitation in
+Matthew 11 we can see that He, and He alone, is the true rest. After
+all, Jesus came not to abolish the law “but to fulfil it” (Matt. 5. 17)
+– Jesus didn’t come to abolish the instruction to rest on the Sabbath,
+but instead to **be** the *sabat*, the rest from our earthly labours. In
+Jesus Christ we can not only rest our earthly labours, but through His
+death on the cross for our sins, we can enter in to the eternal rest
+that we can read of in Hebrews 4.
+
+## How to observe the Christian Sabbath
+
+A question may be forming in your minds, however, asking how we are
+meant to keep the Sabbath as Christians. Of course, one challenge that
+those who disagree with Sabbath-keeping would offer is that the Jewish
+Sabbath is our Saturday. “If we are to keep any Sabbath,” they would
+argue, “surely we should keep it on Saturday?”
+
+Jonathan Edwards, the 18<sup>th</sup> century American Puritan, answered
+this by explaining that, “having finished the work of redemption, Jesus
+rested in the grave on the old covenant Sabbath and rose from the grave
+in His resurrection on the first day of the week.”[^11] This, in his
+mind (and, I would confess, in mine too) is reason enough to mark the
+Sabbath. The day itself was not the purpose of the Commandment. God
+didn’t want people to sit and remember the seventh day **because it was
+the seventh day**, but rather because of what He had done (or not done
+on it). Jesus lay in the tomb on the Jewish Sabbath (the seventh day),
+and rose “on the first day of the week” (John 20. 1): as Christians we
+don’t mark and celebrate the day that Jesus lay dead, but rather the day
+that He rose from the grave. Through Jesus’ death and resurrection,
+there was a “redemptive-historical shift from the OT Sabbath to the
+Christian Lord’s Day”.[^12]
+
+The Reformers considered this when they were composing the Westminster
+Standards. In the Westminster Confession we can read the following:
+
+> *As it is the law of nature, that, in general, a due proportion of
+> time be set apart for the worship of God; so, in His Word . . . He
+> hath particularly appointed one day in seven, for a Sabbath, to be
+> kept holy unto Him: which, from the beginning of the world to the
+> resurrection of Christ, was the last day of the week; and, from the
+> resurrection of Christ, was changed into the first day of the week,
+> which, in Scripture, is called the Lord’s Day, and is to be continued
+> to the end of the world, as the Christian Sabbath.*[^13]
+
+How, then, should we as Christians keep the Sabbath? Well I seek to
+answer this with no small amount of fear and trembling, because there is
+great disagreement among Christians concerning this. We all know the
+tropes concerning Sabbatarianism in the Western Isles, with children’s
+play-parks being chained up on the Lord’s Day, and at the other end of
+the scale we know Christians who are not far from antinomianism who
+argue that they are freed from laws and legalism and can therefore treat
+Sunday the same as any other day. I have Christian friends on both sides
+of this argument and so am conscious of this as I answer.
+
+However, I feel it is my duty as a preacher to attempt to answer this
+question, so will turn to Scripture and the Larger Catechism to seek to
+shape my answer for you. In doing this I am not intending to pass
+judgement on anyone, nor to make myself seem ‘holier-than-thou’, but
+simply to offer Scripture out to you in the form of a few thoughts.
+
+#### *1) “The sabbath or Lord’s day is to be sanctified by an holy resting all the day”*[^14]
+
+The first point to remark on is that the Lord intends us to make the
+Lord’s day a day of holy rest. This not only means that we should try
+our best to avoid sinful activities (as every other day), but also those
+activities that are lawful but don’t constitute worship or rest. We’ve
+seen how in the Old Testament even foraging for food or selling fish,
+both of which activities were fine any other day of the week, was
+forbidden on the Sabbath. Jesus showed us that acts of mercy and
+necessity are allowed on the Lord’s day: we need to eat and drink, the
+baby’s nappy needs changed, the sick need to be healed. But
+‘extra-curricular’ activities should be avoided if possible. This is not
+because such activities are in themselves bad, but because they risk
+taking the focus of the day away from the Lord, leading us to forget
+Him, even though the commandment begins “Remember” (Ex. 20. 8)
+
+As an example, I am into amateur (ham) radio, and can often be found
+chatting to people in Morse Code; but on the Lord’s Day I don’t use the
+radio because even though the hobby is not in itself sinful in any way
+(and in fact can be used for good), it can easily take up all my time
+and cause me to forget God. However, having said that, I am part of an
+organisation called RAYNET which can be called upon by the emergency
+services to provide radio communications in times of emergency
+(situations such as Lockerbie), in which case the ‘acts of mercy and
+necessity’ condition kicks in and of course it becomes right to do it.
+
+#### 2) “making it our delight to spend the whole time… in the publick and private exercises of God’s worship”[^15]
+
+The second point is this: we should not see the Lord’s Day as a
+miserable day, a day to fear throughout the week. Rather we should
+‘delight’ in our worship, both in private (our solitary and family
+worship) and public (in church). We can remember how Jesus, even though
+He didn’t need to, still went to the Synagogue to worship with God’s
+people (see Luke 4. 16); and in Acts we can see how the early church
+gathered together “on the first day of the week” (Acts 20. 7) to worship
+and break bread. They clearly delighted in this, because Paul “prolonged
+his speech until midnight”! (Ibid.)
+
+Is there some Christian book on your bookshelf that you have been
+wanting to read for a while but never have the time? We all know that
+reading in a hurry can be an unpleasant thing, so why not take this
+afternoon to begin to read it? Personally speaking the Lord’s day
+afternoon is one of the highlights of my week, as I’m able to sit in our
+living room reading something good for my soul, knowing that there are
+no other calls on my life. If this isn’t resting in the Lord, I don’t
+know what is!
+
+Similarly, are there any acts of mercy that we’ve not had time to do
+over the busy week? In 1 Corinthians we can see Paul instructing the
+Corinthian church to “put something aside and store it up” as part of
+their “collection for the saints” (1 Cor. 16. 1-2). John and Charles
+Wesley, for example, used to visit prisoners on the afternoon of the
+Lord’s day, praying with them and encouraging them. Is there a member of
+the Church that you’ve not seen for a while who you could phone this
+afternoon, to encourage and pray with?
+
+#### 3) “profaning the day by idleness”[^16]
+
+While we are instructed to take rest, and this rest is important, it is
+equally important that we don’t waste the Lord’s day through inaction or
+idleness. To say, ‘*The Lord has given me this day for rest, therefore
+I’m going to spend all day in bed*’ is not making the most of the Lord’s
+day, as it is not in itself engaging in worship. Now, of course, as with
+everything, these thoughts are not intended as a hard and fast demand:
+if you are unwell of course you must take the day in bed, and missing
+public worship because you are sick is no sin. But treating the Lord’s
+day as an excuse to do nothing but stay in bed, even though you’re quite
+well enough to attend worship, or at least worship the Lord as a family
+or on your own, is not just wasting the Lord’s day but is, as the Larger
+Catechism declares, “profaning the day”.[^17] We must be on our guard
+against that.
+
+#### 4) “\[the Lord ordains the Sabbath\] to be a means of blessing to us in our sanctifying it”[^18]
+
+The last point to consider is the reason we observe the Lord’s Day at
+all. We all know, I hope, that the Christian eternal life is not based
+on some form of works righteousness that sees us only get to heaven if
+we do the correct things, the correct number of times. It is not the
+number of prayers that we say that determines whether we get to heaven
+or not, but rather it is all down to Jesus Christ and the grace that He
+showed us in dying for our sins.
+
+Therefore we must recognise that we do not keep the Sabbath to, in some
+way, appease God, or convince Him to let us in to heaven. Rather, as
+Jesus explained in the Gospel, “the sabbath was made for man” (Mark 2.
+27). God gave us the Lord’s day’s rest as a blessing for us. Anyone who
+works during the week will know the great blessing of the weekend, and
+yet even Saturdays are full nowadays, aren’t they, with various hobbies
+or activities. The Lord’s day is a gift to us from God, an opportunity
+to down tools, to un-tense ourselves and remember why we are really
+here. It is an opportunity to join in corporate worship in the Church,
+it is an opportunity to read good Christian books, to listen to good
+Christian podcasts, to pray, to reflect, to rest. This fourth and final
+way of keeping of the Christian Sabbath is to remember that we keep it
+not as a burden to be borne, but as a gift to be cherished.
+
+In giving this commandment to the people of Israel, God was making a
+definite point. He was challenging His people to live not as the world
+lives but as He does. He was making sure that they spent at least a
+proportion of their time in worshipping Him. While the ceremonial
+aspects of The Law have passed away, the moral law is still binding on
+Christians today. Jesus, in His death, fulfilled The Law on our behalf,
+yet did not abolish it. This is why we, as Christians, mark the Lord’s
+day every week when we gather to worship. On a Sunday we mark the Lord’s
+resurrection from the dead, we remember how He died for our sins and for
+our salvation, and we commit just a small fraction of our time to truly
+rest in Him.
+
+It is my prayer that we may make the most of the Lord’s Day, neither
+taking it to the extremes that the Pharisees presented Jesus with in the
+Gospels, nor to the other extreme of discarding it altogether and
+forgetting God entirely. May the Lord strengthen us through our Sabbath
+day activities, and may our light “so shine before others, that they may
+see \[our\] good works and give glory to \[our\] Father who is in
+heaven.” (Matt. 5. 16)
+
+[^1]: This and all other Scripture references, unless otherwise stated,
+    taken from the ESV (Anglicised).
+
+[^2]: Westminster Divines, ‘The Larger Catechism’, in *The Confession of
+    Faith* (Edinburgh and London: William Blackwood and Sons Ltd.,
+    1969), sec. Answer 121.
+
+[^3]: Walter Brueggemann, *Preaching from the Old Testament*, Working
+    Preacher Books (Minneapolis: Fortress Press, 2019), 56–57.
+
+[^4]: Ibid., 15.
+
+[^5]: ‘The Sabbath’, Ligonier Ministries, accessed 6 July 2024,
+    https://www.ligonier.org/guides/the-sabbath.
+
+[^6]: Lane T. Dennis, Wayne Grudem, and J. I. Packer, eds., *ESV Study
+    Bible, Personal Size*, First Edition (Crossway, 2015), 1985.
+
+[^7]: ‘The Sabbath’.
+
+[^8]: Dennis, Grudem, and Packer, *ESV Study Bible, Personal Size*,
+    1844.
+
+[^9]: ‘How Is Jesus Our Sabbath Rest?’, GotQuestions.org, accessed 6
+    July 2024, https://www.gotquestions.org/Jesus-Sabbath.html.
+
+[^10]: Ibid.
+
+[^11]: ‘The Sabbath’.
+
+[^12]: Ibid.
+
+[^13]: Westminster Divines, ‘The Westminster Confession of Faith’, in
+    *The Confession of Faith* (Edinburgh and London: William Blackwood
+    and Sons Ltd., 1969), sec. 21. 7.
+
+[^14]: Westminster Divines, ‘Larger Catechism’, sec. A. 117.
+
+[^15]: Ibid.
+
+[^16]: Ibid., sec. A. 119.
+
+[^17]: Ibid., sec. A. 119.
+
+[^18]: Westminster Divines, ‘Larger Catechism’, sec. A. 120.
+
