@@ -20,7 +20,7 @@
 
 title: ten:fourteen
 email: michael@topple.scot
-description: Sermons from Michael Topple, a husband, Divinity student, Free Churchman and preacher, living near Glasgow, Scotland.
+description: Sermons from Michael Topple
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://www.topple.scot" # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: jekyllrb
