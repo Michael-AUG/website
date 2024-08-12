@@ -1,0 +1,27 @@
+---
+layout: post
+title:  "SERMON - God: David's Refuge and Ours - 11th August 2024 - Oban Free Church of Scotland"
+date:   2024-07-15 11:30:07
+categories: jekyll update
+excerpt_separator: <!-- excerpt-end -->
+---
+
+![God is our Refuge - Psalm 46](/media/refuge.jpg)
+
+Click below to listen to the sermon being preached:
+<audio controls>
+<source src="/media/refuge.mp3" type="audio/mpeg">
+Your browser does not support the audio element.
+</audio>
+
+No typed version of this week's sermon, but the overarching points are reproduced below:
+
+Reading: Psalm 7
+
+vv. 1-2		God is David's refuge.
+vv. 3-5		God is David's judge.
+vv. 6-8		God is David's vindicator.
+vv. 9-10	God is David's saviour.
+vv. 11-13	God is a just judge.
+vv. 14-16	David describes the process of sin.
+v. 17		God is worthy of all praise.
