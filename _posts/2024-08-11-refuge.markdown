@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "SERMON - God: David's Refuge and Ours - 11th August 2024 - Oban Free Church of Scotland"
-date:   2024-07-15 11:30:07
+date:   2024-08-11 11:30:07
 categories: jekyll update
 excerpt_separator: <!-- excerpt-end -->
 ---
