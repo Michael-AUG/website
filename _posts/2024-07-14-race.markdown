@@ -72,7 +72,7 @@ banqueting halls… Often meat from the temple was sold to the public in
 the marketplace. This section of 1 Corinthians gives clear guidance
 about the use of such food.”[^4] 
 
-<!-- excerpt-start -->The problem that the Corinthians could not solve for themselves was, what should we do when presented with a plate of food that only a little earlier in the day had been offered before some god in the temple?<!-- excerpt-end -->
+The problem that the Corinthians could not solve for themselves was, what should we do when presented with a plate of food that only a little earlier in the day had been offered before some god in the temple?
 
 It was an interesting question. But in their confusion the Corinthians
 had overlooked one thing: even though the food had been offered to
@@ -150,8 +150,8 @@ Let’s turn again to our reading for tonight, and in particular to vv.
 > it under control, lest after preaching to others I myself should be
 > disqualified. (1 Cor. 9. 23-27)*
 
-Here we have three things: an **illustration**, an **exhortation**, and
-an **application**. Let’s look at each in turn:
+<!-- excerpt-start -->Here we have three things: an **illustration**, an **exhortation**, and
+an **application**. Let’s look at each in turn:<!-- excerpt-end -->
 
 #### The Illustration **- “*Do you not know that in a race all the runners run, but only one receives the prize?*” (24a)**
 
