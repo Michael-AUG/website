@@ -1,0 +1,19 @@
+---
+layout: post
+title:  "SERMON - The Vision, the Reality and the Promise - 15th September 2024 - recorded for Wimpole Road Methodist Church"
+date:   2024-09-15 13:30:07
+categories: jekyll update
+excerpt_separator: <!-- excerpt-end -->
+---
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZinZz0R9ofc?si=7eqzUbjFwkF0LKpt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+Reading: Psalm 16
+
+Sermon headings:
+
+* vv 1 and 2  -  David calls out to God for help and bows to Him in submission
+* vv 3 to 5   -  David promises to have nothing to do with idolatry
+* vv 6 to 7   -  God is entirely sufficient for David
+* vv 8 to 9   -  David vows to keep God always before him, just as Jesus did
+* vv 10 to 11 -  David prophesies about Jesus' resurrection, and the Christian's eternal future
