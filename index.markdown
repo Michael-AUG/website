@@ -47,5 +47,5 @@ Alongside my sermons, you will find a few articles I've written, and a brief int
 
 I hope that this website is a blessing to you, and that the Lord will speak to you through what you read or hear.
 
-God bless
+God bless <br>
 Michael
