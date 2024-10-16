@@ -3,7 +3,7 @@ layout: page
 title: Who is Jesus?
 permalink: /jesus/
 ---
-*I wrote this article when I was an Elder in a Church down in Essex, and have attempted to give a brief introduction to the Christian faith and to the person of Jesus Christ. I hope it helps you.*
+*I wrote this article when I was an Elder in a previous Church. The aim was to give a brief introduction to the Christian faith and to the person of Jesus Christ, particularly for those who were new to faith and the doctrines of grace. I hope it helps you.*
 
 **Who is Jesus?**
 
@@ -38,7 +38,7 @@ As they walked home in the heat of the afternoon, a stranger comes alongside the
 
 *"Did not our hearts burn within us while He talked to us on the road, while He opened to us the Scriptures?"*
 
-*– St Luke 24. 32; ESVUK*
+*– Luke 24. 32; ESVUK*
 
 **How is this relevant today?**
 
@@ -46,13 +46,13 @@ Today, nearly two thousand years after His death, several million people open th
 
 *"I came that they may have life and have it abundantly."*
 
-*– St John 10. 10; ESVUK*
+*– John 10. 10; ESVUK*
 
 The Gospels teach that a relationship with God is the most precious thing any of us could ever dream of, and leads to the most fulfilling life that can ever be experienced. It is important to note that Jesus never promised His followers an easy life; indeed, Jesus actually said:
 
 *"If they persecuted Me, they will also persecute you. If they kept My word, they will also keep yours."*
 
-*– St John 15. 20; ESVUK*
+*– John 15. 20; ESVUK*
 
 However, St Paul, one of the early followers and preachers of Jesus Christ, who helped found churches all over the world, wrote (in his letter to the church in Philippi)
 
@@ -67,10 +67,3 @@ Even though it may sometimes make for uneasy conversations, funny looks while ou
 Both through reading the Bible and through joining your local church, you can discover that Jesus transforms the lives of all those who come to Him. For more information, contact a church near you, or reach out to contact me (email address below).
 
 Written by Michael RJ Topple - April 2021.
-
-<html>
-<video width="500" height="500" autoplay loop>
-<source src="/media/SnakeCross.mp4" type="video/mp4">
-Your browser does not support the video tag.
-</video>
-</html>

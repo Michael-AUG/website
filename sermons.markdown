@@ -9,9 +9,6 @@ permalink: /sermons/
 # Recent sermons are displayed below
 As well as letting you read my sermons, you are also (in most cases) able to listen to a recording from when it was preached 'live'. Just click on the play button above where the sermon is displayed.
 
-![Michael mid-sermon at Dowanvale Free Church of Scotland](media/MichaelDV.png)
-<br>*Michael, [mid sermon, at Dowanvale Free Church of Scotland - December 2023](https://www.topple.scot/jekyll/update/2023/12/10/carryon.html)*
-
 <ul>
   {% for post in site.posts %}
     <li>

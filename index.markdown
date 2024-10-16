@@ -14,9 +14,6 @@ layout: page
 <iframe framespacing="0" frameborder="no" src="https://www.biblegateway.com/votd/get/?format=html&version=ESVUK">View Verse of the Day</iframe>
 </noscript><br> 
 
-![Michael at the top of Bealach na Bà, overlooking the Applecross Peninsula (Wester Ross, Highlands)](/media/michael.jpg)
-*Michael at the top of Bealach na Bà, overlooking the Applecross Peninsula (Wester Ross, Highlands)*
-
 <html>
     <label id="lblGreetings"></label>
 
@@ -38,7 +35,7 @@ layout: page
 </script>
 </html>
 
-Welcome to my website: my name is Michael Topple and I'm a Christian and a preacher, living just south of Glasgow in Scotland. I'm married to Jacqueline (Jax) and we are members of [Dowanvale Free Church of Scotland](https://www.dowanvale.org). In the Church, I work as the Church Administrator, while Jax volunteers as the Church Treasurer. Alongside my paid work as the Administrator, I am also a Theology student and occasional preacher in various churches (Free Church and others) across the west of Scotland.
+Welcome to my website, the purpose of which is to share my sermons with those who are interested in hearing them. It is my privilege to be a Christian, a member of [Dowanvale Free Church of Scotland](https://www.dowanvale.org), and a lay preacher within the Free Church. My paid employment is working as the Church Administrator at Dowanvale, while my wife Jacqueline volunteers as the Church Treasurer. Alongside this work I study part time with the [Edinburgh Theological Seminary](https://www.ets.ac.uk).
 
 The name of this website is a reference to the words of Romans 10. 14:
 
@@ -46,7 +43,7 @@ The name of this website is a reference to the words of Romans 10. 14:
 > And how are they to believe in him of whom they have never heard?
 > And how are they to hear without someone preaching? (ESV)
 
-The primary intention of this website is to be somewhere I can upload sermons I've preached, in the hope that they will be of use to people. Also on here you will see a few articles I've written, and a brief introduction to one of my other hobbies: collecting Communion Tokens.
+Alongside my sermons, you will find a few articles I've written, and a brief introduction to one of my other hobbies: collecting Communion Tokens.
 
 I hope that this website is a blessing to you, and that the Lord will speak to you through what you read or hear.
 

@@ -1,13 +1,13 @@
 ---
 layout: page
-title: My Beliefs
-permalink: /beliefs/
+title: Summary of Faith
+permalink: /faith/
 ---
 
 # But what do I believe?
 Well, the answer to that is fairly simple - I believe that the Bible is the inspired Word of God and that we add to it or subtract from it at our peril.
 
-Ever since the earliest days of the church, Christians have laid out their beliefs in brief ‘creeds’ or ’confessions’ in an attempt to summarise essential Christian truths and to guard the church from error. These statements are always secondary to the Bible but they are enormously helpful. Allow me to introduce you to the **Westminster Confession of Faith** - a document written in 1647 but every bit as relevant today as it was when first written. It's quite a long read but, I think, worth it. Alongside the Westminster Confession, there are sister documents (such as the [Shorter](https://thewestminsterstandard.org/westminster-shorter-catechism/) and [Larger](https://thewestminsterstandard.org/westminster-larger-catechism/) Catechisms) which can also help clarify our faith. 
+Ever since the earliest days of the church, Christians have laid out their beliefs in brief ‘creeds’ or ’confessions’ in an attempt to summarise essential Christian truths and to guard the church from error. These statements are always secondary to the Bible but they are enormously helpful. Allow me to introduce you to the **Westminster Confession of Faith** - a document written in 1647 but every bit as relevant today as it was when first written. It's quite a long read but, I think, worth it. Alongside the Westminster Confession, there are sister documents (such as the [Shorter](https://thewestminsterstandard.org/westminster-shorter-catechism/) and [Larger](https://thewestminsterstandard.org/westminster-larger-catechism/) Catechisms, the [Directory for Public Worship](https://www.fpchurch.org.uk/about-us/important-documents/the-directory-for-public-worship/) and the [Directory for Family Worship](https://www.fpchurch.org.uk/about-us/important-documents/the-directory-for-family-worship/)) which can also help clarify our faith. 
 
 ![Westminster Confession](media/westminster.jpg)
 <br>*The Assertion of Liberty of Conscience by the Independents at the Westminster Assembly of Divines, painted by John Rogers Herbert, c. 1844 - Public Domain*
