@@ -35,7 +35,7 @@ layout: page
 </script>
 </html>
 
-Welcome to my website, the purpose of which is to share my sermons with those who are interested in hearing them. It is my privilege to be a Christian, a member of [Dowanvale Free Church of Scotland](https://www.dowanvale.org), and a lay preacher within the Free Church. My paid employment is working as the Church Administrator at Dowanvale, while my wife Jacqueline volunteers as the Church Treasurer. Alongside this work I study part time with the [Edinburgh Theological Seminary](https://www.ets.ac.uk).
+Welcome to my website, the purpose of which is to share my sermons with those who are interested in hearing them. It is my privilege to be a Christian, a member of [Dowanvale Free Church of Scotland](https://www.dowanvale.org), and a lay preacher within the Free Church. My paid employment is working as the Church Administrator at Dowanvale, while my wife Jacqueline volunteers as the Church Treasurer. Alongside this work I study part time with the [Edinburgh Theological Seminary](https://www.ets.ac.uk), having previously read for my BD (Bachelor of Divinity) at the University of Glasgow.
 
 The name of this website is a reference to the words of Romans 10. 14:
 
