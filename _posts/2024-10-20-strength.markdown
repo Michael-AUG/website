@@ -1,0 +1,22 @@
+---
+layout: post
+title:  "SERMON - I am weak, but He is strong - 20th October 2024 - Dowanvale Free Church of Scotland "
+date:   2024-10-20 19:30:07
+categories: jekyll update
+excerpt_separator: <!-- excerpt-end -->
+---
+Click below to listen to the sermon being preached:
+<iframe width="560" height="315" src="https://www.youtube.com/embed/W20VZOhzt0E?si=NXNNdarlpVHnY5eU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+Reading: Exodus 4
+
+Sermon headings:
+* God is Sovereign
+* God is Sovereign over Created Order
+* God is Sovereign over the Serpent
+* God is Sovereign over Leprosy/Sickness
+* God is Sovereign over Lifeblood
+* God provides Help
+* Moses: I can't do it. God: I can. x3
+* God seeks to put Moses to death
+* Call to Obedience and Faith in Home Life
