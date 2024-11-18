@@ -1,0 +1,25 @@
+---
+layout: post
+title:  "SERMON - Who is Jesus? - 17th November 2024 - Oban Free Church of Scotland "
+date:   2024-11-17 19:30:07
+categories: jekyll update
+excerpt_separator: <!-- excerpt-end -->
+---
+Click below to listen to the sermon being preached:
+<audio controls>
+<source src="/media/Jesus.mp3" type="audio/mpeg">
+Your browser does not support the audio element.
+</audio>
+
+Reading: Hebrews 1
+
+Sermon headings:
+* Who is Jesus?
+  * Son
+  * Heir
+  * Imprint
+* What has Jesus done?
+  * Co-created
+  * Purified
+* What does Jesus do?
+  * Sustains
