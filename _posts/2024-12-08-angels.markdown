@@ -1,0 +1,31 @@
+---
+layout: post
+title:  "SERMON - Playing with the Wrapping Paper - 8th December 2024 - Oban Free Church of Scotland "
+date:   2024-11-17 19:30:07
+categories: jekyll update
+excerpt_separator: <!-- excerpt-end -->
+---
+Click below to listen to the sermon being preached:
+<audio controls>
+<source src="/media/wrappingpaper.mp3" type="audio/mpeg">
+Your browser does not support the audio element.
+</audio>
+
+Reading: Hebrews 1
+
+Sermon headings:
+* Introduction
+* What were they doing?
+  * Jesus, a prophet?
+  * Jesus, an angel?
+* What does God have to say?
+  * "You are my Son"
+  * "I will be to Him a Father..."
+  * "Let all God's angels worship Him"
+  * "He makes His angels..."
+  * "Your throne, O God..."
+  * "You, Lord, laid the foundation..."
+  * "Sit at my right hand..."
+* Why does this matter?
+  * Playing with the wrapping paper
+  * Mud pies in the slum, or a sandcastle at the beach?
