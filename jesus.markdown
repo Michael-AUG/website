@@ -3,6 +3,21 @@ layout: page
 title: Who is Jesus?
 permalink: /jesus/
 ---
+<script>
+function redirectToPage() {
+  const currentDate = new Date();
+  const dayOfWeek = currentDate.getDay(); // 0 = Sunday, 1 = Monday, ..., 6 = Saturday
+
+  if (dayOfWeek === 0) {
+    // Redirect to the desired page on Sundays
+    window.location.replace('/sabbath'); // Replace '/path/to/sunday-page' with the actual URL of your Sunday page
+  }
+}
+
+// Call the function when the page loads
+window.onload = redirectToPage;
+</script>
+
 *I wrote this article when I was an Elder in a previous Church. The aim was to give a brief introduction to the Christian faith and to the person of Jesus Christ, particularly for those who were new to faith and the doctrines of grace. I hope it helps you.*
 
 **Who is Jesus?**
