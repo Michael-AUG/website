@@ -11,7 +11,7 @@ function redirectToPage() {
 
   if (dayOfWeek === 0) {
     // Redirect to the desired page on Sundays
-    window.location.replace('/path/to/sunday-page'); // Replace '/path/to/sunday-page' with the actual URL of your Sunday page
+    window.location.replace('/sabbath'); // Replace '/path/to/sunday-page' with the actual URL of your Sunday page
   }
 }
 
