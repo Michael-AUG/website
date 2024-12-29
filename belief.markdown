@@ -3,6 +3,20 @@ layout: page
 title: Summary of Faith
 permalink: /faith/
 ---
+<script>
+function redirectToPage() {
+  const currentDate = new Date();
+    const dayOfWeek = currentDate.getDay(); // 0 = Sunday, 1 = Monday, ..., 6 = Saturday
+
+      if (dayOfWeek === 0) {
+          // Redirect to the desired page on Sundays
+              window.location.replace('/sabbath'); // Replace '/path/to/sunday-page' with the actual URL of your Sunday page
+                }
+                }
+
+                // Call the function when the page loads
+                window.onload = redirectToPage;
+                </script>
 
 # But what do I believe?
 Well, the answer to that is fairly simple - I believe that the Bible is the inspired Word of God and that we add to it or subtract from it at our peril.

@@ -6,6 +6,20 @@ layout: page
 title: Communion Tokens
 permalink: /tokens/
 ---
+<script>
+function redirectToPage() {
+  const currentDate = new Date();
+    const dayOfWeek = currentDate.getDay(); // 0 = Sunday, 1 = Monday, ..., 6 = Saturday
+
+      if (dayOfWeek === 0) {
+          // Redirect to the desired page on Sundays
+              window.location.replace('/sabbath'); // Replace '/path/to/sunday-page' with the actual URL of your Sunday page
+                }
+                }
+
+                // Call the function when the page loads
+                window.onload = redirectToPage;
+                </script>
 As well as various other things, I collect communion tokens. Communion tokens were used in most Scottish Churches (and churches in other countries around the world) to ensure that only the members were able to attend Communion services and take the bread and wine.
 
 Traditionally Communion season (which was celebrated quarterly) was preceded by a visit from your Elder. The Elder would distribute your token which you would then present on the Sunday for admission to the Lord's Table.
