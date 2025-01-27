@@ -19,10 +19,10 @@ function redirectToPage() {
 window.onload = redirectToPage;
 </script>
 
-> **I have taken vows before You;**
-> ** to my God I will be true.**
-> **Sacrifices of thanksgiving**
-> ** I will gladly give to You.**
+> I have taken vows before You; <br>
+>  to my God I will be true. <br>
+> Sacrifices of thanksgiving <br>
+>  I will gladly give to You. <br>
 *Psalm 56. 12 (Sing Psalms)*
 
 <script src="https://www.biblegateway.com/votd/votd.write.callback.js"></script>
