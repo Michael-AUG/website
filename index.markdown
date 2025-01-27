@@ -19,8 +19,11 @@ function redirectToPage() {
 window.onload = redirectToPage;
 </script>
 
-**"We refuse to practice cunning or to tamper with God's word"**
-*2 Corinthians 4. 2b*
+> **I have taken vows before You;**
+> ** to my God I will be true.**
+> **Sacrifices of thanksgiving**
+> ** I will gladly give to You.**
+*Psalm 56. 12 (Sing Psalms)*
 
 <script src="https://www.biblegateway.com/votd/votd.write.callback.js"></script>
 <script src="https://www.biblegateway.com/votd/get/?format=json&version=ESVUK&callback=BG.votdWriteCallback"></script>

@@ -1,0 +1,21 @@
+---
+layout: post
+title:  "SERMON - Hold Tight and Do Not Drift - 26th January 2025 - Oban Free Church of Scotland "
+date:   2025-01-26 19:30:07
+categories: jekyll update
+#excerpt_separator: <!-- excerpt-end -->
+---
+Click below to listen to the sermon being preached:
+<audio controls>
+<source src="/media/tight.mp3" type="audio/mpeg">
+Your browser does not support the audio element.
+</audio>
+
+Reading: Hebrews 2. 1-4
+
+Sermon headings:
+* What have **they** heard?
+* What have **we** heard?
+* How are **they** drifting? Where will that lead?
+* How are **we** drifting? Where will that lead?
+* What can **they/we** do?
