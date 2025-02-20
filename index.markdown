@@ -26,10 +26,10 @@ window.onload = redirectToPage;
 *Psalm 56. 12 (Sing Psalms)*
 
 <script src="https://www.biblegateway.com/votd/votd.write.callback.js"></script>
-<script src="https://www.biblegateway.com/votd/get/?format=json&version=ESVUK&callback=BG.votdWriteCallback"></script>
+<script src="https://www.biblegateway.com/votd/get/?format=json&version=NKJV&callback=BG.votdWriteCallback"></script>
 <!-- alternative for no javascript -->
 <noscript>
-<iframe framespacing="0" frameborder="no" src="https://www.biblegateway.com/votd/get/?format=html&version=ESVUK">View Verse of the Day</iframe>
+<iframe framespacing="0" frameborder="no" src="https://www.biblegateway.com/votd/get/?format=html&version=NKJV">View Verse of the Day</iframe>
 </noscript><br> 
 
 <html>
@@ -57,9 +57,7 @@ Welcome to my website, the purpose of which is to share my sermons with those wh
 
 The name of this website is a reference to the words of Romans 10. 14:
 
-> How then will they call on him in whom they have not believed?
-> And how are they to believe in him of whom they have never heard?
-> And how are they to hear without someone preaching? (ESV)
+> How then shall they call on Him in whom they have not believed? And how shall they believe in Him of whom they have not heard? And how shall they hear without a preacher? (NKJV)
 
 Alongside my sermons, you will find a few articles I've written, and a brief introduction to one of my other hobbies: collecting Communion Tokens.
 
