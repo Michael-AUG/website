@@ -1,0 +1,20 @@
+---
+layout: post
+title:  "SERMON - Did you receive the Holy Spirit? - 2nd March 2025 - Kilwinning Free Church"
+date:   2025-02-23 23:30:07
+categories: jekyll update
+#excerpt_separator: <!-- excerpt-end -->
+---
+Click below to listen to the sermon being preached:
+<audio controls>
+<source src="/media/spirit.mp3" type="audio/mpeg">
+Your browser does not support the audio element.
+</audio>
+
+Reading: Acts 19. 1-7
+
+Sermon headings:
+* What do we know of the Twelve?
+* What did the Twelve know of Christ?
+* What did they need?
+* What do we need? What can we learn?
