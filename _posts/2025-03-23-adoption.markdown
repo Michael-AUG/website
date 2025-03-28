@@ -1,0 +1,17 @@
+---
+layout: post
+title:  "SERMON - Adoption: Slavery to Sonship - 23rd March 2025 - Ayr Free Church"
+date:   2025-03-23 23:30:07
+categories: jekyll update
+#excerpt_separator: <!-- excerpt-end -->
+---
+Click below to listen to the sermon being preached:
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mJiobtTf7rQ?si=KAcdhC-m-EGoqpdE&amp;start=1255" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+Reading: Galatians 4. 1-7
+
+Sermon headings:
+* Vv. 1-2 - the Illustration
+* Vv. 3-7 - the Application
+  * Vv. 3-5 - the Change
+  * Vv. 6-7 - the Evidence
