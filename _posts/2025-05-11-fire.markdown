@@ -1,0 +1,18 @@
+---
+layout: post
+title:  "SERMON - The Ever Burning Fire - 11th May 2025 - Oban High Free Church"
+date:   2025-05-12 23:31:07
+categories: jekyll update
+#excerpt_separator: <!-- excerpt-end -->
+---
+Click below to listen to the sermon being preached:
+<audio controls>
+<source src="/media/fire.mp3" type="audio/mpeg">
+Your browser does not support the audio element.
+</audio>
+Reading: Leviticus 6. 8-13
+
+Sermon headings:
+* The Lord spoke to Moses (vv. 8-9)
+* Sacred Garments for Dirty Jobs (vv. 10-11)
+* The Fire that never Ceases (vv. 12-13)
