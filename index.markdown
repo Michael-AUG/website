@@ -4,6 +4,8 @@
 
 layout: page
 ---
+![Oban High Free Church](/media/pano.jpg)
+
 <script>
 function redirectToPage() {
   const currentDate = new Date();
