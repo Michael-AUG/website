@@ -17,6 +17,13 @@ This website is closed on Sundays to help you to observe the Sabbath as well.
 *But the seventh day is the sabbath of the LORD thy God: in it thou shalt not do any work.*
 (From Exodus 20. 8-10)
 
+*And the women also, which came with Him from Galilee, followed after,* 
+*and beheld the sepulchre, and how His body was laid.*
+*And they returned, and prepared spices and ointments; and rested*
+*the sabbath day according to the commandment.*
+(From Luke 23. 55-56)
+
+
 For a more detailed explanation of why Christians mark the Sabbath, see the below extracts from the 21st chapter of the Westminster Confession (1647)
 
 <p>7. As it is the law of nature, that, in general, a due proportion of time be set apart for the worship of God; so, in His Word, by a positive, moral, and perpetual commandment, binding all men, in all ages
