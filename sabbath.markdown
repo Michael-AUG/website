@@ -1,4 +1,4 @@
----
+b0074m37---
 layout: page
 permalink: /sabbath/
 ---
@@ -7,20 +7,20 @@ permalink: /sabbath/
 
 ![Sabbath](/media/sabbath.jpg)
 <br>*Image courtesy of Crosswalk.com*
-<br>
+<br><br>
 On Sunday, Christians particularly recall Jesus' rising from the dead. Because of this, Sunday is set aside as a day of worship and praise, rest and family time. 
 
 This website is closed on Sundays to help you to observe the Sabbath as well.
 
-*Remember the sabbath day, to keep it holy.*
-*Six days shalt thou labour, and do all thy work:*
-*But the seventh day is the sabbath of the LORD thy God: in it thou shalt not do any work.*
+*Remember the sabbath day, to keep it holy.*<br>
+*Six days shalt thou labour, and do all thy work:*<br>
+*But the seventh day is the sabbath of the LORD thy God: in it thou shalt not do any work.*<br>
 (From Exodus 20. 8-10)
 
-*And the women also, which came with Him from Galilee, followed after,* 
-*and beheld the sepulchre, and how His body was laid.*
-*And they returned, and prepared spices and ointments; and rested*
-*the sabbath day according to the commandment.*
+*And the women also, which came with Him from Galilee, followed after,*<br>
+*and beheld the sepulchre, and how His body was laid.*<br>
+*And they returned, and prepared spices and ointments; and rested*<br>
+*the sabbath day according to the commandment.*<br>
 (From Luke 23. 55-56)
 
 
