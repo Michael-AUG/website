@@ -1,0 +1,17 @@
+---
+layout: post
+title:  "SERMON - Consider Christ Jesus - 18th May 2025 - Oban High Free Church"
+date:   2025-05-19 23:30:01
+categories: jekyll update
+#excerpt_separator: <!-- excerpt-end -->
+---
+Click below to listen to the sermon being preached:
+<audio controls>
+<source src="/media/consider.mp3" type="audio/mpeg">
+Your browser does not support the audio element.
+</audio>
+Reading: Hebrews 3. 1-6
+
+Sermon headings:
+* The Holy Address
+* The Holy Exhortation

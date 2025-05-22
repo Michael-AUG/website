@@ -1,0 +1,18 @@
+---
+layout: post
+title:  "SERMON - The Wages of Sin - 18th May 2025 - Oban High Free Church"
+date:   2025-05-19 23:30:07
+categories: jekyll update
+#excerpt_separator: <!-- excerpt-end -->
+---
+Click below to listen to the sermon being preached:
+<audio controls>
+<source src="/media/sin.mp3" type="audio/mpeg">
+Your browser does not support the audio element.
+</audio>
+Reading: Romans 6. 16-23
+
+Sermon headings:
+* The Master we serve
+* The contracts by which we serve
+* The destinations to which we go
