@@ -55,7 +55,7 @@ window.onload = redirectToPage;
 </script>
 </html>
 
-Welcome to my website, the purpose of which is to share my sermons with those who are interested in hearing them. It is my privilege to be a Christian, a Deacon in [Dowanvale Free Church of Scotland](https://www.dowanvale.org), and a lay preacher across the Presbytery. My paid employment is working as the Church Administrator at Dowanvale, while my wife Jacqueline volunteers as the Church Treasurer. Alongside my work I study part time with the [Edinburgh Theological Seminary](https://www.ets.ac.uk), having previously read for my BD (Bachelor of Divinity) degree at the [University of Glasgow](https://glasgow.ac.uk).
+Welcome to my website, the purpose of which is to share my sermons with those who are interested in hearing them. It is my privilege to be a Christian, and a Deacon in [Dowanvale Free Church of Scotland](https://www.dowanvale.org). My paid employment is working as the Church Administrator at Dowanvale, while my wife Jacqueline volunteers as the Church Treasurer. Alongside my work I have studied part time with the [Edinburgh Theological Seminary](https://www.ets.ac.uk), having previously read for my BD (Bachelor of Divinity) degree at the [University of Glasgow](https://glasgow.ac.uk). I am not a minister of the Gospel, but preach as one who ["intend[s] the ministry" - see here](https://thewestminsterstandard.org/directory-for-the-publick-worship-of-god/#3)*. 
 
 The name of this website is a reference to the words of Romans 10. 14:
 
