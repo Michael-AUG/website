@@ -20,7 +20,7 @@
 
 title: ten:fourteen
 email: michael@topple.scot
-description: Sermons from Michael Topple
+description: Sermons from the Isle of Lewis and beyond
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://www.topple.scot" # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: jekyllrb
@@ -31,43 +31,5 @@ theme: minima
 plugins:
   - jekyll-feed
 
-# Links to include in menu navigation
-#links:
-#  section_1:
-#    - title: Home
-#      url: /
-#      key_trigger: 1
-#    - title: Blogs/Sermons
-#      url: /blogs
-#      key_trigger: 2
-#    - title: My Beliefs
-#      url: /beliefs
-#      key_trigger: 3
-#    - title: Societies
-#      url: /societies
-#      key_trigger: 4
-#    - title: societies
-#      url: /societies
-#      key_trigger: 4
 
-
-# Exclude from processing.
-# The following items will not be processed, by default.
-# Any item listed under the `exclude:` key here will be automatically added to
-# the internal "default list".
-#
-# Excluded items can be processed by explicitly listing the directories or
-# their entries' file path in the `include:` list.
-#
-# exclude:
-#   - .sass-cache/
-#   - .jekyll-cache/
-#   - gemfiles/
-#   - Gemfile
-#   - Gemfile.lock
-#   - node_modules/
-#   - vendor/bundle/
-#   - vendor/cache/
-#   - vendor/gems/
-#   - vendor/ruby/
 future: false
