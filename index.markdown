@@ -1,7 +1,4 @@
 ---
-# Feel free to add content and custom Front Matter to this file.
-# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-
 layout: page
 ---
 ![Oban High Free Church](/media/pano.jpg)
@@ -55,7 +52,7 @@ window.onload = redirectToPage;
 </script>
 </html>
 
-Welcome to my website, the purpose of which is to share my sermons with those who are interested in hearing them. It is my privilege to be a Christian, and a Deacon in [Dowanvale Free Church of Scotland](https://www.dowanvale.org). My paid employment is working as the Church Administrator at Dowanvale, while my wife Jacqueline volunteers as the Church Treasurer. Alongside my work I undertaken a year's part time study with the [Edinburgh Theological Seminary](https://www.ets.ac.uk), having previously read for my BD (Bachelor of Divinity) degree at the [University of Glasgow](https://glasgow.ac.uk). Although I trained for ministry in a previous denomination (which I left on theological grounds), I am not a minister of the Gospel, but preach as one who ["intend[s] the ministry" - see here](https://thewestminsterstandard.org/directory-for-the-publick-worship-of-god/#3).
+Hello from the Isle of Lewis! Welcome to my website, the purpose of which is to share my sermons with those who are interested in hearing them. My name is Michael Topple, and until recently my paid employment was working as the Church Administrator at Dowanvale Free Church of Scotland, where my wife Jacqueline volunteered as the Church Treasurer. Alongside my work I undertook a year's part time study with the [Edinburgh Theological Seminary](https://www.ets.ac.uk), having previously read for my BD (Bachelor of Divinity) degree at the [University of Glasgow](https://glasgow.ac.uk). Although I trained for ministry in a previous denomination (which I left on theological grounds), I am not a minister of the Gospel, but preach as one who ["intend[s] the ministry" - see here](https://thewestminsterstandard.org/directory-for-the-publick-worship-of-god/#3).
 
 The name of this website is a reference to the words of Romans 10. 14:
 
