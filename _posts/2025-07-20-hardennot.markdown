@@ -10,7 +10,7 @@ Click below to listen to the sermon being preached:
 <source src="/media/hardenNot.mp3" type="audio/mpeg">
 Your browser does not support the audio element.
 </audio>
-Reading: Hebrews 3. 1-6
+Reading: Hebrews 3. 7-11
 
 Sermon headings:
 * Spiritual warning
