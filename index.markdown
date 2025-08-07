@@ -48,7 +48,7 @@ window.onload = redirectToPage;
         '<b>' + greet + '!</b>';
 </script>
 
-Welcome to my website, the purpose of which is to share my sermons with those who are interested in hearing them. My wife (Jax) and I attend the Associated Presbyterian Church, Stornoway, and it is my privilege to preach the Gospel fairly frequently. Although I trained for ministry in a previous denomination (which I left on theological grounds), I am not a minister of the Gospel, but preach as one who ["intend[s] the ministry" - see here](https://thewestminsterstandard.org/directory-for-the-publick-worship-of-god/#3).
+Welcome to my website, the purpose of which is to share my sermons with those who are interested in hearing them. My wife (Jax) and I are members of the Associated Presbyterian Church, Stornoway, and it is my privilege to preach the Gospel fairly frequently. Although I trained for ministry in a previous denomination (which I left on theological grounds), I am not a minister of the Gospel, but preach as one who ["intend[s] the ministry" - see here](https://thewestminsterstandard.org/directory-for-the-publick-worship-of-god/#3).
 
 The name of this website is a reference to the words of Romans 10. 14:
 
