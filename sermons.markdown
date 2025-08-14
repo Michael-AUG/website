@@ -23,6 +23,9 @@ function redirectToPage() {
 # Recent sermons are displayed below
 As well as letting you read my sermons, you are also (in most cases) able to listen to a recording from when it was preached 'live'. Just click on the play button above where the sermon is displayed.
 
+Sermons preached in APC Churches can be heard here (or further below)
+<iframe tabindex="-1" width="1" height="540" src="https://embed.sermonaudio.com/browser/broadcaster/apc/speaker/michael%20topple/?sort=newest&page_size=25" style="min-width: 100%; max-width: 100%; " allow="autoplay" frameborder="0" scrolling="no"></iframe>
+
 <ul>
   {% for post in site.posts %}
     <li>
