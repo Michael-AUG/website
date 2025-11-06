@@ -6,6 +6,7 @@ layout: page
 title: Sermons
 permalink: /sermons/
 ---
+<script src="https://www.tbsonlinebible.com/verselinker.min.js" defer></script>
 <script>
 function redirectToPage() {
   const currentDate = new Date();

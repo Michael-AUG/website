@@ -3,6 +3,7 @@ layout: page
 title: Who is Jesus?
 permalink: /jesus/
 ---
+<script src="https://www.tbsonlinebible.com/verselinker.min.js" defer></script>
 <script>
 function redirectToPage() {
   const currentDate = new Date();

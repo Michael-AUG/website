@@ -1,8 +1,8 @@
-b0074m37---
+---
 layout: page
 permalink: /sabbath/
 ---
-
+<script src="https://www.tbsonlinebible.com/verselinker.min.js" defer></script>
 **Today is Sunday - the Christian Sabbath**
 
 ![Sabbath](/media/sabbath.jpg)

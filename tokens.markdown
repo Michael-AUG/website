@@ -6,6 +6,7 @@ layout: page
 title: Communion Tokens
 permalink: /tokens/
 ---
+<script src="https://www.tbsonlinebible.com/verselinker.min.js" defer></script>
 <script>
 function redirectToPage() {
   const currentDate = new Date();

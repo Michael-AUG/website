@@ -1,6 +1,7 @@
 ---
 layout: page
 ---
+<script src="https://www.tbsonlinebible.com/verselinker.min.js" defer></script>
 ![Oban High Free Church](/media/pano.jpg)
 
 <script>
