@@ -25,22 +25,6 @@ window.onload = redirectToPage;
 > I'll render praise to Thee.<br>
 > Psalm 56. 11-12 (Metrical version)
 
-#<script>
-#    var myDate = new Date();
-#    var hrs = myDate.getHours();
-#    var greet;
-#
-#    if (hrs < 12)
-#        greet = 'Good morning, or madainn mhath';
-#    else if (hrs >= 12 && hrs <= 17)
-#        greet = 'Good afternoon, or feasgar math';
-#    else if (hrs >= 17 && hrs <= 24)
-#        greet = 'Good evening, or feasgar math';
-#
-#    document.getElementById('lblGreetings').innerHTML =
-#        '<b>' + greet + '!</b>';
-#</script>
-
 Welcome to my website, the purpose of which is to share my sermons with those who are interested in hearing them. My wife (Jacqueline) and I are members of the Associated Presbyterian Church, Stornoway, and it is my privilege to preach the Gospel fairly frequently. Although I trained for ministry in a previous denomination (which I left on theological grounds), I am not a minister of the Gospel, but preach as one who ["intend[s] the ministry" - see here](https://thewestminsterstandard.org/directory-for-the-publick-worship-of-god/#3).
 
 The name of this website is a reference to the words of Romans 10. 14:
@@ -49,6 +33,8 @@ The name of this website is a reference to the words of Romans 10. 14:
 > and how shall they hear without a preacher?
 
 Alongside my sermons, you will find a few articles I've written, and a brief introduction to one of my other hobbies: collecting Communion Tokens.
+
+In line with my views on Sabbath-keeping, this website is closed on the Lord's Day, reopening on Monday.
 
 I hope that this website is a blessing to you, and that the Lord will speak to you through what you read or hear.
 
