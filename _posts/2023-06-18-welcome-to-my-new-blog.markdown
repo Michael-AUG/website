@@ -14,3 +14,4 @@ Best wishes. God bless,
 *Michael*
 
 ![UoF student handbook](/media/handbook.webp)
+<script src=https://www.tbsonlinebible.com/verselinker.min.js defer></script>

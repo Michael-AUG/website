@@ -98,3 +98,4 @@ Works cited:
 [^13]: Ibid.
 [^14]: Westminster Divines, ‘Larger Catechism’, sec. 99.8.
 [^15]: Ibid., sec 99.
+<script src=https://www.tbsonlinebible.com/verselinker.min.js defer></script>

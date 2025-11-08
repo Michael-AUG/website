@@ -17,3 +17,4 @@ Sermon headings:
 * Apollos' Journey to Ministry
 * The people who helped him on his way
 * The application to our lives
+<script src=https://www.tbsonlinebible.com/verselinker.min.js defer></script>

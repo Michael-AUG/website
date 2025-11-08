@@ -132,3 +132,4 @@ Books cited:
 * Dummelow, J. R., ed. ‘1 Peter’. In A Commentary on the Holy Bible. London: MacMillan and Co. Ltd., 1946.
 * John Gill. John Gill’s Exposition on the Entire Bible - Verse by Verse, 1746. http://archive.org/details/JohnGillsCommentaryOnTheBible.
 * Mason, A. J. ‘1 Peter’. In Ephesians to Revelation, Vol. 8. A Bible Commentary for English Readers. London: Cassell and Co., 1905.
+<script src=https://www.tbsonlinebible.com/verselinker.min.js defer></script>

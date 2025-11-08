@@ -16,3 +16,4 @@ Sermon headings:
 * Who was He Who suffered? (v. 10)
 * How did He suffer? (v. 14)
 * How does He succour? (v. 18)
+<script src=https://www.tbsonlinebible.com/verselinker.min.js defer></script>

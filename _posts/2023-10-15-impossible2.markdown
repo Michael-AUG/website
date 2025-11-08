@@ -125,3 +125,4 @@ Friends, as I said this morning, today's Scripture passage is pretty difficult. 
 This week, I have failed in part of this passage. This week, I suspect you have too. The likelihood is that, next week, I will again fail in some way - but we must press on, ever holding to this desire, to live according to the commandments of God, to live in a way that channels Jesus for those we encounter. For in so doing, we will live lives worthy of the Gospel, in so doing we will treat others as Jesus would have us treat them, and in so doing we will store up our own treasure in heaven.
 
 Now unto him that is able to keep you from falling, and to present you faultless before the presence of his glory with exceeding joy, to the only wise God our Saviour, be glory and majesty, dominion and power, both now and ever. Amen. (Jude 24-25)
+<script src=https://www.tbsonlinebible.com/verselinker.min.js defer></script>

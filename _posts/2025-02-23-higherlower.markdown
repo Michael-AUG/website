@@ -18,3 +18,4 @@ Sermon headings:
 * Jesus: Higher Than
 * Jesus: Lower Than
 * Jesus: Greater Than
+<script src=https://www.tbsonlinebible.com/verselinker.min.js defer></script>

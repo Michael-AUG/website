@@ -21,3 +21,4 @@ Sermon headings:
 * The Flowing Water
 * Jesus as Water and Temple
 * The Sure Future of the Kirk and the Christian
+<script src=https://www.tbsonlinebible.com/verselinker.min.js defer></script>
