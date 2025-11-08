@@ -18,4 +18,5 @@ Sermon headings:
 * Reprove, Rebuke, Exhort
 * Hold to Sound Doctrine
 * Accept Hardship and Be Sober
-<script src=https://www.tbsonlinebible.com/verselinker.min.js defer></script>
+
+<script src="https://www.tbsonlinebible.com/verselinker.min.js" defer></script>

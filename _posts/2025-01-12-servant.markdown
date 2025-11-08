@@ -33,4 +33,5 @@ Sermon headings:
    * Disregard
    * God's Unlikely Servant
 * The Call
-<script src=https://www.tbsonlinebible.com/verselinker.min.js defer></script>
+
+<script src="https://www.tbsonlinebible.com/verselinker.min.js" defer></script>

@@ -399,4 +399,5 @@ ever be found in Him and His Scriptures.
 [^10]: Calvin, *Isaiah 33 - 66*, 8:44.
 
 [^11]: Ibid.
-<script src=https://www.tbsonlinebible.com/verselinker.min.js defer></script>
+
+<script src="https://www.tbsonlinebible.com/verselinker.min.js" defer></script>

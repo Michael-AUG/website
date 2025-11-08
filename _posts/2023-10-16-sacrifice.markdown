@@ -41,4 +41,5 @@ But God is also very much on the side of those who are ready to give things up, 
 Today Jesus may not ask you to lay down your life in His service. To misquote David Mitchell (the TV comedian), 'today you might not die'! But that doesn't mean you won't be led to sacrifice something. It is our duty, as Christians, to be ready for this call that Christ may place on our lives, to hear it and respond to it, knowing that when God calls you to put something down, He is preparing us to take up something far greater still - eternal life at His side, where there is joy forevermore. 
 
 So let us remember those who have made the ultimate sacrifice, but not forget that it was Christ who made the greatest sacrifice the world has ever known, and encourages us to lay down our lives and take up our crosses, that we may follow Him into glory.
-<script src=https://www.tbsonlinebible.com/verselinker.min.js defer></script>
+
+<script src="https://www.tbsonlinebible.com/verselinker.min.js" defer></script>

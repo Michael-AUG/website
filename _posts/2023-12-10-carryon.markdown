@@ -160,4 +160,5 @@ Oxford English Dictionary. 'Blasphemy, n., Sense 1.a'. Oxford University Press, 
 - [50] 1 Tim. 1. 19
 - [51] Hebrews 6. 19
 - [52] 1 Tim. 1. 19
-<script src=https://www.tbsonlinebible.com/verselinker.min.js defer></script>
+
+<script src="https://www.tbsonlinebible.com/verselinker.min.js" defer></script>

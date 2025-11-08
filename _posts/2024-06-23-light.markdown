@@ -396,5 +396,6 @@ class="smallcaps">Amen</span>
 
 [^17]: Calvin, *Isaiah 33 - 66*, 8:13.
 
-[^18]: Ibid., 8:17.
-<script src=https://www.tbsonlinebible.com/verselinker.min.js defer></script>
+[^18]: Ibid., 8:17. 
+
+<script src=""https://www.tbsonlinebible.com/verselinker.min.js"" defer></script>

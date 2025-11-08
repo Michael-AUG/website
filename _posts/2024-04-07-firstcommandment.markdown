@@ -127,4 +127,5 @@ Works cited:
 [^9]: Charles Henry Mackintosh, Notes on the Book of Exodus, 3rd ed. (London: George Morrish, 1862), 238.
 [^10]: Taken from https://aleteia.org/2020/06/24/prayer-to-st-anthony-to-find-an-item-that-was-lost/. Accessed 5th April 2024.
 [^11]: Roderick Lawson, The Shorter Catechism: With Explanatory Notes and Review Questions, Christian Focus Publications ed (Great Britain: Christian Heritage, 2017) A1.
-<script src=https://www.tbsonlinebible.com/verselinker.min.js defer></script>
+
+<script src="https://www.tbsonlinebible.com/verselinker.min.js" defer></script>

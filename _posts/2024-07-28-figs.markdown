@@ -460,4 +460,5 @@ Lord. Amen.[^10]
 
 [^10]: Calvin, *Commentaries on the Prophet Jeremiah and the
     Lamentations*, 2:233 (Modernised).
-<script src=https://www.tbsonlinebible.com/verselinker.min.js defer></script>
+
+<script src="https://www.tbsonlinebible.com/verselinker.min.js" defer></script>

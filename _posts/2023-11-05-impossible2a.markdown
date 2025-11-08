@@ -153,4 +153,5 @@ And lastly we can learn, through Paul's challenging words to us, that it is not 
 	Distorted or true;
 	So, what is the gospel
 	According to you?
-<script src=https://www.tbsonlinebible.com/verselinker.min.js defer></script>
+
+<script src="https://www.tbsonlinebible.com/verselinker.min.js" defer></script>

@@ -409,4 +409,5 @@ hearts, this day and forevermore.
     Britain: Christian Heritage, 2017) Q. 1.
 
 [^21]:  The Rev. E. H. Plumptre DD et al, ‘Matthew, Mark and Luke’, 23.
-<script src=https://www.tbsonlinebible.com/verselinker.min.js defer></script>
+
+<script src="https://www.tbsonlinebible.com/verselinker.min.js" defer></script>

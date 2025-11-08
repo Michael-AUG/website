@@ -18,4 +18,5 @@ Sermon headings:
 * What did the Twelve know of Christ?
 * What did they need?
 * What do we need? What can we learn?
-<script src=https://www.tbsonlinebible.com/verselinker.min.js defer></script>
+
+<script src="https://www.tbsonlinebible.com/verselinker.min.js" defer></script>

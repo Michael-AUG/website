@@ -17,4 +17,5 @@ Sermon headings:
 * What Zophar said and meant
 * The Way of the Wicked
 * The Way of the Cross
-<script src=https://www.tbsonlinebible.com/verselinker.min.js defer></script>
+
+<script src="https://www.tbsonlinebible.com/verselinker.min.js" defer></script>

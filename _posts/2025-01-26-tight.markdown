@@ -19,4 +19,5 @@ Sermon headings:
 * How are **they** drifting? Where will that lead?
 * How are **we** drifting? Where will that lead?
 * What can **they/we** do?
-<script src=https://www.tbsonlinebible.com/verselinker.min.js defer></script>
+
+<script src="https://www.tbsonlinebible.com/verselinker.min.js" defer></script>

@@ -134,4 +134,4 @@ Books cited:
 * The Heidelberg Catechism or, Method of Instruction in the Christian Religion. Edinburgh: The Banner of Truth Trust, 2013.
 * Westminster Divines. ‘The Larger Catechism’. In The Confession of Faith, 49–112. Edinburgh and London: William Blackwood and Sons Ltd., 1969.
 
-<script src=https://www.tbsonlinebible.com/verselinker.min.js defer></script>
+<script src="https://www.tbsonlinebible.com/verselinker.min.js" defer></script>

@@ -16,4 +16,5 @@ Sermon headings:
 * The Master we serve
 * The contracts by which we serve
 * The destinations to which we go
-<script src=https://www.tbsonlinebible.com/verselinker.min.js defer></script>
+
+<script src="https://www.tbsonlinebible.com/verselinker.min.js" defer></script>

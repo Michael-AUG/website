@@ -29,4 +29,5 @@ Sermon headings:
 * Why does this matter?
   * Playing with the wrapping paper
   * Mud pies in the slum, or a sandcastle at the beach?
-<script src=https://www.tbsonlinebible.com/verselinker.min.js defer></script>
+
+<script src="https://www.tbsonlinebible.com/verselinker.min.js" defer></script>

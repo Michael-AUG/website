@@ -16,4 +16,5 @@ Sermon headings:
 * The Lord spoke to Moses (vv. 8-9)
 * Sacred Garments for Dirty Jobs (vv. 10-11)
 * The Fire that never Ceases (vv. 12-13)
-<script src=https://www.tbsonlinebible.com/verselinker.min.js defer></script>
+
+<script src="https://www.tbsonlinebible.com/verselinker.min.js" defer></script>

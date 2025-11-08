@@ -25,4 +25,5 @@ Reading: Psalm 7
 * vv. 11-13	God is a just judge.
 * vv. 14-16	David describes the process of sin.
 * v. 17		God is worthy of all praise.
-<script src=https://www.tbsonlinebible.com/verselinker.min.js defer></script>
+
+<script src="https://www.tbsonlinebible.com/verselinker.min.js" defer></script>

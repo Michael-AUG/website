@@ -15,4 +15,5 @@ Sermon headings:
 * Vv. 3-7 - the Application
   * Vv. 3-5 - the Change
   * Vv. 6-7 - the Evidence
-<script src=https://www.tbsonlinebible.com/verselinker.min.js defer></script>
+
+<script src="https://www.tbsonlinebible.com/verselinker.min.js" defer></script>

@@ -20,4 +20,5 @@ Sermon headings:
 * Moses: I can't do it. God: I can. x3
 * God seeks to put Moses to death
 * Call to Obedience and Faith in Home Life
-<script src=https://www.tbsonlinebible.com/verselinker.min.js defer></script>
+
+<script src="https://www.tbsonlinebible.com/verselinker.min.js" defer></script>

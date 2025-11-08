@@ -23,4 +23,5 @@ Sermon headings:
   * Purified
 * What does Jesus do?
   * Sustains
-<script src=https://www.tbsonlinebible.com/verselinker.min.js defer></script>
+
+<script src="https://www.tbsonlinebible.com/verselinker.min.js" defer></script>
